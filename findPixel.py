@@ -9,7 +9,9 @@ pixel_file.close()
 
 
 def findByCoordinates(pixels, r, phi, z, 
-                      r_tolerance = 1., phi_tolerance = 0.1, z_tolerance = 1.):
+                      r_tolerance = 1., 
+                      phi_tolerance = 0.1, 
+                      z_tolerance = 1.):
     
     selectedPix = OrderedDict()
     
@@ -36,45 +38,21 @@ def findByFEDandChannel(pixels, fed, ch):
 
 
 
-centerPix = findByCoordinates(pixels, 6.13085, -1.43071, -33.8437)
 
-
+# example of how to select all ROCs belonging to Layer-1
 lyrone = []
-
 for k,v in pixels.iteritems():
     if 'LYR1' in k:
-        #print v.FED, v.channel
         lyrone.append((v.FED, v.channel))
 
-# print FED and channel for all layer 1 related stuff
 print set(lyrone)
 
 
 
+# example of how to select ROCs based on their r, phi and z position. 
+# r coordinate identifies the layer
 holes = {}
 holes.update(findByCoordinates(pixels, 4, 0.5, 10))
 holes.update(findByCoordinates(pixels, 4, 1.2,  3))
-
-
-
-
-# 344018180 FPix_BmI_D1_BLD12_PNL1_PLQ1 r/phi/z = 6.23085/-1.46071/-33.6437 cmssw side/disk/blade/pannel/plaq=1/1/19/1/1 0.939693
-
-
-
-
-
-
-
-
-# sector 3 or what? control power tripped 
-# 
-# monitor currents analog and digital
-# 
-# optical power current
-# 
-# address lv calib
-# 
-# delay 25 calib   make sure we're talking to the detector
-
-
+for k,v in bb.items(): 
+    print k, v.FED, v.channel, v.phi, v.z
