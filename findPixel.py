@@ -9,7 +9,7 @@ pixel_file.close()
 
 
 def findByCoordinates(pixels, r, phi, z, 
-                      r_tolerance = 0.5, phi_tolerance = 0.1, z_tolerance = 1.):
+                      r_tolerance = 1., phi_tolerance = 0.1, z_tolerance = 1.):
     
     selectedPix = OrderedDict()
     
@@ -43,10 +43,18 @@ lyrone = []
 
 for k,v in pixels.iteritems():
     if 'LYR1' in k:
-        print v.FED, v.channel
+        #print v.FED, v.channel
         lyrone.append((v.FED, v.channel))
 
+# print FED and channel for all layer 1 related stuff
 print set(lyrone)
+
+
+
+holes = {}
+holes.update(findByCoordinates(pixels, 4, 0.5, 10))
+holes.update(findByCoordinates(pixels, 4, 1.2,  3))
+
 
 
 
