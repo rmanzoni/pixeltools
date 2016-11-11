@@ -18,12 +18,38 @@ class PixelROC(object):
         self.r           = -99.
         self.phi         = -99.
         self.z           = -99.
+        self.layer       = -99
+        self.ladder      = -99
+        self.module      = -99
+        self.side        = -99
+        self.disk        = -99
+        self.blade       = -99
+        self.pannel      = -99
+        self.plaq        = -99
     
     def setcoordinates(self, r, phi, z):
         self.r   = float(r)
         self.phi = float(phi)
         self.z   = float(z)          
-    
+
+    def _setcmslabelBPIX(self, layer, ladder, module):
+        self.layer  = int(layer)
+        self.ladder = int(ladder)
+        self.module = int(module)          
+
+    def _setcmslabelFPIX(self, side, disk, blade, pannel, plaq):
+        self.side   = int(side)
+        self.disk   = int(disk)
+        self.blade  = int(blade)          
+        self.pannel = int(pannel)          
+        self.plaq   = int(plaq)          
+
+    def setcmslabel(self, coords):
+        if len(coords) == 3:
+            self._setcmslabelBPIX(coords[0], coords[1], coords[2])
+        if len(coords) == 5:
+            self._setcmslabelFPIX(coords[0], coords[1], coords[2], coords[3], coords[4])
+
     def __str__(self):
         toprint = '{name}\n'\
             '\tFEC          {FEC}\n'\
@@ -36,7 +62,15 @@ class PixelROC(object):
             '\tchannel      {channel}\n'\
             '\tr            {r}\n'\
             '\tphi          {phi}\n'\
-            '\tz            {z}\n'.format(
+            '\tz            {z}\n'\
+            '\tlayer        {layer}\n'\
+            '\tladder       {ladder}\n'\
+            '\tmodule       {module}\n'\
+            '\tside         {side}\n'\
+            '\tdisk         {disk}\n'\
+            '\tblade        {blade}\n'\
+            '\tpannel       {pannel}\n'\
+            '\tplaq         {plaq}\n'.format(
                  name        = self.name       ,
                  FEC         = self.FEC        ,
                  mfec        = self.mfec       ,
@@ -49,6 +83,14 @@ class PixelROC(object):
                  r           = self.r          ,
                  phi         = self.phi        ,
                  z           = self.z          ,
+                 layer       = self.layer      ,
+                 ladder      = self.ladder     ,
+                 module      = self.module     ,
+                 side        = self.side       ,
+                 disk        = self.disk       ,
+                 blade       = self.blade      ,
+                 pannel      = self.pannel     ,
+                 plaq        = self.plaq       ,
             )
         return toprint
     
@@ -94,24 +136,22 @@ if __name__ == '__main__':
     
     modules.close()
 
-
     coordinates = open('pixel_coordinates.txt', 'r')
     for line in coordinates:
         if line.split()[0] == '#':
             continue
         infos = line.split()
         
-        #import pdb ; pdb.set_trace()
-        
-        #name = '_'.join(infos[1].split('_')[:-1])
         name = infos[1]
         
         x, y, z = infos[4].split('/')
-
+        cmscoords = infos[7].split('/')
+        
         names = [nn for nn in pixels.keys() if name in nn]
-
+        
         for nn in names:
             pixels[nn].setcoordinates(x, y, z)
+            pixels[nn].setcmslabel(cmscoords)
 
     coordinates.close()
 

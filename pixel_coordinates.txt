@@ -767,675 +767,675 @@
 302197784 BPix_BpI_SEC5_LYR3_LDR12F_MOD2 r/phi/z = 9.92078/-0.0747998/10.05 cmssw layer/ladder/module 3/44/6 3.06679
 302197788 BPix_BpI_SEC5_LYR3_LDR12F_MOD3 r/phi/z = 9.92078/-0.0747998/16.75 cmssw layer/ladder/module 3/44/7 3.06679
 302197792 BPix_BpI_SEC5_LYR3_LDR12F_MOD4 r/phi/z = 9.92078/-0.0747998/23.45 cmssw layer/ladder/module 3/44/8 3.06679
-352388356 FPix_BpI_D1_BLD6_PNL1_PLQ1 r/phi/z = 6.23085/0.110083/33.6437 cmssw side/disk/blade/pannel/plaq=2/1/1/1/1 -0.939693
-352388360 FPix_BpI_D1_BLD6_PNL1_PLQ2 r/phi/z = 8.70347/0.115998/33.6437 cmssw side/disk/blade/pannel/plaq=2/1/1/1/2 -0.939693
-352388364 FPix_BpI_D1_BLD6_PNL1_PLQ3 r/phi/z = 11.5766/0.119696/33.6437 cmssw side/disk/blade/pannel/plaq=2/1/1/1/3 -0.939693
-352388368 FPix_BpI_D1_BLD6_PNL1_PLQ4 r/phi/z = 14.0506/0.121669/33.6437 cmssw side/disk/blade/pannel/plaq=2/1/1/1/4 -0.939693
-352389380 FPix_BpI_D1_BLD5_PNL1_PLQ1 r/phi/z = 6.23085/0.371883/34.2437 cmssw side/disk/blade/pannel/plaq=2/1/2/1/1 -0.939693
-352389384 FPix_BpI_D1_BLD5_PNL1_PLQ2 r/phi/z = 8.70347/0.377797/34.2437 cmssw side/disk/blade/pannel/plaq=2/1/2/1/2 -0.939693
-352389388 FPix_BpI_D1_BLD5_PNL1_PLQ3 r/phi/z = 11.5766/0.381496/34.2437 cmssw side/disk/blade/pannel/plaq=2/1/2/1/3 -0.939693
-352389392 FPix_BpI_D1_BLD5_PNL1_PLQ4 r/phi/z = 14.0506/0.383468/34.2437 cmssw side/disk/blade/pannel/plaq=2/1/2/1/4 -0.939693
-352390404 FPix_BpI_D1_BLD4_PNL1_PLQ1 r/phi/z = 6.23085/0.633682/34.8437 cmssw side/disk/blade/pannel/plaq=2/1/3/1/1 -0.939693
-352390408 FPix_BpI_D1_BLD4_PNL1_PLQ2 r/phi/z = 8.70347/0.639597/34.8437 cmssw side/disk/blade/pannel/plaq=2/1/3/1/2 -0.939693
-352390412 FPix_BpI_D1_BLD4_PNL1_PLQ3 r/phi/z = 11.5766/0.643295/34.8437 cmssw side/disk/blade/pannel/plaq=2/1/3/1/3 -0.939693
-352390416 FPix_BpI_D1_BLD4_PNL1_PLQ4 r/phi/z = 14.0506/0.645268/34.8437 cmssw side/disk/blade/pannel/plaq=2/1/3/1/4 -0.939693
-352391428 FPix_BpI_D1_BLD3_PNL1_PLQ1 r/phi/z = 6.23085/0.895482/35.4437 cmssw side/disk/blade/pannel/plaq=2/1/4/1/1 -0.939693
-352391432 FPix_BpI_D1_BLD3_PNL1_PLQ2 r/phi/z = 8.70347/0.901396/35.4437 cmssw side/disk/blade/pannel/plaq=2/1/4/1/2 -0.939693
-352391436 FPix_BpI_D1_BLD3_PNL1_PLQ3 r/phi/z = 11.5766/0.905095/35.4437 cmssw side/disk/blade/pannel/plaq=2/1/4/1/3 -0.939693
-352391440 FPix_BpI_D1_BLD3_PNL1_PLQ4 r/phi/z = 14.0506/0.907067/35.4437 cmssw side/disk/blade/pannel/plaq=2/1/4/1/4 -0.939693
-352392452 FPix_BpI_D1_BLD2_PNL1_PLQ1 r/phi/z = 6.23085/1.15728/36.0437 cmssw side/disk/blade/pannel/plaq=2/1/5/1/1 -0.939693
-352392456 FPix_BpI_D1_BLD2_PNL1_PLQ2 r/phi/z = 8.70347/1.1632/36.0437 cmssw side/disk/blade/pannel/plaq=2/1/5/1/2 -0.939693
-352392460 FPix_BpI_D1_BLD2_PNL1_PLQ3 r/phi/z = 11.5766/1.16689/36.0437 cmssw side/disk/blade/pannel/plaq=2/1/5/1/3 -0.939693
-352392464 FPix_BpI_D1_BLD2_PNL1_PLQ4 r/phi/z = 14.0506/1.16887/36.0437 cmssw side/disk/blade/pannel/plaq=2/1/5/1/4 -0.939693
-352393476 FPix_BpI_D1_BLD1_PNL1_PLQ1 r/phi/z = 6.23085/1.41908/36.6437 cmssw side/disk/blade/pannel/plaq=2/1/6/1/1 -0.939693
-352393480 FPix_BpI_D1_BLD1_PNL1_PLQ2 r/phi/z = 8.70347/1.42499/36.6437 cmssw side/disk/blade/pannel/plaq=2/1/6/1/2 -0.939693
-352393484 FPix_BpI_D1_BLD1_PNL1_PLQ3 r/phi/z = 11.5766/1.42869/36.6437 cmssw side/disk/blade/pannel/plaq=2/1/6/1/3 -0.939693
-352393488 FPix_BpI_D1_BLD1_PNL1_PLQ4 r/phi/z = 14.0506/1.43067/36.6437 cmssw side/disk/blade/pannel/plaq=2/1/6/1/4 -0.939693
-352394500 FPix_BpO_D1_BLD1_PNL1_PLQ1 r/phi/z = 6.23085/1.68088/33.6437 cmssw side/disk/blade/pannel/plaq=2/1/7/1/1 -0.939693
-352394504 FPix_BpO_D1_BLD1_PNL1_PLQ2 r/phi/z = 8.70347/1.68679/33.6437 cmssw side/disk/blade/pannel/plaq=2/1/7/1/2 -0.939693
-352394508 FPix_BpO_D1_BLD1_PNL1_PLQ3 r/phi/z = 11.5766/1.69049/33.6437 cmssw side/disk/blade/pannel/plaq=2/1/7/1/3 -0.939693
-352394512 FPix_BpO_D1_BLD1_PNL1_PLQ4 r/phi/z = 14.0506/1.69247/33.6437 cmssw side/disk/blade/pannel/plaq=2/1/7/1/4 -0.939693
-352395524 FPix_BpO_D1_BLD2_PNL1_PLQ1 r/phi/z = 6.23085/1.94268/34.2437 cmssw side/disk/blade/pannel/plaq=2/1/8/1/1 -0.939693
-352395528 FPix_BpO_D1_BLD2_PNL1_PLQ2 r/phi/z = 8.70347/1.94859/34.2437 cmssw side/disk/blade/pannel/plaq=2/1/8/1/2 -0.939693
-352395532 FPix_BpO_D1_BLD2_PNL1_PLQ3 r/phi/z = 11.5766/1.95229/34.2437 cmssw side/disk/blade/pannel/plaq=2/1/8/1/3 -0.939693
-352395536 FPix_BpO_D1_BLD2_PNL1_PLQ4 r/phi/z = 14.0506/1.95426/34.2437 cmssw side/disk/blade/pannel/plaq=2/1/8/1/4 -0.939693
-352396548 FPix_BpO_D1_BLD3_PNL1_PLQ1 r/phi/z = 6.23085/2.20448/34.8437 cmssw side/disk/blade/pannel/plaq=2/1/9/1/1 -0.939693
-352396552 FPix_BpO_D1_BLD3_PNL1_PLQ2 r/phi/z = 8.70347/2.21039/34.8437 cmssw side/disk/blade/pannel/plaq=2/1/9/1/2 -0.939693
-352396556 FPix_BpO_D1_BLD3_PNL1_PLQ3 r/phi/z = 11.5766/2.21409/34.8437 cmssw side/disk/blade/pannel/plaq=2/1/9/1/3 -0.939693
-352396560 FPix_BpO_D1_BLD3_PNL1_PLQ4 r/phi/z = 14.0506/2.21606/34.8437 cmssw side/disk/blade/pannel/plaq=2/1/9/1/4 -0.939693
-352397572 FPix_BpO_D1_BLD4_PNL1_PLQ1 r/phi/z = 6.23085/2.46628/35.4437 cmssw side/disk/blade/pannel/plaq=2/1/10/1/1 -0.939693
-352397576 FPix_BpO_D1_BLD4_PNL1_PLQ2 r/phi/z = 8.70347/2.47219/35.4437 cmssw side/disk/blade/pannel/plaq=2/1/10/1/2 -0.939693
-352397580 FPix_BpO_D1_BLD4_PNL1_PLQ3 r/phi/z = 11.5766/2.47589/35.4437 cmssw side/disk/blade/pannel/plaq=2/1/10/1/3 -0.939693
-352397584 FPix_BpO_D1_BLD4_PNL1_PLQ4 r/phi/z = 14.0506/2.47786/35.4437 cmssw side/disk/blade/pannel/plaq=2/1/10/1/4 -0.939693
-352398596 FPix_BpO_D1_BLD5_PNL1_PLQ1 r/phi/z = 6.23085/2.72808/36.0437 cmssw side/disk/blade/pannel/plaq=2/1/11/1/1 -0.939693
-352398600 FPix_BpO_D1_BLD5_PNL1_PLQ2 r/phi/z = 8.70347/2.73399/36.0437 cmssw side/disk/blade/pannel/plaq=2/1/11/1/2 -0.939693
-352398604 FPix_BpO_D1_BLD5_PNL1_PLQ3 r/phi/z = 11.5766/2.73769/36.0437 cmssw side/disk/blade/pannel/plaq=2/1/11/1/3 -0.939693
-352398608 FPix_BpO_D1_BLD5_PNL1_PLQ4 r/phi/z = 14.0506/2.73966/36.0437 cmssw side/disk/blade/pannel/plaq=2/1/11/1/4 -0.939693
-352399620 FPix_BpO_D1_BLD6_PNL1_PLQ1 r/phi/z = 6.23085/2.98988/36.6437 cmssw side/disk/blade/pannel/plaq=2/1/12/1/1 -0.939693
-352399624 FPix_BpO_D1_BLD6_PNL1_PLQ2 r/phi/z = 8.70347/2.99579/36.6437 cmssw side/disk/blade/pannel/plaq=2/1/12/1/2 -0.939693
-352399628 FPix_BpO_D1_BLD6_PNL1_PLQ3 r/phi/z = 11.5766/2.99949/36.6437 cmssw side/disk/blade/pannel/plaq=2/1/12/1/3 -0.939693
-352399632 FPix_BpO_D1_BLD6_PNL1_PLQ4 r/phi/z = 14.0506/3.00146/36.6437 cmssw side/disk/blade/pannel/plaq=2/1/12/1/4 -0.939693
-352400644 FPix_BpO_D1_BLD7_PNL1_PLQ1 r/phi/z = 6.23085/-3.03151/33.6437 cmssw side/disk/blade/pannel/plaq=2/1/13/1/1 -0.939693
-352400648 FPix_BpO_D1_BLD7_PNL1_PLQ2 r/phi/z = 8.70347/-3.02559/33.6437 cmssw side/disk/blade/pannel/plaq=2/1/13/1/2 -0.939693
-352400652 FPix_BpO_D1_BLD7_PNL1_PLQ3 r/phi/z = 11.5766/-3.0219/33.6437 cmssw side/disk/blade/pannel/plaq=2/1/13/1/3 -0.939693
-352400656 FPix_BpO_D1_BLD7_PNL1_PLQ4 r/phi/z = 14.0506/-3.01992/33.6437 cmssw side/disk/blade/pannel/plaq=2/1/13/1/4 -0.939693
-352401668 FPix_BpO_D1_BLD8_PNL1_PLQ1 r/phi/z = 6.23085/-2.76971/34.2437 cmssw side/disk/blade/pannel/plaq=2/1/14/1/1 -0.939693
-352401672 FPix_BpO_D1_BLD8_PNL1_PLQ2 r/phi/z = 8.70347/-2.7638/34.2437 cmssw side/disk/blade/pannel/plaq=2/1/14/1/2 -0.939693
-352401676 FPix_BpO_D1_BLD8_PNL1_PLQ3 r/phi/z = 11.5766/-2.7601/34.2437 cmssw side/disk/blade/pannel/plaq=2/1/14/1/3 -0.939693
-352401680 FPix_BpO_D1_BLD8_PNL1_PLQ4 r/phi/z = 14.0506/-2.75812/34.2437 cmssw side/disk/blade/pannel/plaq=2/1/14/1/4 -0.939693
-352402692 FPix_BpO_D1_BLD9_PNL1_PLQ1 r/phi/z = 6.23085/-2.50791/34.8437 cmssw side/disk/blade/pannel/plaq=2/1/15/1/1 -0.939693
-352402696 FPix_BpO_D1_BLD9_PNL1_PLQ2 r/phi/z = 8.70347/-2.502/34.8437 cmssw side/disk/blade/pannel/plaq=2/1/15/1/2 -0.939693
-352402700 FPix_BpO_D1_BLD9_PNL1_PLQ3 r/phi/z = 11.5766/-2.4983/34.8437 cmssw side/disk/blade/pannel/plaq=2/1/15/1/3 -0.939693
-352402704 FPix_BpO_D1_BLD9_PNL1_PLQ4 r/phi/z = 14.0506/-2.49632/34.8437 cmssw side/disk/blade/pannel/plaq=2/1/15/1/4 -0.939693
-352403716 FPix_BpO_D1_BLD10_PNL1_PLQ1 r/phi/z = 6.23085/-2.24611/35.4437 cmssw side/disk/blade/pannel/plaq=2/1/16/1/1 -0.939693
-352403720 FPix_BpO_D1_BLD10_PNL1_PLQ2 r/phi/z = 8.70347/-2.2402/35.4437 cmssw side/disk/blade/pannel/plaq=2/1/16/1/2 -0.939693
-352403724 FPix_BpO_D1_BLD10_PNL1_PLQ3 r/phi/z = 11.5766/-2.2365/35.4437 cmssw side/disk/blade/pannel/plaq=2/1/16/1/3 -0.939693
-352403728 FPix_BpO_D1_BLD10_PNL1_PLQ4 r/phi/z = 14.0506/-2.23453/35.4437 cmssw side/disk/blade/pannel/plaq=2/1/16/1/4 -0.939693
-352404740 FPix_BpO_D1_BLD11_PNL1_PLQ1 r/phi/z = 6.23085/-1.98431/36.0437 cmssw side/disk/blade/pannel/plaq=2/1/17/1/1 -0.939693
-352404744 FPix_BpO_D1_BLD11_PNL1_PLQ2 r/phi/z = 8.70347/-1.9784/36.0437 cmssw side/disk/blade/pannel/plaq=2/1/17/1/2 -0.939693
-352404748 FPix_BpO_D1_BLD11_PNL1_PLQ3 r/phi/z = 11.5766/-1.9747/36.0437 cmssw side/disk/blade/pannel/plaq=2/1/17/1/3 -0.939693
-352404752 FPix_BpO_D1_BLD11_PNL1_PLQ4 r/phi/z = 14.0506/-1.97273/36.0437 cmssw side/disk/blade/pannel/plaq=2/1/17/1/4 -0.939693
-352405764 FPix_BpO_D1_BLD12_PNL1_PLQ1 r/phi/z = 6.23085/-1.72251/36.6437 cmssw side/disk/blade/pannel/plaq=2/1/18/1/1 -0.939693
-352405768 FPix_BpO_D1_BLD12_PNL1_PLQ2 r/phi/z = 8.70347/-1.7166/36.6437 cmssw side/disk/blade/pannel/plaq=2/1/18/1/2 -0.939693
-352405772 FPix_BpO_D1_BLD12_PNL1_PLQ3 r/phi/z = 11.5766/-1.7129/36.6437 cmssw side/disk/blade/pannel/plaq=2/1/18/1/3 -0.939693
-352405776 FPix_BpO_D1_BLD12_PNL1_PLQ4 r/phi/z = 14.0506/-1.71093/36.6437 cmssw side/disk/blade/pannel/plaq=2/1/18/1/4 -0.939693
-352406788 FPix_BpI_D1_BLD12_PNL1_PLQ1 r/phi/z = 6.23085/-1.46071/33.6437 cmssw side/disk/blade/pannel/plaq=2/1/19/1/1 -0.939693
-352406792 FPix_BpI_D1_BLD12_PNL1_PLQ2 r/phi/z = 8.70347/-1.4548/33.6437 cmssw side/disk/blade/pannel/plaq=2/1/19/1/2 -0.939693
-352406796 FPix_BpI_D1_BLD12_PNL1_PLQ3 r/phi/z = 11.5766/-1.4511/33.6437 cmssw side/disk/blade/pannel/plaq=2/1/19/1/3 -0.939693
-352406800 FPix_BpI_D1_BLD12_PNL1_PLQ4 r/phi/z = 14.0506/-1.44913/33.6437 cmssw side/disk/blade/pannel/plaq=2/1/19/1/4 -0.939693
-352407812 FPix_BpI_D1_BLD11_PNL1_PLQ1 r/phi/z = 6.23085/-1.19891/34.2437 cmssw side/disk/blade/pannel/plaq=2/1/20/1/1 -0.939693
-352407816 FPix_BpI_D1_BLD11_PNL1_PLQ2 r/phi/z = 8.70347/-1.193/34.2437 cmssw side/disk/blade/pannel/plaq=2/1/20/1/2 -0.939693
-352407820 FPix_BpI_D1_BLD11_PNL1_PLQ3 r/phi/z = 11.5766/-1.1893/34.2437 cmssw side/disk/blade/pannel/plaq=2/1/20/1/3 -0.939693
-352407824 FPix_BpI_D1_BLD11_PNL1_PLQ4 r/phi/z = 14.0506/-1.18733/34.2437 cmssw side/disk/blade/pannel/plaq=2/1/20/1/4 -0.939693
-352408836 FPix_BpI_D1_BLD10_PNL1_PLQ1 r/phi/z = 6.23085/-0.937114/34.8437 cmssw side/disk/blade/pannel/plaq=2/1/21/1/1 -0.939693
-352408840 FPix_BpI_D1_BLD10_PNL1_PLQ2 r/phi/z = 8.70347/-0.9312/34.8437 cmssw side/disk/blade/pannel/plaq=2/1/21/1/2 -0.939693
-352408844 FPix_BpI_D1_BLD10_PNL1_PLQ3 r/phi/z = 11.5766/-0.927501/34.8437 cmssw side/disk/blade/pannel/plaq=2/1/21/1/3 -0.939693
-352408848 FPix_BpI_D1_BLD10_PNL1_PLQ4 r/phi/z = 14.0506/-0.925528/34.8437 cmssw side/disk/blade/pannel/plaq=2/1/21/1/4 -0.939693
-352409860 FPix_BpI_D1_BLD9_PNL1_PLQ1 r/phi/z = 6.23085/-0.675315/35.4437 cmssw side/disk/blade/pannel/plaq=2/1/22/1/1 -0.939693
-352409864 FPix_BpI_D1_BLD9_PNL1_PLQ2 r/phi/z = 8.70347/-0.6694/35.4437 cmssw side/disk/blade/pannel/plaq=2/1/22/1/2 -0.939693
-352409868 FPix_BpI_D1_BLD9_PNL1_PLQ3 r/phi/z = 11.5766/-0.665702/35.4437 cmssw side/disk/blade/pannel/plaq=2/1/22/1/3 -0.939693
-352409872 FPix_BpI_D1_BLD9_PNL1_PLQ4 r/phi/z = 14.0506/-0.663729/35.4437 cmssw side/disk/blade/pannel/plaq=2/1/22/1/4 -0.939693
-352410884 FPix_BpI_D1_BLD8_PNL1_PLQ1 r/phi/z = 6.23085/-0.413515/36.0437 cmssw side/disk/blade/pannel/plaq=2/1/23/1/1 -0.939693
-352410888 FPix_BpI_D1_BLD8_PNL1_PLQ2 r/phi/z = 8.70347/-0.407601/36.0437 cmssw side/disk/blade/pannel/plaq=2/1/23/1/2 -0.939693
-352410892 FPix_BpI_D1_BLD8_PNL1_PLQ3 r/phi/z = 11.5766/-0.403902/36.0437 cmssw side/disk/blade/pannel/plaq=2/1/23/1/3 -0.939693
-352410896 FPix_BpI_D1_BLD8_PNL1_PLQ4 r/phi/z = 14.0506/-0.40193/36.0437 cmssw side/disk/blade/pannel/plaq=2/1/23/1/4 -0.939693
-352411908 FPix_BpI_D1_BLD7_PNL1_PLQ1 r/phi/z = 6.23085/-0.151716/36.6437 cmssw side/disk/blade/pannel/plaq=2/1/24/1/1 -0.939693
-352411912 FPix_BpI_D1_BLD7_PNL1_PLQ2 r/phi/z = 8.70347/-0.145802/36.6437 cmssw side/disk/blade/pannel/plaq=2/1/24/1/2 -0.939693
-352411916 FPix_BpI_D1_BLD7_PNL1_PLQ3 r/phi/z = 11.5766/-0.142103/36.6437 cmssw side/disk/blade/pannel/plaq=2/1/24/1/3 -0.939693
-352411920 FPix_BpI_D1_BLD7_PNL1_PLQ4 r/phi/z = 14.0506/-0.14013/36.6437 cmssw side/disk/blade/pannel/plaq=2/1/24/1/4 -0.939693
-352388612 FPix_BpI_D1_BLD6_PNL2_PLQ1 r/phi/z = 7.41114/0.1484/34.3563 cmssw side/disk/blade/pannel/plaq=2/1/1/2/1 0.939693
-352388616 FPix_BpI_D1_BLD6_PNL2_PLQ2 r/phi/z = 10.3416/0.143441/34.3563 cmssw side/disk/blade/pannel/plaq=2/1/1/2/2 0.939693
-352388620 FPix_BpI_D1_BLD6_PNL2_PLQ3 r/phi/z = 13.2728/0.140671/34.3563 cmssw side/disk/blade/pannel/plaq=2/1/1/2/3 0.939693
-352389636 FPix_BpI_D1_BLD5_PNL2_PLQ1 r/phi/z = 7.41114/0.4102/34.9563 cmssw side/disk/blade/pannel/plaq=2/1/2/2/1 0.939693
-352389640 FPix_BpI_D1_BLD5_PNL2_PLQ2 r/phi/z = 10.3416/0.40524/34.9563 cmssw side/disk/blade/pannel/plaq=2/1/2/2/2 0.939693
-352389644 FPix_BpI_D1_BLD5_PNL2_PLQ3 r/phi/z = 13.2728/0.402471/34.9563 cmssw side/disk/blade/pannel/plaq=2/1/2/2/3 0.939693
-352390660 FPix_BpI_D1_BLD4_PNL2_PLQ1 r/phi/z = 7.41114/0.671999/35.5563 cmssw side/disk/blade/pannel/plaq=2/1/3/2/1 0.939693
-352390664 FPix_BpI_D1_BLD4_PNL2_PLQ2 r/phi/z = 10.3416/0.66704/35.5563 cmssw side/disk/blade/pannel/plaq=2/1/3/2/2 0.939693
-352390668 FPix_BpI_D1_BLD4_PNL2_PLQ3 r/phi/z = 13.2728/0.66427/35.5563 cmssw side/disk/blade/pannel/plaq=2/1/3/2/3 0.939693
-352391684 FPix_BpI_D1_BLD3_PNL2_PLQ1 r/phi/z = 7.41114/0.933799/36.1563 cmssw side/disk/blade/pannel/plaq=2/1/4/2/1 0.939693
-352391688 FPix_BpI_D1_BLD3_PNL2_PLQ2 r/phi/z = 10.3416/0.928839/36.1563 cmssw side/disk/blade/pannel/plaq=2/1/4/2/2 0.939693
-352391692 FPix_BpI_D1_BLD3_PNL2_PLQ3 r/phi/z = 13.2728/0.926069/36.1563 cmssw side/disk/blade/pannel/plaq=2/1/4/2/3 0.939693
-352392708 FPix_BpI_D1_BLD2_PNL2_PLQ1 r/phi/z = 7.41113/1.1956/36.7563 cmssw side/disk/blade/pannel/plaq=2/1/5/2/1 0.939693
-352392712 FPix_BpI_D1_BLD2_PNL2_PLQ2 r/phi/z = 10.3416/1.19064/36.7563 cmssw side/disk/blade/pannel/plaq=2/1/5/2/2 0.939693
-352392716 FPix_BpI_D1_BLD2_PNL2_PLQ3 r/phi/z = 13.2728/1.18787/36.7563 cmssw side/disk/blade/pannel/plaq=2/1/5/2/3 0.939693
-352393732 FPix_BpI_D1_BLD1_PNL2_PLQ1 r/phi/z = 7.41113/1.4574/37.3563 cmssw side/disk/blade/pannel/plaq=2/1/6/2/1 0.939693
-352393736 FPix_BpI_D1_BLD1_PNL2_PLQ2 r/phi/z = 10.3416/1.45244/37.3563 cmssw side/disk/blade/pannel/plaq=2/1/6/2/2 0.939693
-352393740 FPix_BpI_D1_BLD1_PNL2_PLQ3 r/phi/z = 13.2728/1.44967/37.3563 cmssw side/disk/blade/pannel/plaq=2/1/6/2/3 0.939693
-352394756 FPix_BpO_D1_BLD1_PNL2_PLQ1 r/phi/z = 7.41114/1.7192/34.3563 cmssw side/disk/blade/pannel/plaq=2/1/7/2/1 0.939693
-352394760 FPix_BpO_D1_BLD1_PNL2_PLQ2 r/phi/z = 10.3416/1.71424/34.3563 cmssw side/disk/blade/pannel/plaq=2/1/7/2/2 0.939693
-352394764 FPix_BpO_D1_BLD1_PNL2_PLQ3 r/phi/z = 13.2728/1.71147/34.3563 cmssw side/disk/blade/pannel/plaq=2/1/7/2/3 0.939693
-352395780 FPix_BpO_D1_BLD2_PNL2_PLQ1 r/phi/z = 7.41114/1.981/34.9563 cmssw side/disk/blade/pannel/plaq=2/1/8/2/1 0.939693
-352395784 FPix_BpO_D1_BLD2_PNL2_PLQ2 r/phi/z = 10.3416/1.97604/34.9563 cmssw side/disk/blade/pannel/plaq=2/1/8/2/2 0.939693
-352395788 FPix_BpO_D1_BLD2_PNL2_PLQ3 r/phi/z = 13.2728/1.97327/34.9563 cmssw side/disk/blade/pannel/plaq=2/1/8/2/3 0.939693
-352396804 FPix_BpO_D1_BLD3_PNL2_PLQ1 r/phi/z = 7.41114/2.2428/35.5563 cmssw side/disk/blade/pannel/plaq=2/1/9/2/1 0.939693
-352396808 FPix_BpO_D1_BLD3_PNL2_PLQ2 r/phi/z = 10.3416/2.23784/35.5563 cmssw side/disk/blade/pannel/plaq=2/1/9/2/2 0.939693
-352396812 FPix_BpO_D1_BLD3_PNL2_PLQ3 r/phi/z = 13.2728/2.23507/35.5563 cmssw side/disk/blade/pannel/plaq=2/1/9/2/3 0.939693
-352397828 FPix_BpO_D1_BLD4_PNL2_PLQ1 r/phi/z = 7.41114/2.5046/36.1563 cmssw side/disk/blade/pannel/plaq=2/1/10/2/1 0.939693
-352397832 FPix_BpO_D1_BLD4_PNL2_PLQ2 r/phi/z = 10.3416/2.49964/36.1563 cmssw side/disk/blade/pannel/plaq=2/1/10/2/2 0.939693
-352397836 FPix_BpO_D1_BLD4_PNL2_PLQ3 r/phi/z = 13.2728/2.49687/36.1563 cmssw side/disk/blade/pannel/plaq=2/1/10/2/3 0.939693
-352398852 FPix_BpO_D1_BLD5_PNL2_PLQ1 r/phi/z = 7.41113/2.76639/36.7563 cmssw side/disk/blade/pannel/plaq=2/1/11/2/1 0.939693
-352398856 FPix_BpO_D1_BLD5_PNL2_PLQ2 r/phi/z = 10.3416/2.76143/36.7563 cmssw side/disk/blade/pannel/plaq=2/1/11/2/2 0.939693
-352398860 FPix_BpO_D1_BLD5_PNL2_PLQ3 r/phi/z = 13.2728/2.75867/36.7563 cmssw side/disk/blade/pannel/plaq=2/1/11/2/3 0.939693
-352399876 FPix_BpO_D1_BLD6_PNL2_PLQ1 r/phi/z = 7.41113/3.02819/37.3563 cmssw side/disk/blade/pannel/plaq=2/1/12/2/1 0.939693
-352399880 FPix_BpO_D1_BLD6_PNL2_PLQ2 r/phi/z = 10.3416/3.02323/37.3563 cmssw side/disk/blade/pannel/plaq=2/1/12/2/2 0.939693
-352399884 FPix_BpO_D1_BLD6_PNL2_PLQ3 r/phi/z = 13.2728/3.02046/37.3563 cmssw side/disk/blade/pannel/plaq=2/1/12/2/3 0.939693
-352400900 FPix_BpO_D1_BLD7_PNL2_PLQ1 r/phi/z = 7.41114/-2.99319/34.3563 cmssw side/disk/blade/pannel/plaq=2/1/13/2/1 0.939693
-352400904 FPix_BpO_D1_BLD7_PNL2_PLQ2 r/phi/z = 10.3416/-2.99815/34.3563 cmssw side/disk/blade/pannel/plaq=2/1/13/2/2 0.939693
-352400908 FPix_BpO_D1_BLD7_PNL2_PLQ3 r/phi/z = 13.2728/-3.00092/34.3563 cmssw side/disk/blade/pannel/plaq=2/1/13/2/3 0.939693
-352401924 FPix_BpO_D1_BLD8_PNL2_PLQ1 r/phi/z = 7.41114/-2.73139/34.9563 cmssw side/disk/blade/pannel/plaq=2/1/14/2/1 0.939693
-352401928 FPix_BpO_D1_BLD8_PNL2_PLQ2 r/phi/z = 10.3416/-2.73635/34.9563 cmssw side/disk/blade/pannel/plaq=2/1/14/2/2 0.939693
-352401932 FPix_BpO_D1_BLD8_PNL2_PLQ3 r/phi/z = 13.2728/-2.73912/34.9563 cmssw side/disk/blade/pannel/plaq=2/1/14/2/3 0.939693
-352402948 FPix_BpO_D1_BLD9_PNL2_PLQ1 r/phi/z = 7.41114/-2.46959/35.5563 cmssw side/disk/blade/pannel/plaq=2/1/15/2/1 0.939693
-352402952 FPix_BpO_D1_BLD9_PNL2_PLQ2 r/phi/z = 10.3416/-2.47455/35.5563 cmssw side/disk/blade/pannel/plaq=2/1/15/2/2 0.939693
-352402956 FPix_BpO_D1_BLD9_PNL2_PLQ3 r/phi/z = 13.2728/-2.47732/35.5563 cmssw side/disk/blade/pannel/plaq=2/1/15/2/3 0.939693
-352403972 FPix_BpO_D1_BLD10_PNL2_PLQ1 r/phi/z = 7.41114/-2.20779/36.1563 cmssw side/disk/blade/pannel/plaq=2/1/16/2/1 0.939693
-352403976 FPix_BpO_D1_BLD10_PNL2_PLQ2 r/phi/z = 10.3416/-2.21275/36.1563 cmssw side/disk/blade/pannel/plaq=2/1/16/2/2 0.939693
-352403980 FPix_BpO_D1_BLD10_PNL2_PLQ3 r/phi/z = 13.2728/-2.21552/36.1563 cmssw side/disk/blade/pannel/plaq=2/1/16/2/3 0.939693
-352404996 FPix_BpO_D1_BLD11_PNL2_PLQ1 r/phi/z = 7.41113/-1.94599/36.7563 cmssw side/disk/blade/pannel/plaq=2/1/17/2/1 0.939693
-352405000 FPix_BpO_D1_BLD11_PNL2_PLQ2 r/phi/z = 10.3416/-1.95095/36.7563 cmssw side/disk/blade/pannel/plaq=2/1/17/2/2 0.939693
-352405004 FPix_BpO_D1_BLD11_PNL2_PLQ3 r/phi/z = 13.2728/-1.95372/36.7563 cmssw side/disk/blade/pannel/plaq=2/1/17/2/3 0.939693
-352406020 FPix_BpO_D1_BLD12_PNL2_PLQ1 r/phi/z = 7.41113/-1.6842/37.3563 cmssw side/disk/blade/pannel/plaq=2/1/18/2/1 0.939693
-352406024 FPix_BpO_D1_BLD12_PNL2_PLQ2 r/phi/z = 10.3416/-1.68915/37.3563 cmssw side/disk/blade/pannel/plaq=2/1/18/2/2 0.939693
-352406028 FPix_BpO_D1_BLD12_PNL2_PLQ3 r/phi/z = 13.2728/-1.69192/37.3563 cmssw side/disk/blade/pannel/plaq=2/1/18/2/3 0.939693
-352407044 FPix_BpI_D1_BLD12_PNL2_PLQ1 r/phi/z = 7.41114/-1.4224/34.3563 cmssw side/disk/blade/pannel/plaq=2/1/19/2/1 0.939693
-352407048 FPix_BpI_D1_BLD12_PNL2_PLQ2 r/phi/z = 10.3416/-1.42736/34.3563 cmssw side/disk/blade/pannel/plaq=2/1/19/2/2 0.939693
-352407052 FPix_BpI_D1_BLD12_PNL2_PLQ3 r/phi/z = 13.2728/-1.43013/34.3563 cmssw side/disk/blade/pannel/plaq=2/1/19/2/3 0.939693
-352408068 FPix_BpI_D1_BLD11_PNL2_PLQ1 r/phi/z = 7.41114/-1.1606/34.9563 cmssw side/disk/blade/pannel/plaq=2/1/20/2/1 0.939693
-352408072 FPix_BpI_D1_BLD11_PNL2_PLQ2 r/phi/z = 10.3416/-1.16556/34.9563 cmssw side/disk/blade/pannel/plaq=2/1/20/2/2 0.939693
-352408076 FPix_BpI_D1_BLD11_PNL2_PLQ3 r/phi/z = 13.2728/-1.16833/34.9563 cmssw side/disk/blade/pannel/plaq=2/1/20/2/3 0.939693
-352409092 FPix_BpI_D1_BLD10_PNL2_PLQ1 r/phi/z = 7.41114/-0.898797/35.5563 cmssw side/disk/blade/pannel/plaq=2/1/21/2/1 0.939693
-352409096 FPix_BpI_D1_BLD10_PNL2_PLQ2 r/phi/z = 10.3416/-0.903756/35.5563 cmssw side/disk/blade/pannel/plaq=2/1/21/2/2 0.939693
-352409100 FPix_BpI_D1_BLD10_PNL2_PLQ3 r/phi/z = 13.2728/-0.906526/35.5563 cmssw side/disk/blade/pannel/plaq=2/1/21/2/3 0.939693
-352410116 FPix_BpI_D1_BLD9_PNL2_PLQ1 r/phi/z = 7.41114/-0.636998/36.1563 cmssw side/disk/blade/pannel/plaq=2/1/22/2/1 0.939693
-352410120 FPix_BpI_D1_BLD9_PNL2_PLQ2 r/phi/z = 10.3416/-0.641957/36.1563 cmssw side/disk/blade/pannel/plaq=2/1/22/2/2 0.939693
-352410124 FPix_BpI_D1_BLD9_PNL2_PLQ3 r/phi/z = 13.2728/-0.644727/36.1563 cmssw side/disk/blade/pannel/plaq=2/1/22/2/3 0.939693
-352411140 FPix_BpI_D1_BLD8_PNL2_PLQ1 r/phi/z = 7.41113/-0.375198/36.7563 cmssw side/disk/blade/pannel/plaq=2/1/23/2/1 0.939693
-352411144 FPix_BpI_D1_BLD8_PNL2_PLQ2 r/phi/z = 10.3416/-0.380158/36.7563 cmssw side/disk/blade/pannel/plaq=2/1/23/2/2 0.939693
-352411148 FPix_BpI_D1_BLD8_PNL2_PLQ3 r/phi/z = 13.2728/-0.382928/36.7563 cmssw side/disk/blade/pannel/plaq=2/1/23/2/3 0.939693
-352412164 FPix_BpI_D1_BLD7_PNL2_PLQ1 r/phi/z = 7.41113/-0.113399/37.3563 cmssw side/disk/blade/pannel/plaq=2/1/24/2/1 0.939693
-352412168 FPix_BpI_D1_BLD7_PNL2_PLQ2 r/phi/z = 10.3416/-0.118358/37.3563 cmssw side/disk/blade/pannel/plaq=2/1/24/2/2 0.939693
-352412172 FPix_BpI_D1_BLD7_PNL2_PLQ3 r/phi/z = 13.2728/-0.121128/37.3563 cmssw side/disk/blade/pannel/plaq=2/1/24/2/3 0.939693
-352453892 FPix_BpI_D2_BLD6_PNL1_PLQ1 r/phi/z = 6.23085/0.110083/46.6437 cmssw side/disk/blade/pannel/plaq=2/2/1/1/1 -0.939693
-352453896 FPix_BpI_D2_BLD6_PNL1_PLQ2 r/phi/z = 8.70347/0.115998/46.6437 cmssw side/disk/blade/pannel/plaq=2/2/1/1/2 -0.939693
-352453900 FPix_BpI_D2_BLD6_PNL1_PLQ3 r/phi/z = 11.5766/0.119696/46.6437 cmssw side/disk/blade/pannel/plaq=2/2/1/1/3 -0.939693
-352453904 FPix_BpI_D2_BLD6_PNL1_PLQ4 r/phi/z = 14.0506/0.121669/46.6437 cmssw side/disk/blade/pannel/plaq=2/2/1/1/4 -0.939693
-352454916 FPix_BpI_D2_BLD5_PNL1_PLQ1 r/phi/z = 6.23085/0.371883/47.2437 cmssw side/disk/blade/pannel/plaq=2/2/2/1/1 -0.939693
-352454920 FPix_BpI_D2_BLD5_PNL1_PLQ2 r/phi/z = 8.70347/0.377797/47.2437 cmssw side/disk/blade/pannel/plaq=2/2/2/1/2 -0.939693
-352454924 FPix_BpI_D2_BLD5_PNL1_PLQ3 r/phi/z = 11.5766/0.381496/47.2437 cmssw side/disk/blade/pannel/plaq=2/2/2/1/3 -0.939693
-352454928 FPix_BpI_D2_BLD5_PNL1_PLQ4 r/phi/z = 14.0506/0.383468/47.2437 cmssw side/disk/blade/pannel/plaq=2/2/2/1/4 -0.939693
-352455940 FPix_BpI_D2_BLD4_PNL1_PLQ1 r/phi/z = 6.23085/0.633682/47.8437 cmssw side/disk/blade/pannel/plaq=2/2/3/1/1 -0.939693
-352455944 FPix_BpI_D2_BLD4_PNL1_PLQ2 r/phi/z = 8.70347/0.639597/47.8437 cmssw side/disk/blade/pannel/plaq=2/2/3/1/2 -0.939693
-352455948 FPix_BpI_D2_BLD4_PNL1_PLQ3 r/phi/z = 11.5766/0.643295/47.8437 cmssw side/disk/blade/pannel/plaq=2/2/3/1/3 -0.939693
-352455952 FPix_BpI_D2_BLD4_PNL1_PLQ4 r/phi/z = 14.0506/0.645268/47.8437 cmssw side/disk/blade/pannel/plaq=2/2/3/1/4 -0.939693
-352456964 FPix_BpI_D2_BLD3_PNL1_PLQ1 r/phi/z = 6.23085/0.895482/48.4437 cmssw side/disk/blade/pannel/plaq=2/2/4/1/1 -0.939693
-352456968 FPix_BpI_D2_BLD3_PNL1_PLQ2 r/phi/z = 8.70347/0.901396/48.4437 cmssw side/disk/blade/pannel/plaq=2/2/4/1/2 -0.939693
-352456972 FPix_BpI_D2_BLD3_PNL1_PLQ3 r/phi/z = 11.5766/0.905095/48.4437 cmssw side/disk/blade/pannel/plaq=2/2/4/1/3 -0.939693
-352456976 FPix_BpI_D2_BLD3_PNL1_PLQ4 r/phi/z = 14.0506/0.907067/48.4437 cmssw side/disk/blade/pannel/plaq=2/2/4/1/4 -0.939693
-352457988 FPix_BpI_D2_BLD2_PNL1_PLQ1 r/phi/z = 6.23085/1.15728/49.0437 cmssw side/disk/blade/pannel/plaq=2/2/5/1/1 -0.939693
-352457992 FPix_BpI_D2_BLD2_PNL1_PLQ2 r/phi/z = 8.70347/1.1632/49.0437 cmssw side/disk/blade/pannel/plaq=2/2/5/1/2 -0.939693
-352457996 FPix_BpI_D2_BLD2_PNL1_PLQ3 r/phi/z = 11.5766/1.16689/49.0437 cmssw side/disk/blade/pannel/plaq=2/2/5/1/3 -0.939693
-352458000 FPix_BpI_D2_BLD2_PNL1_PLQ4 r/phi/z = 14.0506/1.16887/49.0437 cmssw side/disk/blade/pannel/plaq=2/2/5/1/4 -0.939693
-352459012 FPix_BpI_D2_BLD1_PNL1_PLQ1 r/phi/z = 6.23085/1.41908/49.6437 cmssw side/disk/blade/pannel/plaq=2/2/6/1/1 -0.939693
-352459016 FPix_BpI_D2_BLD1_PNL1_PLQ2 r/phi/z = 8.70347/1.42499/49.6437 cmssw side/disk/blade/pannel/plaq=2/2/6/1/2 -0.939693
-352459020 FPix_BpI_D2_BLD1_PNL1_PLQ3 r/phi/z = 11.5766/1.42869/49.6437 cmssw side/disk/blade/pannel/plaq=2/2/6/1/3 -0.939693
-352459024 FPix_BpI_D2_BLD1_PNL1_PLQ4 r/phi/z = 14.0506/1.43067/49.6437 cmssw side/disk/blade/pannel/plaq=2/2/6/1/4 -0.939693
-352460036 FPix_BpO_D2_BLD1_PNL1_PLQ1 r/phi/z = 6.23085/1.68088/46.6437 cmssw side/disk/blade/pannel/plaq=2/2/7/1/1 -0.939693
-352460040 FPix_BpO_D2_BLD1_PNL1_PLQ2 r/phi/z = 8.70347/1.68679/46.6437 cmssw side/disk/blade/pannel/plaq=2/2/7/1/2 -0.939693
-352460044 FPix_BpO_D2_BLD1_PNL1_PLQ3 r/phi/z = 11.5766/1.69049/46.6437 cmssw side/disk/blade/pannel/plaq=2/2/7/1/3 -0.939693
-352460048 FPix_BpO_D2_BLD1_PNL1_PLQ4 r/phi/z = 14.0506/1.69247/46.6437 cmssw side/disk/blade/pannel/plaq=2/2/7/1/4 -0.939693
-352461060 FPix_BpO_D2_BLD2_PNL1_PLQ1 r/phi/z = 6.23085/1.94268/47.2437 cmssw side/disk/blade/pannel/plaq=2/2/8/1/1 -0.939693
-352461064 FPix_BpO_D2_BLD2_PNL1_PLQ2 r/phi/z = 8.70347/1.94859/47.2437 cmssw side/disk/blade/pannel/plaq=2/2/8/1/2 -0.939693
-352461068 FPix_BpO_D2_BLD2_PNL1_PLQ3 r/phi/z = 11.5766/1.95229/47.2437 cmssw side/disk/blade/pannel/plaq=2/2/8/1/3 -0.939693
-352461072 FPix_BpO_D2_BLD2_PNL1_PLQ4 r/phi/z = 14.0506/1.95426/47.2437 cmssw side/disk/blade/pannel/plaq=2/2/8/1/4 -0.939693
-352462084 FPix_BpO_D2_BLD3_PNL1_PLQ1 r/phi/z = 6.23085/2.20448/47.8437 cmssw side/disk/blade/pannel/plaq=2/2/9/1/1 -0.939693
-352462088 FPix_BpO_D2_BLD3_PNL1_PLQ2 r/phi/z = 8.70347/2.21039/47.8437 cmssw side/disk/blade/pannel/plaq=2/2/9/1/2 -0.939693
-352462092 FPix_BpO_D2_BLD3_PNL1_PLQ3 r/phi/z = 11.5766/2.21409/47.8437 cmssw side/disk/blade/pannel/plaq=2/2/9/1/3 -0.939693
-352462096 FPix_BpO_D2_BLD3_PNL1_PLQ4 r/phi/z = 14.0506/2.21606/47.8437 cmssw side/disk/blade/pannel/plaq=2/2/9/1/4 -0.939693
-352463108 FPix_BpO_D2_BLD4_PNL1_PLQ1 r/phi/z = 6.23085/2.46628/48.4437 cmssw side/disk/blade/pannel/plaq=2/2/10/1/1 -0.939693
-352463112 FPix_BpO_D2_BLD4_PNL1_PLQ2 r/phi/z = 8.70347/2.47219/48.4437 cmssw side/disk/blade/pannel/plaq=2/2/10/1/2 -0.939693
-352463116 FPix_BpO_D2_BLD4_PNL1_PLQ3 r/phi/z = 11.5766/2.47589/48.4437 cmssw side/disk/blade/pannel/plaq=2/2/10/1/3 -0.939693
-352463120 FPix_BpO_D2_BLD4_PNL1_PLQ4 r/phi/z = 14.0506/2.47786/48.4437 cmssw side/disk/blade/pannel/plaq=2/2/10/1/4 -0.939693
-352464132 FPix_BpO_D2_BLD5_PNL1_PLQ1 r/phi/z = 6.23085/2.72808/49.0437 cmssw side/disk/blade/pannel/plaq=2/2/11/1/1 -0.939693
-352464136 FPix_BpO_D2_BLD5_PNL1_PLQ2 r/phi/z = 8.70347/2.73399/49.0437 cmssw side/disk/blade/pannel/plaq=2/2/11/1/2 -0.939693
-352464140 FPix_BpO_D2_BLD5_PNL1_PLQ3 r/phi/z = 11.5766/2.73769/49.0437 cmssw side/disk/blade/pannel/plaq=2/2/11/1/3 -0.939693
-352464144 FPix_BpO_D2_BLD5_PNL1_PLQ4 r/phi/z = 14.0506/2.73966/49.0437 cmssw side/disk/blade/pannel/plaq=2/2/11/1/4 -0.939693
-352465156 FPix_BpO_D2_BLD6_PNL1_PLQ1 r/phi/z = 6.23085/2.98988/49.6437 cmssw side/disk/blade/pannel/plaq=2/2/12/1/1 -0.939693
-352465160 FPix_BpO_D2_BLD6_PNL1_PLQ2 r/phi/z = 8.70347/2.99579/49.6437 cmssw side/disk/blade/pannel/plaq=2/2/12/1/2 -0.939693
-352465164 FPix_BpO_D2_BLD6_PNL1_PLQ3 r/phi/z = 11.5766/2.99949/49.6437 cmssw side/disk/blade/pannel/plaq=2/2/12/1/3 -0.939693
-352465168 FPix_BpO_D2_BLD6_PNL1_PLQ4 r/phi/z = 14.0506/3.00146/49.6437 cmssw side/disk/blade/pannel/plaq=2/2/12/1/4 -0.939693
-352466180 FPix_BpO_D2_BLD7_PNL1_PLQ1 r/phi/z = 6.23085/-3.03151/46.6437 cmssw side/disk/blade/pannel/plaq=2/2/13/1/1 -0.939693
-352466184 FPix_BpO_D2_BLD7_PNL1_PLQ2 r/phi/z = 8.70347/-3.02559/46.6437 cmssw side/disk/blade/pannel/plaq=2/2/13/1/2 -0.939693
-352466188 FPix_BpO_D2_BLD7_PNL1_PLQ3 r/phi/z = 11.5766/-3.0219/46.6437 cmssw side/disk/blade/pannel/plaq=2/2/13/1/3 -0.939693
-352466192 FPix_BpO_D2_BLD7_PNL1_PLQ4 r/phi/z = 14.0506/-3.01992/46.6437 cmssw side/disk/blade/pannel/plaq=2/2/13/1/4 -0.939693
-352467204 FPix_BpO_D2_BLD8_PNL1_PLQ1 r/phi/z = 6.23085/-2.76971/47.2437 cmssw side/disk/blade/pannel/plaq=2/2/14/1/1 -0.939693
-352467208 FPix_BpO_D2_BLD8_PNL1_PLQ2 r/phi/z = 8.70347/-2.7638/47.2437 cmssw side/disk/blade/pannel/plaq=2/2/14/1/2 -0.939693
-352467212 FPix_BpO_D2_BLD8_PNL1_PLQ3 r/phi/z = 11.5766/-2.7601/47.2437 cmssw side/disk/blade/pannel/plaq=2/2/14/1/3 -0.939693
-352467216 FPix_BpO_D2_BLD8_PNL1_PLQ4 r/phi/z = 14.0506/-2.75812/47.2437 cmssw side/disk/blade/pannel/plaq=2/2/14/1/4 -0.939693
-352468228 FPix_BpO_D2_BLD9_PNL1_PLQ1 r/phi/z = 6.23085/-2.50791/47.8437 cmssw side/disk/blade/pannel/plaq=2/2/15/1/1 -0.939693
-352468232 FPix_BpO_D2_BLD9_PNL1_PLQ2 r/phi/z = 8.70347/-2.502/47.8437 cmssw side/disk/blade/pannel/plaq=2/2/15/1/2 -0.939693
-352468236 FPix_BpO_D2_BLD9_PNL1_PLQ3 r/phi/z = 11.5766/-2.4983/47.8437 cmssw side/disk/blade/pannel/plaq=2/2/15/1/3 -0.939693
-352468240 FPix_BpO_D2_BLD9_PNL1_PLQ4 r/phi/z = 14.0506/-2.49632/47.8437 cmssw side/disk/blade/pannel/plaq=2/2/15/1/4 -0.939693
-352469252 FPix_BpO_D2_BLD10_PNL1_PLQ1 r/phi/z = 6.23085/-2.24611/48.4437 cmssw side/disk/blade/pannel/plaq=2/2/16/1/1 -0.939693
-352469256 FPix_BpO_D2_BLD10_PNL1_PLQ2 r/phi/z = 8.70347/-2.2402/48.4437 cmssw side/disk/blade/pannel/plaq=2/2/16/1/2 -0.939693
-352469260 FPix_BpO_D2_BLD10_PNL1_PLQ3 r/phi/z = 11.5766/-2.2365/48.4437 cmssw side/disk/blade/pannel/plaq=2/2/16/1/3 -0.939693
-352469264 FPix_BpO_D2_BLD10_PNL1_PLQ4 r/phi/z = 14.0506/-2.23453/48.4437 cmssw side/disk/blade/pannel/plaq=2/2/16/1/4 -0.939693
-352470276 FPix_BpO_D2_BLD11_PNL1_PLQ1 r/phi/z = 6.23085/-1.98431/49.0437 cmssw side/disk/blade/pannel/plaq=2/2/17/1/1 -0.939693
-352470280 FPix_BpO_D2_BLD11_PNL1_PLQ2 r/phi/z = 8.70347/-1.9784/49.0437 cmssw side/disk/blade/pannel/plaq=2/2/17/1/2 -0.939693
-352470284 FPix_BpO_D2_BLD11_PNL1_PLQ3 r/phi/z = 11.5766/-1.9747/49.0437 cmssw side/disk/blade/pannel/plaq=2/2/17/1/3 -0.939693
-352470288 FPix_BpO_D2_BLD11_PNL1_PLQ4 r/phi/z = 14.0506/-1.97273/49.0437 cmssw side/disk/blade/pannel/plaq=2/2/17/1/4 -0.939693
-352471300 FPix_BpO_D2_BLD12_PNL1_PLQ1 r/phi/z = 6.23085/-1.72251/49.6437 cmssw side/disk/blade/pannel/plaq=2/2/18/1/1 -0.939693
-352471304 FPix_BpO_D2_BLD12_PNL1_PLQ2 r/phi/z = 8.70347/-1.7166/49.6437 cmssw side/disk/blade/pannel/plaq=2/2/18/1/2 -0.939693
-352471308 FPix_BpO_D2_BLD12_PNL1_PLQ3 r/phi/z = 11.5766/-1.7129/49.6437 cmssw side/disk/blade/pannel/plaq=2/2/18/1/3 -0.939693
-352471312 FPix_BpO_D2_BLD12_PNL1_PLQ4 r/phi/z = 14.0506/-1.71093/49.6437 cmssw side/disk/blade/pannel/plaq=2/2/18/1/4 -0.939693
-352472324 FPix_BpI_D2_BLD12_PNL1_PLQ1 r/phi/z = 6.23085/-1.46071/46.6437 cmssw side/disk/blade/pannel/plaq=2/2/19/1/1 -0.939693
-352472328 FPix_BpI_D2_BLD12_PNL1_PLQ2 r/phi/z = 8.70347/-1.4548/46.6437 cmssw side/disk/blade/pannel/plaq=2/2/19/1/2 -0.939693
-352472332 FPix_BpI_D2_BLD12_PNL1_PLQ3 r/phi/z = 11.5766/-1.4511/46.6437 cmssw side/disk/blade/pannel/plaq=2/2/19/1/3 -0.939693
-352472336 FPix_BpI_D2_BLD12_PNL1_PLQ4 r/phi/z = 14.0506/-1.44913/46.6437 cmssw side/disk/blade/pannel/plaq=2/2/19/1/4 -0.939693
-352473348 FPix_BpI_D2_BLD11_PNL1_PLQ1 r/phi/z = 6.23085/-1.19891/47.2437 cmssw side/disk/blade/pannel/plaq=2/2/20/1/1 -0.939693
-352473352 FPix_BpI_D2_BLD11_PNL1_PLQ2 r/phi/z = 8.70347/-1.193/47.2437 cmssw side/disk/blade/pannel/plaq=2/2/20/1/2 -0.939693
-352473356 FPix_BpI_D2_BLD11_PNL1_PLQ3 r/phi/z = 11.5766/-1.1893/47.2437 cmssw side/disk/blade/pannel/plaq=2/2/20/1/3 -0.939693
-352473360 FPix_BpI_D2_BLD11_PNL1_PLQ4 r/phi/z = 14.0506/-1.18733/47.2437 cmssw side/disk/blade/pannel/plaq=2/2/20/1/4 -0.939693
-352474372 FPix_BpI_D2_BLD10_PNL1_PLQ1 r/phi/z = 6.23085/-0.937114/47.8437 cmssw side/disk/blade/pannel/plaq=2/2/21/1/1 -0.939693
-352474376 FPix_BpI_D2_BLD10_PNL1_PLQ2 r/phi/z = 8.70347/-0.9312/47.8437 cmssw side/disk/blade/pannel/plaq=2/2/21/1/2 -0.939693
-352474380 FPix_BpI_D2_BLD10_PNL1_PLQ3 r/phi/z = 11.5766/-0.927501/47.8437 cmssw side/disk/blade/pannel/plaq=2/2/21/1/3 -0.939693
-352474384 FPix_BpI_D2_BLD10_PNL1_PLQ4 r/phi/z = 14.0506/-0.925528/47.8437 cmssw side/disk/blade/pannel/plaq=2/2/21/1/4 -0.939693
-352475396 FPix_BpI_D2_BLD9_PNL1_PLQ1 r/phi/z = 6.23085/-0.675315/48.4437 cmssw side/disk/blade/pannel/plaq=2/2/22/1/1 -0.939693
-352475400 FPix_BpI_D2_BLD9_PNL1_PLQ2 r/phi/z = 8.70347/-0.6694/48.4437 cmssw side/disk/blade/pannel/plaq=2/2/22/1/2 -0.939693
-352475404 FPix_BpI_D2_BLD9_PNL1_PLQ3 r/phi/z = 11.5766/-0.665702/48.4437 cmssw side/disk/blade/pannel/plaq=2/2/22/1/3 -0.939693
-352475408 FPix_BpI_D2_BLD9_PNL1_PLQ4 r/phi/z = 14.0506/-0.663729/48.4437 cmssw side/disk/blade/pannel/plaq=2/2/22/1/4 -0.939693
-352476420 FPix_BpI_D2_BLD8_PNL1_PLQ1 r/phi/z = 6.23085/-0.413515/49.0437 cmssw side/disk/blade/pannel/plaq=2/2/23/1/1 -0.939693
-352476424 FPix_BpI_D2_BLD8_PNL1_PLQ2 r/phi/z = 8.70347/-0.407601/49.0437 cmssw side/disk/blade/pannel/plaq=2/2/23/1/2 -0.939693
-352476428 FPix_BpI_D2_BLD8_PNL1_PLQ3 r/phi/z = 11.5766/-0.403902/49.0437 cmssw side/disk/blade/pannel/plaq=2/2/23/1/3 -0.939693
-352476432 FPix_BpI_D2_BLD8_PNL1_PLQ4 r/phi/z = 14.0506/-0.40193/49.0437 cmssw side/disk/blade/pannel/plaq=2/2/23/1/4 -0.939693
-352477444 FPix_BpI_D2_BLD7_PNL1_PLQ1 r/phi/z = 6.23085/-0.151716/49.6437 cmssw side/disk/blade/pannel/plaq=2/2/24/1/1 -0.939693
-352477448 FPix_BpI_D2_BLD7_PNL1_PLQ2 r/phi/z = 8.70347/-0.145802/49.6437 cmssw side/disk/blade/pannel/plaq=2/2/24/1/2 -0.939693
-352477452 FPix_BpI_D2_BLD7_PNL1_PLQ3 r/phi/z = 11.5766/-0.142103/49.6437 cmssw side/disk/blade/pannel/plaq=2/2/24/1/3 -0.939693
-352477456 FPix_BpI_D2_BLD7_PNL1_PLQ4 r/phi/z = 14.0506/-0.14013/49.6437 cmssw side/disk/blade/pannel/plaq=2/2/24/1/4 -0.939693
-352454148 FPix_BpI_D2_BLD6_PNL2_PLQ1 r/phi/z = 7.41114/0.1484/47.3563 cmssw side/disk/blade/pannel/plaq=2/2/1/2/1 0.939693
-352454152 FPix_BpI_D2_BLD6_PNL2_PLQ2 r/phi/z = 10.3416/0.143441/47.3563 cmssw side/disk/blade/pannel/plaq=2/2/1/2/2 0.939693
-352454156 FPix_BpI_D2_BLD6_PNL2_PLQ3 r/phi/z = 13.2728/0.140671/47.3563 cmssw side/disk/blade/pannel/plaq=2/2/1/2/3 0.939693
-352455172 FPix_BpI_D2_BLD5_PNL2_PLQ1 r/phi/z = 7.41114/0.4102/47.9563 cmssw side/disk/blade/pannel/plaq=2/2/2/2/1 0.939693
-352455176 FPix_BpI_D2_BLD5_PNL2_PLQ2 r/phi/z = 10.3416/0.40524/47.9563 cmssw side/disk/blade/pannel/plaq=2/2/2/2/2 0.939693
-352455180 FPix_BpI_D2_BLD5_PNL2_PLQ3 r/phi/z = 13.2728/0.402471/47.9563 cmssw side/disk/blade/pannel/plaq=2/2/2/2/3 0.939693
-352456196 FPix_BpI_D2_BLD4_PNL2_PLQ1 r/phi/z = 7.41114/0.671999/48.5563 cmssw side/disk/blade/pannel/plaq=2/2/3/2/1 0.939693
-352456200 FPix_BpI_D2_BLD4_PNL2_PLQ2 r/phi/z = 10.3416/0.66704/48.5563 cmssw side/disk/blade/pannel/plaq=2/2/3/2/2 0.939693
-352456204 FPix_BpI_D2_BLD4_PNL2_PLQ3 r/phi/z = 13.2728/0.66427/48.5563 cmssw side/disk/blade/pannel/plaq=2/2/3/2/3 0.939693
-352457220 FPix_BpI_D2_BLD3_PNL2_PLQ1 r/phi/z = 7.41114/0.933799/49.1563 cmssw side/disk/blade/pannel/plaq=2/2/4/2/1 0.939693
-352457224 FPix_BpI_D2_BLD3_PNL2_PLQ2 r/phi/z = 10.3416/0.928839/49.1563 cmssw side/disk/blade/pannel/plaq=2/2/4/2/2 0.939693
-352457228 FPix_BpI_D2_BLD3_PNL2_PLQ3 r/phi/z = 13.2728/0.926069/49.1563 cmssw side/disk/blade/pannel/plaq=2/2/4/2/3 0.939693
-352458244 FPix_BpI_D2_BLD2_PNL2_PLQ1 r/phi/z = 7.41113/1.1956/49.7563 cmssw side/disk/blade/pannel/plaq=2/2/5/2/1 0.939693
-352458248 FPix_BpI_D2_BLD2_PNL2_PLQ2 r/phi/z = 10.3416/1.19064/49.7563 cmssw side/disk/blade/pannel/plaq=2/2/5/2/2 0.939693
-352458252 FPix_BpI_D2_BLD2_PNL2_PLQ3 r/phi/z = 13.2728/1.18787/49.7563 cmssw side/disk/blade/pannel/plaq=2/2/5/2/3 0.939693
-352459268 FPix_BpI_D2_BLD1_PNL2_PLQ1 r/phi/z = 7.41113/1.4574/50.3563 cmssw side/disk/blade/pannel/plaq=2/2/6/2/1 0.939693
-352459272 FPix_BpI_D2_BLD1_PNL2_PLQ2 r/phi/z = 10.3416/1.45244/50.3563 cmssw side/disk/blade/pannel/plaq=2/2/6/2/2 0.939693
-352459276 FPix_BpI_D2_BLD1_PNL2_PLQ3 r/phi/z = 13.2728/1.44967/50.3563 cmssw side/disk/blade/pannel/plaq=2/2/6/2/3 0.939693
-352460292 FPix_BpO_D2_BLD1_PNL2_PLQ1 r/phi/z = 7.41114/1.7192/47.3563 cmssw side/disk/blade/pannel/plaq=2/2/7/2/1 0.939693
-352460296 FPix_BpO_D2_BLD1_PNL2_PLQ2 r/phi/z = 10.3416/1.71424/47.3563 cmssw side/disk/blade/pannel/plaq=2/2/7/2/2 0.939693
-352460300 FPix_BpO_D2_BLD1_PNL2_PLQ3 r/phi/z = 13.2728/1.71147/47.3563 cmssw side/disk/blade/pannel/plaq=2/2/7/2/3 0.939693
-352461316 FPix_BpO_D2_BLD2_PNL2_PLQ1 r/phi/z = 7.41114/1.981/47.9563 cmssw side/disk/blade/pannel/plaq=2/2/8/2/1 0.939693
-352461320 FPix_BpO_D2_BLD2_PNL2_PLQ2 r/phi/z = 10.3416/1.97604/47.9563 cmssw side/disk/blade/pannel/plaq=2/2/8/2/2 0.939693
-352461324 FPix_BpO_D2_BLD2_PNL2_PLQ3 r/phi/z = 13.2728/1.97327/47.9563 cmssw side/disk/blade/pannel/plaq=2/2/8/2/3 0.939693
-352462340 FPix_BpO_D2_BLD3_PNL2_PLQ1 r/phi/z = 7.41114/2.2428/48.5563 cmssw side/disk/blade/pannel/plaq=2/2/9/2/1 0.939693
-352462344 FPix_BpO_D2_BLD3_PNL2_PLQ2 r/phi/z = 10.3416/2.23784/48.5563 cmssw side/disk/blade/pannel/plaq=2/2/9/2/2 0.939693
-352462348 FPix_BpO_D2_BLD3_PNL2_PLQ3 r/phi/z = 13.2728/2.23507/48.5563 cmssw side/disk/blade/pannel/plaq=2/2/9/2/3 0.939693
-352463364 FPix_BpO_D2_BLD4_PNL2_PLQ1 r/phi/z = 7.41114/2.5046/49.1563 cmssw side/disk/blade/pannel/plaq=2/2/10/2/1 0.939693
-352463368 FPix_BpO_D2_BLD4_PNL2_PLQ2 r/phi/z = 10.3416/2.49964/49.1563 cmssw side/disk/blade/pannel/plaq=2/2/10/2/2 0.939693
-352463372 FPix_BpO_D2_BLD4_PNL2_PLQ3 r/phi/z = 13.2728/2.49687/49.1563 cmssw side/disk/blade/pannel/plaq=2/2/10/2/3 0.939693
-352464388 FPix_BpO_D2_BLD5_PNL2_PLQ1 r/phi/z = 7.41113/2.76639/49.7563 cmssw side/disk/blade/pannel/plaq=2/2/11/2/1 0.939693
-352464392 FPix_BpO_D2_BLD5_PNL2_PLQ2 r/phi/z = 10.3416/2.76143/49.7563 cmssw side/disk/blade/pannel/plaq=2/2/11/2/2 0.939693
-352464396 FPix_BpO_D2_BLD5_PNL2_PLQ3 r/phi/z = 13.2728/2.75867/49.7563 cmssw side/disk/blade/pannel/plaq=2/2/11/2/3 0.939693
-352465412 FPix_BpO_D2_BLD6_PNL2_PLQ1 r/phi/z = 7.41113/3.02819/50.3563 cmssw side/disk/blade/pannel/plaq=2/2/12/2/1 0.939693
-352465416 FPix_BpO_D2_BLD6_PNL2_PLQ2 r/phi/z = 10.3416/3.02323/50.3563 cmssw side/disk/blade/pannel/plaq=2/2/12/2/2 0.939693
-352465420 FPix_BpO_D2_BLD6_PNL2_PLQ3 r/phi/z = 13.2728/3.02046/50.3563 cmssw side/disk/blade/pannel/plaq=2/2/12/2/3 0.939693
-352466436 FPix_BpO_D2_BLD7_PNL2_PLQ1 r/phi/z = 7.41114/-2.99319/47.3563 cmssw side/disk/blade/pannel/plaq=2/2/13/2/1 0.939693
-352466440 FPix_BpO_D2_BLD7_PNL2_PLQ2 r/phi/z = 10.3416/-2.99815/47.3563 cmssw side/disk/blade/pannel/plaq=2/2/13/2/2 0.939693
-352466444 FPix_BpO_D2_BLD7_PNL2_PLQ3 r/phi/z = 13.2728/-3.00092/47.3563 cmssw side/disk/blade/pannel/plaq=2/2/13/2/3 0.939693
-352467460 FPix_BpO_D2_BLD8_PNL2_PLQ1 r/phi/z = 7.41114/-2.73139/47.9563 cmssw side/disk/blade/pannel/plaq=2/2/14/2/1 0.939693
-352467464 FPix_BpO_D2_BLD8_PNL2_PLQ2 r/phi/z = 10.3416/-2.73635/47.9563 cmssw side/disk/blade/pannel/plaq=2/2/14/2/2 0.939693
-352467468 FPix_BpO_D2_BLD8_PNL2_PLQ3 r/phi/z = 13.2728/-2.73912/47.9563 cmssw side/disk/blade/pannel/plaq=2/2/14/2/3 0.939693
-352468484 FPix_BpO_D2_BLD9_PNL2_PLQ1 r/phi/z = 7.41114/-2.46959/48.5563 cmssw side/disk/blade/pannel/plaq=2/2/15/2/1 0.939693
-352468488 FPix_BpO_D2_BLD9_PNL2_PLQ2 r/phi/z = 10.3416/-2.47455/48.5563 cmssw side/disk/blade/pannel/plaq=2/2/15/2/2 0.939693
-352468492 FPix_BpO_D2_BLD9_PNL2_PLQ3 r/phi/z = 13.2728/-2.47732/48.5563 cmssw side/disk/blade/pannel/plaq=2/2/15/2/3 0.939693
-352469508 FPix_BpO_D2_BLD10_PNL2_PLQ1 r/phi/z = 7.41114/-2.20779/49.1563 cmssw side/disk/blade/pannel/plaq=2/2/16/2/1 0.939693
-352469512 FPix_BpO_D2_BLD10_PNL2_PLQ2 r/phi/z = 10.3416/-2.21275/49.1563 cmssw side/disk/blade/pannel/plaq=2/2/16/2/2 0.939693
-352469516 FPix_BpO_D2_BLD10_PNL2_PLQ3 r/phi/z = 13.2728/-2.21552/49.1563 cmssw side/disk/blade/pannel/plaq=2/2/16/2/3 0.939693
-352470532 FPix_BpO_D2_BLD11_PNL2_PLQ1 r/phi/z = 7.41113/-1.94599/49.7563 cmssw side/disk/blade/pannel/plaq=2/2/17/2/1 0.939693
-352470536 FPix_BpO_D2_BLD11_PNL2_PLQ2 r/phi/z = 10.3416/-1.95095/49.7563 cmssw side/disk/blade/pannel/plaq=2/2/17/2/2 0.939693
-352470540 FPix_BpO_D2_BLD11_PNL2_PLQ3 r/phi/z = 13.2728/-1.95372/49.7563 cmssw side/disk/blade/pannel/plaq=2/2/17/2/3 0.939693
-352471556 FPix_BpO_D2_BLD12_PNL2_PLQ1 r/phi/z = 7.41113/-1.6842/50.3563 cmssw side/disk/blade/pannel/plaq=2/2/18/2/1 0.939693
-352471560 FPix_BpO_D2_BLD12_PNL2_PLQ2 r/phi/z = 10.3416/-1.68915/50.3563 cmssw side/disk/blade/pannel/plaq=2/2/18/2/2 0.939693
-352471564 FPix_BpO_D2_BLD12_PNL2_PLQ3 r/phi/z = 13.2728/-1.69192/50.3563 cmssw side/disk/blade/pannel/plaq=2/2/18/2/3 0.939693
-352472580 FPix_BpI_D2_BLD12_PNL2_PLQ1 r/phi/z = 7.41114/-1.4224/47.3563 cmssw side/disk/blade/pannel/plaq=2/2/19/2/1 0.939693
-352472584 FPix_BpI_D2_BLD12_PNL2_PLQ2 r/phi/z = 10.3416/-1.42736/47.3563 cmssw side/disk/blade/pannel/plaq=2/2/19/2/2 0.939693
-352472588 FPix_BpI_D2_BLD12_PNL2_PLQ3 r/phi/z = 13.2728/-1.43013/47.3563 cmssw side/disk/blade/pannel/plaq=2/2/19/2/3 0.939693
-352473604 FPix_BpI_D2_BLD11_PNL2_PLQ1 r/phi/z = 7.41114/-1.1606/47.9563 cmssw side/disk/blade/pannel/plaq=2/2/20/2/1 0.939693
-352473608 FPix_BpI_D2_BLD11_PNL2_PLQ2 r/phi/z = 10.3416/-1.16556/47.9563 cmssw side/disk/blade/pannel/plaq=2/2/20/2/2 0.939693
-352473612 FPix_BpI_D2_BLD11_PNL2_PLQ3 r/phi/z = 13.2728/-1.16833/47.9563 cmssw side/disk/blade/pannel/plaq=2/2/20/2/3 0.939693
-352474628 FPix_BpI_D2_BLD10_PNL2_PLQ1 r/phi/z = 7.41114/-0.898797/48.5563 cmssw side/disk/blade/pannel/plaq=2/2/21/2/1 0.939693
-352474632 FPix_BpI_D2_BLD10_PNL2_PLQ2 r/phi/z = 10.3416/-0.903756/48.5563 cmssw side/disk/blade/pannel/plaq=2/2/21/2/2 0.939693
-352474636 FPix_BpI_D2_BLD10_PNL2_PLQ3 r/phi/z = 13.2728/-0.906526/48.5563 cmssw side/disk/blade/pannel/plaq=2/2/21/2/3 0.939693
-352475652 FPix_BpI_D2_BLD9_PNL2_PLQ1 r/phi/z = 7.41114/-0.636998/49.1563 cmssw side/disk/blade/pannel/plaq=2/2/22/2/1 0.939693
-352475656 FPix_BpI_D2_BLD9_PNL2_PLQ2 r/phi/z = 10.3416/-0.641957/49.1563 cmssw side/disk/blade/pannel/plaq=2/2/22/2/2 0.939693
-352475660 FPix_BpI_D2_BLD9_PNL2_PLQ3 r/phi/z = 13.2728/-0.644727/49.1563 cmssw side/disk/blade/pannel/plaq=2/2/22/2/3 0.939693
-352476676 FPix_BpI_D2_BLD8_PNL2_PLQ1 r/phi/z = 7.41113/-0.375198/49.7563 cmssw side/disk/blade/pannel/plaq=2/2/23/2/1 0.939693
-352476680 FPix_BpI_D2_BLD8_PNL2_PLQ2 r/phi/z = 10.3416/-0.380158/49.7563 cmssw side/disk/blade/pannel/plaq=2/2/23/2/2 0.939693
-352476684 FPix_BpI_D2_BLD8_PNL2_PLQ3 r/phi/z = 13.2728/-0.382928/49.7563 cmssw side/disk/blade/pannel/plaq=2/2/23/2/3 0.939693
-352477700 FPix_BpI_D2_BLD7_PNL2_PLQ1 r/phi/z = 7.41113/-0.113399/50.3563 cmssw side/disk/blade/pannel/plaq=2/2/24/2/1 0.939693
-352477704 FPix_BpI_D2_BLD7_PNL2_PLQ2 r/phi/z = 10.3416/-0.118358/50.3563 cmssw side/disk/blade/pannel/plaq=2/2/24/2/2 0.939693
-352477708 FPix_BpI_D2_BLD7_PNL2_PLQ3 r/phi/z = 13.2728/-0.121128/50.3563 cmssw side/disk/blade/pannel/plaq=2/2/24/2/3 0.939693
-343999748 FPix_BmI_D1_BLD6_PNL1_PLQ1 r/phi/z = 6.23085/0.110083/-33.6437 cmssw side/disk/blade/pannel/plaq=1/1/1/1/1 0.939693
-343999752 FPix_BmI_D1_BLD6_PNL1_PLQ2 r/phi/z = 8.70347/0.115998/-33.6437 cmssw side/disk/blade/pannel/plaq=1/1/1/1/2 0.939693
-343999756 FPix_BmI_D1_BLD6_PNL1_PLQ3 r/phi/z = 11.5766/0.119696/-33.6437 cmssw side/disk/blade/pannel/plaq=1/1/1/1/3 0.939693
-343999760 FPix_BmI_D1_BLD6_PNL1_PLQ4 r/phi/z = 14.0506/0.121669/-33.6437 cmssw side/disk/blade/pannel/plaq=1/1/1/1/4 0.939693
-344000772 FPix_BmI_D1_BLD5_PNL1_PLQ1 r/phi/z = 6.23085/0.371883/-34.2437 cmssw side/disk/blade/pannel/plaq=1/1/2/1/1 0.939693
-344000776 FPix_BmI_D1_BLD5_PNL1_PLQ2 r/phi/z = 8.70347/0.377797/-34.2437 cmssw side/disk/blade/pannel/plaq=1/1/2/1/2 0.939693
-344000780 FPix_BmI_D1_BLD5_PNL1_PLQ3 r/phi/z = 11.5766/0.381496/-34.2437 cmssw side/disk/blade/pannel/plaq=1/1/2/1/3 0.939693
-344000784 FPix_BmI_D1_BLD5_PNL1_PLQ4 r/phi/z = 14.0506/0.383468/-34.2437 cmssw side/disk/blade/pannel/plaq=1/1/2/1/4 0.939693
-344001796 FPix_BmI_D1_BLD4_PNL1_PLQ1 r/phi/z = 6.23085/0.633682/-34.8437 cmssw side/disk/blade/pannel/plaq=1/1/3/1/1 0.939693
-344001800 FPix_BmI_D1_BLD4_PNL1_PLQ2 r/phi/z = 8.70347/0.639597/-34.8437 cmssw side/disk/blade/pannel/plaq=1/1/3/1/2 0.939693
-344001804 FPix_BmI_D1_BLD4_PNL1_PLQ3 r/phi/z = 11.5766/0.643295/-34.8437 cmssw side/disk/blade/pannel/plaq=1/1/3/1/3 0.939693
-344001808 FPix_BmI_D1_BLD4_PNL1_PLQ4 r/phi/z = 14.0506/0.645268/-34.8437 cmssw side/disk/blade/pannel/plaq=1/1/3/1/4 0.939693
-344002820 FPix_BmI_D1_BLD3_PNL1_PLQ1 r/phi/z = 6.23085/0.895482/-35.4437 cmssw side/disk/blade/pannel/plaq=1/1/4/1/1 0.939693
-344002824 FPix_BmI_D1_BLD3_PNL1_PLQ2 r/phi/z = 8.70347/0.901396/-35.4437 cmssw side/disk/blade/pannel/plaq=1/1/4/1/2 0.939693
-344002828 FPix_BmI_D1_BLD3_PNL1_PLQ3 r/phi/z = 11.5766/0.905095/-35.4437 cmssw side/disk/blade/pannel/plaq=1/1/4/1/3 0.939693
-344002832 FPix_BmI_D1_BLD3_PNL1_PLQ4 r/phi/z = 14.0506/0.907067/-35.4437 cmssw side/disk/blade/pannel/plaq=1/1/4/1/4 0.939693
-344003844 FPix_BmI_D1_BLD2_PNL1_PLQ1 r/phi/z = 6.23085/1.15728/-36.0437 cmssw side/disk/blade/pannel/plaq=1/1/5/1/1 0.939693
-344003848 FPix_BmI_D1_BLD2_PNL1_PLQ2 r/phi/z = 8.70347/1.1632/-36.0437 cmssw side/disk/blade/pannel/plaq=1/1/5/1/2 0.939693
-344003852 FPix_BmI_D1_BLD2_PNL1_PLQ3 r/phi/z = 11.5766/1.16689/-36.0437 cmssw side/disk/blade/pannel/plaq=1/1/5/1/3 0.939693
-344003856 FPix_BmI_D1_BLD2_PNL1_PLQ4 r/phi/z = 14.0506/1.16887/-36.0437 cmssw side/disk/blade/pannel/plaq=1/1/5/1/4 0.939693
-344004868 FPix_BmI_D1_BLD1_PNL1_PLQ1 r/phi/z = 6.23085/1.41908/-36.6437 cmssw side/disk/blade/pannel/plaq=1/1/6/1/1 0.939693
-344004872 FPix_BmI_D1_BLD1_PNL1_PLQ2 r/phi/z = 8.70347/1.42499/-36.6437 cmssw side/disk/blade/pannel/plaq=1/1/6/1/2 0.939693
-344004876 FPix_BmI_D1_BLD1_PNL1_PLQ3 r/phi/z = 11.5766/1.42869/-36.6437 cmssw side/disk/blade/pannel/plaq=1/1/6/1/3 0.939693
-344004880 FPix_BmI_D1_BLD1_PNL1_PLQ4 r/phi/z = 14.0506/1.43067/-36.6437 cmssw side/disk/blade/pannel/plaq=1/1/6/1/4 0.939693
-344005892 FPix_BmO_D1_BLD1_PNL1_PLQ1 r/phi/z = 6.23085/1.68088/-33.6437 cmssw side/disk/blade/pannel/plaq=1/1/7/1/1 0.939693
-344005896 FPix_BmO_D1_BLD1_PNL1_PLQ2 r/phi/z = 8.70347/1.68679/-33.6437 cmssw side/disk/blade/pannel/plaq=1/1/7/1/2 0.939693
-344005900 FPix_BmO_D1_BLD1_PNL1_PLQ3 r/phi/z = 11.5766/1.69049/-33.6437 cmssw side/disk/blade/pannel/plaq=1/1/7/1/3 0.939693
-344005904 FPix_BmO_D1_BLD1_PNL1_PLQ4 r/phi/z = 14.0506/1.69247/-33.6437 cmssw side/disk/blade/pannel/plaq=1/1/7/1/4 0.939693
-344006916 FPix_BmO_D1_BLD2_PNL1_PLQ1 r/phi/z = 6.23085/1.94268/-34.2437 cmssw side/disk/blade/pannel/plaq=1/1/8/1/1 0.939693
-344006920 FPix_BmO_D1_BLD2_PNL1_PLQ2 r/phi/z = 8.70347/1.94859/-34.2437 cmssw side/disk/blade/pannel/plaq=1/1/8/1/2 0.939693
-344006924 FPix_BmO_D1_BLD2_PNL1_PLQ3 r/phi/z = 11.5766/1.95229/-34.2437 cmssw side/disk/blade/pannel/plaq=1/1/8/1/3 0.939693
-344006928 FPix_BmO_D1_BLD2_PNL1_PLQ4 r/phi/z = 14.0506/1.95426/-34.2437 cmssw side/disk/blade/pannel/plaq=1/1/8/1/4 0.939693
-344007940 FPix_BmO_D1_BLD3_PNL1_PLQ1 r/phi/z = 6.23085/2.20448/-34.8437 cmssw side/disk/blade/pannel/plaq=1/1/9/1/1 0.939693
-344007944 FPix_BmO_D1_BLD3_PNL1_PLQ2 r/phi/z = 8.70347/2.21039/-34.8437 cmssw side/disk/blade/pannel/plaq=1/1/9/1/2 0.939693
-344007948 FPix_BmO_D1_BLD3_PNL1_PLQ3 r/phi/z = 11.5766/2.21409/-34.8437 cmssw side/disk/blade/pannel/plaq=1/1/9/1/3 0.939693
-344007952 FPix_BmO_D1_BLD3_PNL1_PLQ4 r/phi/z = 14.0506/2.21606/-34.8437 cmssw side/disk/blade/pannel/plaq=1/1/9/1/4 0.939693
-344008964 FPix_BmO_D1_BLD4_PNL1_PLQ1 r/phi/z = 6.23085/2.46628/-35.4437 cmssw side/disk/blade/pannel/plaq=1/1/10/1/1 0.939693
-344008968 FPix_BmO_D1_BLD4_PNL1_PLQ2 r/phi/z = 8.70347/2.47219/-35.4437 cmssw side/disk/blade/pannel/plaq=1/1/10/1/2 0.939693
-344008972 FPix_BmO_D1_BLD4_PNL1_PLQ3 r/phi/z = 11.5766/2.47589/-35.4437 cmssw side/disk/blade/pannel/plaq=1/1/10/1/3 0.939693
-344008976 FPix_BmO_D1_BLD4_PNL1_PLQ4 r/phi/z = 14.0506/2.47786/-35.4437 cmssw side/disk/blade/pannel/plaq=1/1/10/1/4 0.939693
-344009988 FPix_BmO_D1_BLD5_PNL1_PLQ1 r/phi/z = 6.23085/2.72808/-36.0437 cmssw side/disk/blade/pannel/plaq=1/1/11/1/1 0.939693
-344009992 FPix_BmO_D1_BLD5_PNL1_PLQ2 r/phi/z = 8.70347/2.73399/-36.0437 cmssw side/disk/blade/pannel/plaq=1/1/11/1/2 0.939693
-344009996 FPix_BmO_D1_BLD5_PNL1_PLQ3 r/phi/z = 11.5766/2.73769/-36.0437 cmssw side/disk/blade/pannel/plaq=1/1/11/1/3 0.939693
-344010000 FPix_BmO_D1_BLD5_PNL1_PLQ4 r/phi/z = 14.0506/2.73966/-36.0437 cmssw side/disk/blade/pannel/plaq=1/1/11/1/4 0.939693
-344011012 FPix_BmO_D1_BLD6_PNL1_PLQ1 r/phi/z = 6.23085/2.98988/-36.6437 cmssw side/disk/blade/pannel/plaq=1/1/12/1/1 0.939693
-344011016 FPix_BmO_D1_BLD6_PNL1_PLQ2 r/phi/z = 8.70347/2.99579/-36.6437 cmssw side/disk/blade/pannel/plaq=1/1/12/1/2 0.939693
-344011020 FPix_BmO_D1_BLD6_PNL1_PLQ3 r/phi/z = 11.5766/2.99949/-36.6437 cmssw side/disk/blade/pannel/plaq=1/1/12/1/3 0.939693
-344011024 FPix_BmO_D1_BLD6_PNL1_PLQ4 r/phi/z = 14.0506/3.00146/-36.6437 cmssw side/disk/blade/pannel/plaq=1/1/12/1/4 0.939693
-344012036 FPix_BmO_D1_BLD7_PNL1_PLQ1 r/phi/z = 6.23085/-3.03151/-33.6437 cmssw side/disk/blade/pannel/plaq=1/1/13/1/1 0.939693
-344012040 FPix_BmO_D1_BLD7_PNL1_PLQ2 r/phi/z = 8.70347/-3.02559/-33.6437 cmssw side/disk/blade/pannel/plaq=1/1/13/1/2 0.939693
-344012044 FPix_BmO_D1_BLD7_PNL1_PLQ3 r/phi/z = 11.5766/-3.0219/-33.6437 cmssw side/disk/blade/pannel/plaq=1/1/13/1/3 0.939693
-344012048 FPix_BmO_D1_BLD7_PNL1_PLQ4 r/phi/z = 14.0506/-3.01992/-33.6437 cmssw side/disk/blade/pannel/plaq=1/1/13/1/4 0.939693
-344013060 FPix_BmO_D1_BLD8_PNL1_PLQ1 r/phi/z = 6.23085/-2.76971/-34.2437 cmssw side/disk/blade/pannel/plaq=1/1/14/1/1 0.939693
-344013064 FPix_BmO_D1_BLD8_PNL1_PLQ2 r/phi/z = 8.70347/-2.7638/-34.2437 cmssw side/disk/blade/pannel/plaq=1/1/14/1/2 0.939693
-344013068 FPix_BmO_D1_BLD8_PNL1_PLQ3 r/phi/z = 11.5766/-2.7601/-34.2437 cmssw side/disk/blade/pannel/plaq=1/1/14/1/3 0.939693
-344013072 FPix_BmO_D1_BLD8_PNL1_PLQ4 r/phi/z = 14.0506/-2.75812/-34.2437 cmssw side/disk/blade/pannel/plaq=1/1/14/1/4 0.939693
-344014084 FPix_BmO_D1_BLD9_PNL1_PLQ1 r/phi/z = 6.23085/-2.50791/-34.8437 cmssw side/disk/blade/pannel/plaq=1/1/15/1/1 0.939693
-344014088 FPix_BmO_D1_BLD9_PNL1_PLQ2 r/phi/z = 8.70347/-2.502/-34.8437 cmssw side/disk/blade/pannel/plaq=1/1/15/1/2 0.939693
-344014092 FPix_BmO_D1_BLD9_PNL1_PLQ3 r/phi/z = 11.5766/-2.4983/-34.8437 cmssw side/disk/blade/pannel/plaq=1/1/15/1/3 0.939693
-344014096 FPix_BmO_D1_BLD9_PNL1_PLQ4 r/phi/z = 14.0506/-2.49632/-34.8437 cmssw side/disk/blade/pannel/plaq=1/1/15/1/4 0.939693
-344015108 FPix_BmO_D1_BLD10_PNL1_PLQ1 r/phi/z = 6.23085/-2.24611/-35.4437 cmssw side/disk/blade/pannel/plaq=1/1/16/1/1 0.939693
-344015112 FPix_BmO_D1_BLD10_PNL1_PLQ2 r/phi/z = 8.70347/-2.2402/-35.4437 cmssw side/disk/blade/pannel/plaq=1/1/16/1/2 0.939693
-344015116 FPix_BmO_D1_BLD10_PNL1_PLQ3 r/phi/z = 11.5766/-2.2365/-35.4437 cmssw side/disk/blade/pannel/plaq=1/1/16/1/3 0.939693
-344015120 FPix_BmO_D1_BLD10_PNL1_PLQ4 r/phi/z = 14.0506/-2.23453/-35.4437 cmssw side/disk/blade/pannel/plaq=1/1/16/1/4 0.939693
-344016132 FPix_BmO_D1_BLD11_PNL1_PLQ1 r/phi/z = 6.23085/-1.98431/-36.0437 cmssw side/disk/blade/pannel/plaq=1/1/17/1/1 0.939693
-344016136 FPix_BmO_D1_BLD11_PNL1_PLQ2 r/phi/z = 8.70347/-1.9784/-36.0437 cmssw side/disk/blade/pannel/plaq=1/1/17/1/2 0.939693
-344016140 FPix_BmO_D1_BLD11_PNL1_PLQ3 r/phi/z = 11.5766/-1.9747/-36.0437 cmssw side/disk/blade/pannel/plaq=1/1/17/1/3 0.939693
-344016144 FPix_BmO_D1_BLD11_PNL1_PLQ4 r/phi/z = 14.0506/-1.97273/-36.0437 cmssw side/disk/blade/pannel/plaq=1/1/17/1/4 0.939693
-344017156 FPix_BmO_D1_BLD12_PNL1_PLQ1 r/phi/z = 6.23085/-1.72251/-36.6437 cmssw side/disk/blade/pannel/plaq=1/1/18/1/1 0.939693
-344017160 FPix_BmO_D1_BLD12_PNL1_PLQ2 r/phi/z = 8.70347/-1.7166/-36.6437 cmssw side/disk/blade/pannel/plaq=1/1/18/1/2 0.939693
-344017164 FPix_BmO_D1_BLD12_PNL1_PLQ3 r/phi/z = 11.5766/-1.7129/-36.6437 cmssw side/disk/blade/pannel/plaq=1/1/18/1/3 0.939693
-344017168 FPix_BmO_D1_BLD12_PNL1_PLQ4 r/phi/z = 14.0506/-1.71093/-36.6437 cmssw side/disk/blade/pannel/plaq=1/1/18/1/4 0.939693
-344018180 FPix_BmI_D1_BLD12_PNL1_PLQ1 r/phi/z = 6.23085/-1.46071/-33.6437 cmssw side/disk/blade/pannel/plaq=1/1/19/1/1 0.939693
-344018184 FPix_BmI_D1_BLD12_PNL1_PLQ2 r/phi/z = 8.70347/-1.4548/-33.6437 cmssw side/disk/blade/pannel/plaq=1/1/19/1/2 0.939693
-344018188 FPix_BmI_D1_BLD12_PNL1_PLQ3 r/phi/z = 11.5766/-1.4511/-33.6437 cmssw side/disk/blade/pannel/plaq=1/1/19/1/3 0.939693
-344018192 FPix_BmI_D1_BLD12_PNL1_PLQ4 r/phi/z = 14.0506/-1.44913/-33.6437 cmssw side/disk/blade/pannel/plaq=1/1/19/1/4 0.939693
-344019204 FPix_BmI_D1_BLD11_PNL1_PLQ1 r/phi/z = 6.23085/-1.19891/-34.2437 cmssw side/disk/blade/pannel/plaq=1/1/20/1/1 0.939693
-344019208 FPix_BmI_D1_BLD11_PNL1_PLQ2 r/phi/z = 8.70347/-1.193/-34.2437 cmssw side/disk/blade/pannel/plaq=1/1/20/1/2 0.939693
-344019212 FPix_BmI_D1_BLD11_PNL1_PLQ3 r/phi/z = 11.5766/-1.1893/-34.2437 cmssw side/disk/blade/pannel/plaq=1/1/20/1/3 0.939693
-344019216 FPix_BmI_D1_BLD11_PNL1_PLQ4 r/phi/z = 14.0506/-1.18733/-34.2437 cmssw side/disk/blade/pannel/plaq=1/1/20/1/4 0.939693
-344020228 FPix_BmI_D1_BLD10_PNL1_PLQ1 r/phi/z = 6.23085/-0.937114/-34.8437 cmssw side/disk/blade/pannel/plaq=1/1/21/1/1 0.939693
-344020232 FPix_BmI_D1_BLD10_PNL1_PLQ2 r/phi/z = 8.70347/-0.9312/-34.8437 cmssw side/disk/blade/pannel/plaq=1/1/21/1/2 0.939693
-344020236 FPix_BmI_D1_BLD10_PNL1_PLQ3 r/phi/z = 11.5766/-0.927501/-34.8437 cmssw side/disk/blade/pannel/plaq=1/1/21/1/3 0.939693
-344020240 FPix_BmI_D1_BLD10_PNL1_PLQ4 r/phi/z = 14.0506/-0.925528/-34.8437 cmssw side/disk/blade/pannel/plaq=1/1/21/1/4 0.939693
-344021252 FPix_BmI_D1_BLD9_PNL1_PLQ1 r/phi/z = 6.23085/-0.675315/-35.4437 cmssw side/disk/blade/pannel/plaq=1/1/22/1/1 0.939693
-344021256 FPix_BmI_D1_BLD9_PNL1_PLQ2 r/phi/z = 8.70347/-0.6694/-35.4437 cmssw side/disk/blade/pannel/plaq=1/1/22/1/2 0.939693
-344021260 FPix_BmI_D1_BLD9_PNL1_PLQ3 r/phi/z = 11.5766/-0.665702/-35.4437 cmssw side/disk/blade/pannel/plaq=1/1/22/1/3 0.939693
-344021264 FPix_BmI_D1_BLD9_PNL1_PLQ4 r/phi/z = 14.0506/-0.663729/-35.4437 cmssw side/disk/blade/pannel/plaq=1/1/22/1/4 0.939693
-344022276 FPix_BmI_D1_BLD8_PNL1_PLQ1 r/phi/z = 6.23085/-0.413515/-36.0437 cmssw side/disk/blade/pannel/plaq=1/1/23/1/1 0.939693
-344022280 FPix_BmI_D1_BLD8_PNL1_PLQ2 r/phi/z = 8.70347/-0.407601/-36.0437 cmssw side/disk/blade/pannel/plaq=1/1/23/1/2 0.939693
-344022284 FPix_BmI_D1_BLD8_PNL1_PLQ3 r/phi/z = 11.5766/-0.403902/-36.0437 cmssw side/disk/blade/pannel/plaq=1/1/23/1/3 0.939693
-344022288 FPix_BmI_D1_BLD8_PNL1_PLQ4 r/phi/z = 14.0506/-0.40193/-36.0437 cmssw side/disk/blade/pannel/plaq=1/1/23/1/4 0.939693
-344023300 FPix_BmI_D1_BLD7_PNL1_PLQ1 r/phi/z = 6.23085/-0.151716/-36.6437 cmssw side/disk/blade/pannel/plaq=1/1/24/1/1 0.939693
-344023304 FPix_BmI_D1_BLD7_PNL1_PLQ2 r/phi/z = 8.70347/-0.145802/-36.6437 cmssw side/disk/blade/pannel/plaq=1/1/24/1/2 0.939693
-344023308 FPix_BmI_D1_BLD7_PNL1_PLQ3 r/phi/z = 11.5766/-0.142103/-36.6437 cmssw side/disk/blade/pannel/plaq=1/1/24/1/3 0.939693
-344023312 FPix_BmI_D1_BLD7_PNL1_PLQ4 r/phi/z = 14.0506/-0.14013/-36.6437 cmssw side/disk/blade/pannel/plaq=1/1/24/1/4 0.939693
-344000004 FPix_BmI_D1_BLD6_PNL2_PLQ1 r/phi/z = 7.41114/0.1484/-34.3563 cmssw side/disk/blade/pannel/plaq=1/1/1/2/1 -0.939693
-344000008 FPix_BmI_D1_BLD6_PNL2_PLQ2 r/phi/z = 10.3416/0.143441/-34.3563 cmssw side/disk/blade/pannel/plaq=1/1/1/2/2 -0.939693
-344000012 FPix_BmI_D1_BLD6_PNL2_PLQ3 r/phi/z = 13.2728/0.140671/-34.3563 cmssw side/disk/blade/pannel/plaq=1/1/1/2/3 -0.939693
-344001028 FPix_BmI_D1_BLD5_PNL2_PLQ1 r/phi/z = 7.41114/0.4102/-34.9563 cmssw side/disk/blade/pannel/plaq=1/1/2/2/1 -0.939693
-344001032 FPix_BmI_D1_BLD5_PNL2_PLQ2 r/phi/z = 10.3416/0.40524/-34.9563 cmssw side/disk/blade/pannel/plaq=1/1/2/2/2 -0.939693
-344001036 FPix_BmI_D1_BLD5_PNL2_PLQ3 r/phi/z = 13.2728/0.402471/-34.9563 cmssw side/disk/blade/pannel/plaq=1/1/2/2/3 -0.939693
-344002052 FPix_BmI_D1_BLD4_PNL2_PLQ1 r/phi/z = 7.41114/0.671999/-35.5563 cmssw side/disk/blade/pannel/plaq=1/1/3/2/1 -0.939693
-344002056 FPix_BmI_D1_BLD4_PNL2_PLQ2 r/phi/z = 10.3416/0.66704/-35.5563 cmssw side/disk/blade/pannel/plaq=1/1/3/2/2 -0.939693
-344002060 FPix_BmI_D1_BLD4_PNL2_PLQ3 r/phi/z = 13.2728/0.66427/-35.5563 cmssw side/disk/blade/pannel/plaq=1/1/3/2/3 -0.939693
-344003076 FPix_BmI_D1_BLD3_PNL2_PLQ1 r/phi/z = 7.41114/0.933799/-36.1563 cmssw side/disk/blade/pannel/plaq=1/1/4/2/1 -0.939693
-344003080 FPix_BmI_D1_BLD3_PNL2_PLQ2 r/phi/z = 10.3416/0.928839/-36.1563 cmssw side/disk/blade/pannel/plaq=1/1/4/2/2 -0.939693
-344003084 FPix_BmI_D1_BLD3_PNL2_PLQ3 r/phi/z = 13.2728/0.926069/-36.1563 cmssw side/disk/blade/pannel/plaq=1/1/4/2/3 -0.939693
-344004100 FPix_BmI_D1_BLD2_PNL2_PLQ1 r/phi/z = 7.41113/1.1956/-36.7563 cmssw side/disk/blade/pannel/plaq=1/1/5/2/1 -0.939693
-344004104 FPix_BmI_D1_BLD2_PNL2_PLQ2 r/phi/z = 10.3416/1.19064/-36.7563 cmssw side/disk/blade/pannel/plaq=1/1/5/2/2 -0.939693
-344004108 FPix_BmI_D1_BLD2_PNL2_PLQ3 r/phi/z = 13.2728/1.18787/-36.7563 cmssw side/disk/blade/pannel/plaq=1/1/5/2/3 -0.939693
-344005124 FPix_BmI_D1_BLD1_PNL2_PLQ1 r/phi/z = 7.41113/1.4574/-37.3563 cmssw side/disk/blade/pannel/plaq=1/1/6/2/1 -0.939693
-344005128 FPix_BmI_D1_BLD1_PNL2_PLQ2 r/phi/z = 10.3416/1.45244/-37.3563 cmssw side/disk/blade/pannel/plaq=1/1/6/2/2 -0.939693
-344005132 FPix_BmI_D1_BLD1_PNL2_PLQ3 r/phi/z = 13.2728/1.44967/-37.3563 cmssw side/disk/blade/pannel/plaq=1/1/6/2/3 -0.939693
-344006148 FPix_BmO_D1_BLD1_PNL2_PLQ1 r/phi/z = 7.41114/1.7192/-34.3563 cmssw side/disk/blade/pannel/plaq=1/1/7/2/1 -0.939693
-344006152 FPix_BmO_D1_BLD1_PNL2_PLQ2 r/phi/z = 10.3416/1.71424/-34.3563 cmssw side/disk/blade/pannel/plaq=1/1/7/2/2 -0.939693
-344006156 FPix_BmO_D1_BLD1_PNL2_PLQ3 r/phi/z = 13.2728/1.71147/-34.3563 cmssw side/disk/blade/pannel/plaq=1/1/7/2/3 -0.939693
-344007172 FPix_BmO_D1_BLD2_PNL2_PLQ1 r/phi/z = 7.41114/1.981/-34.9563 cmssw side/disk/blade/pannel/plaq=1/1/8/2/1 -0.939693
-344007176 FPix_BmO_D1_BLD2_PNL2_PLQ2 r/phi/z = 10.3416/1.97604/-34.9563 cmssw side/disk/blade/pannel/plaq=1/1/8/2/2 -0.939693
-344007180 FPix_BmO_D1_BLD2_PNL2_PLQ3 r/phi/z = 13.2728/1.97327/-34.9563 cmssw side/disk/blade/pannel/plaq=1/1/8/2/3 -0.939693
-344008196 FPix_BmO_D1_BLD3_PNL2_PLQ1 r/phi/z = 7.41114/2.2428/-35.5563 cmssw side/disk/blade/pannel/plaq=1/1/9/2/1 -0.939693
-344008200 FPix_BmO_D1_BLD3_PNL2_PLQ2 r/phi/z = 10.3416/2.23784/-35.5563 cmssw side/disk/blade/pannel/plaq=1/1/9/2/2 -0.939693
-344008204 FPix_BmO_D1_BLD3_PNL2_PLQ3 r/phi/z = 13.2728/2.23507/-35.5563 cmssw side/disk/blade/pannel/plaq=1/1/9/2/3 -0.939693
-344009220 FPix_BmO_D1_BLD4_PNL2_PLQ1 r/phi/z = 7.41114/2.5046/-36.1563 cmssw side/disk/blade/pannel/plaq=1/1/10/2/1 -0.939693
-344009224 FPix_BmO_D1_BLD4_PNL2_PLQ2 r/phi/z = 10.3416/2.49964/-36.1563 cmssw side/disk/blade/pannel/plaq=1/1/10/2/2 -0.939693
-344009228 FPix_BmO_D1_BLD4_PNL2_PLQ3 r/phi/z = 13.2728/2.49687/-36.1563 cmssw side/disk/blade/pannel/plaq=1/1/10/2/3 -0.939693
-344010244 FPix_BmO_D1_BLD5_PNL2_PLQ1 r/phi/z = 7.41113/2.76639/-36.7563 cmssw side/disk/blade/pannel/plaq=1/1/11/2/1 -0.939693
-344010248 FPix_BmO_D1_BLD5_PNL2_PLQ2 r/phi/z = 10.3416/2.76143/-36.7563 cmssw side/disk/blade/pannel/plaq=1/1/11/2/2 -0.939693
-344010252 FPix_BmO_D1_BLD5_PNL2_PLQ3 r/phi/z = 13.2728/2.75867/-36.7563 cmssw side/disk/blade/pannel/plaq=1/1/11/2/3 -0.939693
-344011268 FPix_BmO_D1_BLD6_PNL2_PLQ1 r/phi/z = 7.41113/3.02819/-37.3563 cmssw side/disk/blade/pannel/plaq=1/1/12/2/1 -0.939693
-344011272 FPix_BmO_D1_BLD6_PNL2_PLQ2 r/phi/z = 10.3416/3.02323/-37.3563 cmssw side/disk/blade/pannel/plaq=1/1/12/2/2 -0.939693
-344011276 FPix_BmO_D1_BLD6_PNL2_PLQ3 r/phi/z = 13.2728/3.02046/-37.3563 cmssw side/disk/blade/pannel/plaq=1/1/12/2/3 -0.939693
-344012292 FPix_BmO_D1_BLD7_PNL2_PLQ1 r/phi/z = 7.41114/-2.99319/-34.3563 cmssw side/disk/blade/pannel/plaq=1/1/13/2/1 -0.939693
-344012296 FPix_BmO_D1_BLD7_PNL2_PLQ2 r/phi/z = 10.3416/-2.99815/-34.3563 cmssw side/disk/blade/pannel/plaq=1/1/13/2/2 -0.939693
-344012300 FPix_BmO_D1_BLD7_PNL2_PLQ3 r/phi/z = 13.2728/-3.00092/-34.3563 cmssw side/disk/blade/pannel/plaq=1/1/13/2/3 -0.939693
-344013316 FPix_BmO_D1_BLD8_PNL2_PLQ1 r/phi/z = 7.41114/-2.73139/-34.9563 cmssw side/disk/blade/pannel/plaq=1/1/14/2/1 -0.939693
-344013320 FPix_BmO_D1_BLD8_PNL2_PLQ2 r/phi/z = 10.3416/-2.73635/-34.9563 cmssw side/disk/blade/pannel/plaq=1/1/14/2/2 -0.939693
-344013324 FPix_BmO_D1_BLD8_PNL2_PLQ3 r/phi/z = 13.2728/-2.73912/-34.9563 cmssw side/disk/blade/pannel/plaq=1/1/14/2/3 -0.939693
-344014340 FPix_BmO_D1_BLD9_PNL2_PLQ1 r/phi/z = 7.41114/-2.46959/-35.5563 cmssw side/disk/blade/pannel/plaq=1/1/15/2/1 -0.939693
-344014344 FPix_BmO_D1_BLD9_PNL2_PLQ2 r/phi/z = 10.3416/-2.47455/-35.5563 cmssw side/disk/blade/pannel/plaq=1/1/15/2/2 -0.939693
-344014348 FPix_BmO_D1_BLD9_PNL2_PLQ3 r/phi/z = 13.2728/-2.47732/-35.5563 cmssw side/disk/blade/pannel/plaq=1/1/15/2/3 -0.939693
-344015364 FPix_BmO_D1_BLD10_PNL2_PLQ1 r/phi/z = 7.41114/-2.20779/-36.1563 cmssw side/disk/blade/pannel/plaq=1/1/16/2/1 -0.939693
-344015368 FPix_BmO_D1_BLD10_PNL2_PLQ2 r/phi/z = 10.3416/-2.21275/-36.1563 cmssw side/disk/blade/pannel/plaq=1/1/16/2/2 -0.939693
-344015372 FPix_BmO_D1_BLD10_PNL2_PLQ3 r/phi/z = 13.2728/-2.21552/-36.1563 cmssw side/disk/blade/pannel/plaq=1/1/16/2/3 -0.939693
-344016388 FPix_BmO_D1_BLD11_PNL2_PLQ1 r/phi/z = 7.41113/-1.94599/-36.7563 cmssw side/disk/blade/pannel/plaq=1/1/17/2/1 -0.939693
-344016392 FPix_BmO_D1_BLD11_PNL2_PLQ2 r/phi/z = 10.3416/-1.95095/-36.7563 cmssw side/disk/blade/pannel/plaq=1/1/17/2/2 -0.939693
-344016396 FPix_BmO_D1_BLD11_PNL2_PLQ3 r/phi/z = 13.2728/-1.95372/-36.7563 cmssw side/disk/blade/pannel/plaq=1/1/17/2/3 -0.939693
-344017412 FPix_BmO_D1_BLD12_PNL2_PLQ1 r/phi/z = 7.41113/-1.6842/-37.3563 cmssw side/disk/blade/pannel/plaq=1/1/18/2/1 -0.939693
-344017416 FPix_BmO_D1_BLD12_PNL2_PLQ2 r/phi/z = 10.3416/-1.68915/-37.3563 cmssw side/disk/blade/pannel/plaq=1/1/18/2/2 -0.939693
-344017420 FPix_BmO_D1_BLD12_PNL2_PLQ3 r/phi/z = 13.2728/-1.69192/-37.3563 cmssw side/disk/blade/pannel/plaq=1/1/18/2/3 -0.939693
-344018436 FPix_BmI_D1_BLD12_PNL2_PLQ1 r/phi/z = 7.41114/-1.4224/-34.3563 cmssw side/disk/blade/pannel/plaq=1/1/19/2/1 -0.939693
-344018440 FPix_BmI_D1_BLD12_PNL2_PLQ2 r/phi/z = 10.3416/-1.42736/-34.3563 cmssw side/disk/blade/pannel/plaq=1/1/19/2/2 -0.939693
-344018444 FPix_BmI_D1_BLD12_PNL2_PLQ3 r/phi/z = 13.2728/-1.43013/-34.3563 cmssw side/disk/blade/pannel/plaq=1/1/19/2/3 -0.939693
-344019460 FPix_BmI_D1_BLD11_PNL2_PLQ1 r/phi/z = 7.41114/-1.1606/-34.9563 cmssw side/disk/blade/pannel/plaq=1/1/20/2/1 -0.939693
-344019464 FPix_BmI_D1_BLD11_PNL2_PLQ2 r/phi/z = 10.3416/-1.16556/-34.9563 cmssw side/disk/blade/pannel/plaq=1/1/20/2/2 -0.939693
-344019468 FPix_BmI_D1_BLD11_PNL2_PLQ3 r/phi/z = 13.2728/-1.16833/-34.9563 cmssw side/disk/blade/pannel/plaq=1/1/20/2/3 -0.939693
-344020484 FPix_BmI_D1_BLD10_PNL2_PLQ1 r/phi/z = 7.41114/-0.898797/-35.5563 cmssw side/disk/blade/pannel/plaq=1/1/21/2/1 -0.939693
-344020488 FPix_BmI_D1_BLD10_PNL2_PLQ2 r/phi/z = 10.3416/-0.903756/-35.5563 cmssw side/disk/blade/pannel/plaq=1/1/21/2/2 -0.939693
-344020492 FPix_BmI_D1_BLD10_PNL2_PLQ3 r/phi/z = 13.2728/-0.906526/-35.5563 cmssw side/disk/blade/pannel/plaq=1/1/21/2/3 -0.939693
-344021508 FPix_BmI_D1_BLD9_PNL2_PLQ1 r/phi/z = 7.41114/-0.636998/-36.1563 cmssw side/disk/blade/pannel/plaq=1/1/22/2/1 -0.939693
-344021512 FPix_BmI_D1_BLD9_PNL2_PLQ2 r/phi/z = 10.3416/-0.641957/-36.1563 cmssw side/disk/blade/pannel/plaq=1/1/22/2/2 -0.939693
-344021516 FPix_BmI_D1_BLD9_PNL2_PLQ3 r/phi/z = 13.2728/-0.644727/-36.1563 cmssw side/disk/blade/pannel/plaq=1/1/22/2/3 -0.939693
-344022532 FPix_BmI_D1_BLD8_PNL2_PLQ1 r/phi/z = 7.41113/-0.375198/-36.7563 cmssw side/disk/blade/pannel/plaq=1/1/23/2/1 -0.939693
-344022536 FPix_BmI_D1_BLD8_PNL2_PLQ2 r/phi/z = 10.3416/-0.380158/-36.7563 cmssw side/disk/blade/pannel/plaq=1/1/23/2/2 -0.939693
-344022540 FPix_BmI_D1_BLD8_PNL2_PLQ3 r/phi/z = 13.2728/-0.382928/-36.7563 cmssw side/disk/blade/pannel/plaq=1/1/23/2/3 -0.939693
-344023556 FPix_BmI_D1_BLD7_PNL2_PLQ1 r/phi/z = 7.41113/-0.113399/-37.3563 cmssw side/disk/blade/pannel/plaq=1/1/24/2/1 -0.939693
-344023560 FPix_BmI_D1_BLD7_PNL2_PLQ2 r/phi/z = 10.3416/-0.118358/-37.3563 cmssw side/disk/blade/pannel/plaq=1/1/24/2/2 -0.939693
-344023564 FPix_BmI_D1_BLD7_PNL2_PLQ3 r/phi/z = 13.2728/-0.121128/-37.3563 cmssw side/disk/blade/pannel/plaq=1/1/24/2/3 -0.939693
-344065284 FPix_BmI_D2_BLD6_PNL1_PLQ1 r/phi/z = 6.23085/0.110083/-46.6437 cmssw side/disk/blade/pannel/plaq=1/2/1/1/1 0.939693
-344065288 FPix_BmI_D2_BLD6_PNL1_PLQ2 r/phi/z = 8.70347/0.115998/-46.6437 cmssw side/disk/blade/pannel/plaq=1/2/1/1/2 0.939693
-344065292 FPix_BmI_D2_BLD6_PNL1_PLQ3 r/phi/z = 11.5766/0.119696/-46.6437 cmssw side/disk/blade/pannel/plaq=1/2/1/1/3 0.939693
-344065296 FPix_BmI_D2_BLD6_PNL1_PLQ4 r/phi/z = 14.0506/0.121669/-46.6437 cmssw side/disk/blade/pannel/plaq=1/2/1/1/4 0.939693
-344066308 FPix_BmI_D2_BLD5_PNL1_PLQ1 r/phi/z = 6.23085/0.371883/-47.2437 cmssw side/disk/blade/pannel/plaq=1/2/2/1/1 0.939693
-344066312 FPix_BmI_D2_BLD5_PNL1_PLQ2 r/phi/z = 8.70347/0.377797/-47.2437 cmssw side/disk/blade/pannel/plaq=1/2/2/1/2 0.939693
-344066316 FPix_BmI_D2_BLD5_PNL1_PLQ3 r/phi/z = 11.5766/0.381496/-47.2437 cmssw side/disk/blade/pannel/plaq=1/2/2/1/3 0.939693
-344066320 FPix_BmI_D2_BLD5_PNL1_PLQ4 r/phi/z = 14.0506/0.383468/-47.2437 cmssw side/disk/blade/pannel/plaq=1/2/2/1/4 0.939693
-344067332 FPix_BmI_D2_BLD4_PNL1_PLQ1 r/phi/z = 6.23085/0.633682/-47.8437 cmssw side/disk/blade/pannel/plaq=1/2/3/1/1 0.939693
-344067336 FPix_BmI_D2_BLD4_PNL1_PLQ2 r/phi/z = 8.70347/0.639597/-47.8437 cmssw side/disk/blade/pannel/plaq=1/2/3/1/2 0.939693
-344067340 FPix_BmI_D2_BLD4_PNL1_PLQ3 r/phi/z = 11.5766/0.643295/-47.8437 cmssw side/disk/blade/pannel/plaq=1/2/3/1/3 0.939693
-344067344 FPix_BmI_D2_BLD4_PNL1_PLQ4 r/phi/z = 14.0506/0.645268/-47.8437 cmssw side/disk/blade/pannel/plaq=1/2/3/1/4 0.939693
-344068356 FPix_BmI_D2_BLD3_PNL1_PLQ1 r/phi/z = 6.23085/0.895482/-48.4437 cmssw side/disk/blade/pannel/plaq=1/2/4/1/1 0.939693
-344068360 FPix_BmI_D2_BLD3_PNL1_PLQ2 r/phi/z = 8.70347/0.901396/-48.4437 cmssw side/disk/blade/pannel/plaq=1/2/4/1/2 0.939693
-344068364 FPix_BmI_D2_BLD3_PNL1_PLQ3 r/phi/z = 11.5766/0.905095/-48.4437 cmssw side/disk/blade/pannel/plaq=1/2/4/1/3 0.939693
-344068368 FPix_BmI_D2_BLD3_PNL1_PLQ4 r/phi/z = 14.0506/0.907067/-48.4437 cmssw side/disk/blade/pannel/plaq=1/2/4/1/4 0.939693
-344069380 FPix_BmI_D2_BLD2_PNL1_PLQ1 r/phi/z = 6.23085/1.15728/-49.0437 cmssw side/disk/blade/pannel/plaq=1/2/5/1/1 0.939693
-344069384 FPix_BmI_D2_BLD2_PNL1_PLQ2 r/phi/z = 8.70347/1.1632/-49.0437 cmssw side/disk/blade/pannel/plaq=1/2/5/1/2 0.939693
-344069388 FPix_BmI_D2_BLD2_PNL1_PLQ3 r/phi/z = 11.5766/1.16689/-49.0437 cmssw side/disk/blade/pannel/plaq=1/2/5/1/3 0.939693
-344069392 FPix_BmI_D2_BLD2_PNL1_PLQ4 r/phi/z = 14.0506/1.16887/-49.0437 cmssw side/disk/blade/pannel/plaq=1/2/5/1/4 0.939693
-344070404 FPix_BmI_D2_BLD1_PNL1_PLQ1 r/phi/z = 6.23085/1.41908/-49.6437 cmssw side/disk/blade/pannel/plaq=1/2/6/1/1 0.939693
-344070408 FPix_BmI_D2_BLD1_PNL1_PLQ2 r/phi/z = 8.70347/1.42499/-49.6437 cmssw side/disk/blade/pannel/plaq=1/2/6/1/2 0.939693
-344070412 FPix_BmI_D2_BLD1_PNL1_PLQ3 r/phi/z = 11.5766/1.42869/-49.6437 cmssw side/disk/blade/pannel/plaq=1/2/6/1/3 0.939693
-344070416 FPix_BmI_D2_BLD1_PNL1_PLQ4 r/phi/z = 14.0506/1.43067/-49.6437 cmssw side/disk/blade/pannel/plaq=1/2/6/1/4 0.939693
-344071428 FPix_BmO_D2_BLD1_PNL1_PLQ1 r/phi/z = 6.23085/1.68088/-46.6437 cmssw side/disk/blade/pannel/plaq=1/2/7/1/1 0.939693
-344071432 FPix_BmO_D2_BLD1_PNL1_PLQ2 r/phi/z = 8.70347/1.68679/-46.6437 cmssw side/disk/blade/pannel/plaq=1/2/7/1/2 0.939693
-344071436 FPix_BmO_D2_BLD1_PNL1_PLQ3 r/phi/z = 11.5766/1.69049/-46.6437 cmssw side/disk/blade/pannel/plaq=1/2/7/1/3 0.939693
-344071440 FPix_BmO_D2_BLD1_PNL1_PLQ4 r/phi/z = 14.0506/1.69247/-46.6437 cmssw side/disk/blade/pannel/plaq=1/2/7/1/4 0.939693
-344072452 FPix_BmO_D2_BLD2_PNL1_PLQ1 r/phi/z = 6.23085/1.94268/-47.2437 cmssw side/disk/blade/pannel/plaq=1/2/8/1/1 0.939693
-344072456 FPix_BmO_D2_BLD2_PNL1_PLQ2 r/phi/z = 8.70347/1.94859/-47.2437 cmssw side/disk/blade/pannel/plaq=1/2/8/1/2 0.939693
-344072460 FPix_BmO_D2_BLD2_PNL1_PLQ3 r/phi/z = 11.5766/1.95229/-47.2437 cmssw side/disk/blade/pannel/plaq=1/2/8/1/3 0.939693
-344072464 FPix_BmO_D2_BLD2_PNL1_PLQ4 r/phi/z = 14.0506/1.95426/-47.2437 cmssw side/disk/blade/pannel/plaq=1/2/8/1/4 0.939693
-344073476 FPix_BmO_D2_BLD3_PNL1_PLQ1 r/phi/z = 6.23085/2.20448/-47.8437 cmssw side/disk/blade/pannel/plaq=1/2/9/1/1 0.939693
-344073480 FPix_BmO_D2_BLD3_PNL1_PLQ2 r/phi/z = 8.70347/2.21039/-47.8437 cmssw side/disk/blade/pannel/plaq=1/2/9/1/2 0.939693
-344073484 FPix_BmO_D2_BLD3_PNL1_PLQ3 r/phi/z = 11.5766/2.21409/-47.8437 cmssw side/disk/blade/pannel/plaq=1/2/9/1/3 0.939693
-344073488 FPix_BmO_D2_BLD3_PNL1_PLQ4 r/phi/z = 14.0506/2.21606/-47.8437 cmssw side/disk/blade/pannel/plaq=1/2/9/1/4 0.939693
-344074500 FPix_BmO_D2_BLD4_PNL1_PLQ1 r/phi/z = 6.23085/2.46628/-48.4437 cmssw side/disk/blade/pannel/plaq=1/2/10/1/1 0.939693
-344074504 FPix_BmO_D2_BLD4_PNL1_PLQ2 r/phi/z = 8.70347/2.47219/-48.4437 cmssw side/disk/blade/pannel/plaq=1/2/10/1/2 0.939693
-344074508 FPix_BmO_D2_BLD4_PNL1_PLQ3 r/phi/z = 11.5766/2.47589/-48.4437 cmssw side/disk/blade/pannel/plaq=1/2/10/1/3 0.939693
-344074512 FPix_BmO_D2_BLD4_PNL1_PLQ4 r/phi/z = 14.0506/2.47786/-48.4437 cmssw side/disk/blade/pannel/plaq=1/2/10/1/4 0.939693
-344075524 FPix_BmO_D2_BLD5_PNL1_PLQ1 r/phi/z = 6.23085/2.72808/-49.0437 cmssw side/disk/blade/pannel/plaq=1/2/11/1/1 0.939693
-344075528 FPix_BmO_D2_BLD5_PNL1_PLQ2 r/phi/z = 8.70347/2.73399/-49.0437 cmssw side/disk/blade/pannel/plaq=1/2/11/1/2 0.939693
-344075532 FPix_BmO_D2_BLD5_PNL1_PLQ3 r/phi/z = 11.5766/2.73769/-49.0437 cmssw side/disk/blade/pannel/plaq=1/2/11/1/3 0.939693
-344075536 FPix_BmO_D2_BLD5_PNL1_PLQ4 r/phi/z = 14.0506/2.73966/-49.0437 cmssw side/disk/blade/pannel/plaq=1/2/11/1/4 0.939693
-344076548 FPix_BmO_D2_BLD6_PNL1_PLQ1 r/phi/z = 6.23085/2.98988/-49.6437 cmssw side/disk/blade/pannel/plaq=1/2/12/1/1 0.939693
-344076552 FPix_BmO_D2_BLD6_PNL1_PLQ2 r/phi/z = 8.70347/2.99579/-49.6437 cmssw side/disk/blade/pannel/plaq=1/2/12/1/2 0.939693
-344076556 FPix_BmO_D2_BLD6_PNL1_PLQ3 r/phi/z = 11.5766/2.99949/-49.6437 cmssw side/disk/blade/pannel/plaq=1/2/12/1/3 0.939693
-344076560 FPix_BmO_D2_BLD6_PNL1_PLQ4 r/phi/z = 14.0506/3.00146/-49.6437 cmssw side/disk/blade/pannel/plaq=1/2/12/1/4 0.939693
-344077572 FPix_BmO_D2_BLD7_PNL1_PLQ1 r/phi/z = 6.23085/-3.03151/-46.6437 cmssw side/disk/blade/pannel/plaq=1/2/13/1/1 0.939693
-344077576 FPix_BmO_D2_BLD7_PNL1_PLQ2 r/phi/z = 8.70347/-3.02559/-46.6437 cmssw side/disk/blade/pannel/plaq=1/2/13/1/2 0.939693
-344077580 FPix_BmO_D2_BLD7_PNL1_PLQ3 r/phi/z = 11.5766/-3.0219/-46.6437 cmssw side/disk/blade/pannel/plaq=1/2/13/1/3 0.939693
-344077584 FPix_BmO_D2_BLD7_PNL1_PLQ4 r/phi/z = 14.0506/-3.01992/-46.6437 cmssw side/disk/blade/pannel/plaq=1/2/13/1/4 0.939693
-344078596 FPix_BmO_D2_BLD8_PNL1_PLQ1 r/phi/z = 6.23085/-2.76971/-47.2437 cmssw side/disk/blade/pannel/plaq=1/2/14/1/1 0.939693
-344078600 FPix_BmO_D2_BLD8_PNL1_PLQ2 r/phi/z = 8.70347/-2.7638/-47.2437 cmssw side/disk/blade/pannel/plaq=1/2/14/1/2 0.939693
-344078604 FPix_BmO_D2_BLD8_PNL1_PLQ3 r/phi/z = 11.5766/-2.7601/-47.2437 cmssw side/disk/blade/pannel/plaq=1/2/14/1/3 0.939693
-344078608 FPix_BmO_D2_BLD8_PNL1_PLQ4 r/phi/z = 14.0506/-2.75812/-47.2437 cmssw side/disk/blade/pannel/plaq=1/2/14/1/4 0.939693
-344079620 FPix_BmO_D2_BLD9_PNL1_PLQ1 r/phi/z = 6.23085/-2.50791/-47.8437 cmssw side/disk/blade/pannel/plaq=1/2/15/1/1 0.939693
-344079624 FPix_BmO_D2_BLD9_PNL1_PLQ2 r/phi/z = 8.70347/-2.502/-47.8437 cmssw side/disk/blade/pannel/plaq=1/2/15/1/2 0.939693
-344079628 FPix_BmO_D2_BLD9_PNL1_PLQ3 r/phi/z = 11.5766/-2.4983/-47.8437 cmssw side/disk/blade/pannel/plaq=1/2/15/1/3 0.939693
-344079632 FPix_BmO_D2_BLD9_PNL1_PLQ4 r/phi/z = 14.0506/-2.49632/-47.8437 cmssw side/disk/blade/pannel/plaq=1/2/15/1/4 0.939693
-344080644 FPix_BmO_D2_BLD10_PNL1_PLQ1 r/phi/z = 6.23085/-2.24611/-48.4437 cmssw side/disk/blade/pannel/plaq=1/2/16/1/1 0.939693
-344080648 FPix_BmO_D2_BLD10_PNL1_PLQ2 r/phi/z = 8.70347/-2.2402/-48.4437 cmssw side/disk/blade/pannel/plaq=1/2/16/1/2 0.939693
-344080652 FPix_BmO_D2_BLD10_PNL1_PLQ3 r/phi/z = 11.5766/-2.2365/-48.4437 cmssw side/disk/blade/pannel/plaq=1/2/16/1/3 0.939693
-344080656 FPix_BmO_D2_BLD10_PNL1_PLQ4 r/phi/z = 14.0506/-2.23453/-48.4437 cmssw side/disk/blade/pannel/plaq=1/2/16/1/4 0.939693
-344081668 FPix_BmO_D2_BLD11_PNL1_PLQ1 r/phi/z = 6.23085/-1.98431/-49.0437 cmssw side/disk/blade/pannel/plaq=1/2/17/1/1 0.939693
-344081672 FPix_BmO_D2_BLD11_PNL1_PLQ2 r/phi/z = 8.70347/-1.9784/-49.0437 cmssw side/disk/blade/pannel/plaq=1/2/17/1/2 0.939693
-344081676 FPix_BmO_D2_BLD11_PNL1_PLQ3 r/phi/z = 11.5766/-1.9747/-49.0437 cmssw side/disk/blade/pannel/plaq=1/2/17/1/3 0.939693
-344081680 FPix_BmO_D2_BLD11_PNL1_PLQ4 r/phi/z = 14.0506/-1.97273/-49.0437 cmssw side/disk/blade/pannel/plaq=1/2/17/1/4 0.939693
-344082692 FPix_BmO_D2_BLD12_PNL1_PLQ1 r/phi/z = 6.23085/-1.72251/-49.6437 cmssw side/disk/blade/pannel/plaq=1/2/18/1/1 0.939693
-344082696 FPix_BmO_D2_BLD12_PNL1_PLQ2 r/phi/z = 8.70347/-1.7166/-49.6437 cmssw side/disk/blade/pannel/plaq=1/2/18/1/2 0.939693
-344082700 FPix_BmO_D2_BLD12_PNL1_PLQ3 r/phi/z = 11.5766/-1.7129/-49.6437 cmssw side/disk/blade/pannel/plaq=1/2/18/1/3 0.939693
-344082704 FPix_BmO_D2_BLD12_PNL1_PLQ4 r/phi/z = 14.0506/-1.71093/-49.6437 cmssw side/disk/blade/pannel/plaq=1/2/18/1/4 0.939693
-344083716 FPix_BmI_D2_BLD12_PNL1_PLQ1 r/phi/z = 6.23085/-1.46071/-46.6437 cmssw side/disk/blade/pannel/plaq=1/2/19/1/1 0.939693
-344083720 FPix_BmI_D2_BLD12_PNL1_PLQ2 r/phi/z = 8.70347/-1.4548/-46.6437 cmssw side/disk/blade/pannel/plaq=1/2/19/1/2 0.939693
-344083724 FPix_BmI_D2_BLD12_PNL1_PLQ3 r/phi/z = 11.5766/-1.4511/-46.6437 cmssw side/disk/blade/pannel/plaq=1/2/19/1/3 0.939693
-344083728 FPix_BmI_D2_BLD12_PNL1_PLQ4 r/phi/z = 14.0506/-1.44913/-46.6437 cmssw side/disk/blade/pannel/plaq=1/2/19/1/4 0.939693
-344084740 FPix_BmI_D2_BLD11_PNL1_PLQ1 r/phi/z = 6.23085/-1.19891/-47.2437 cmssw side/disk/blade/pannel/plaq=1/2/20/1/1 0.939693
-344084744 FPix_BmI_D2_BLD11_PNL1_PLQ2 r/phi/z = 8.70347/-1.193/-47.2437 cmssw side/disk/blade/pannel/plaq=1/2/20/1/2 0.939693
-344084748 FPix_BmI_D2_BLD11_PNL1_PLQ3 r/phi/z = 11.5766/-1.1893/-47.2437 cmssw side/disk/blade/pannel/plaq=1/2/20/1/3 0.939693
-344084752 FPix_BmI_D2_BLD11_PNL1_PLQ4 r/phi/z = 14.0506/-1.18733/-47.2437 cmssw side/disk/blade/pannel/plaq=1/2/20/1/4 0.939693
-344085764 FPix_BmI_D2_BLD10_PNL1_PLQ1 r/phi/z = 6.23085/-0.937114/-47.8437 cmssw side/disk/blade/pannel/plaq=1/2/21/1/1 0.939693
-344085768 FPix_BmI_D2_BLD10_PNL1_PLQ2 r/phi/z = 8.70347/-0.9312/-47.8437 cmssw side/disk/blade/pannel/plaq=1/2/21/1/2 0.939693
-344085772 FPix_BmI_D2_BLD10_PNL1_PLQ3 r/phi/z = 11.5766/-0.927501/-47.8437 cmssw side/disk/blade/pannel/plaq=1/2/21/1/3 0.939693
-344085776 FPix_BmI_D2_BLD10_PNL1_PLQ4 r/phi/z = 14.0506/-0.925528/-47.8437 cmssw side/disk/blade/pannel/plaq=1/2/21/1/4 0.939693
-344086788 FPix_BmI_D2_BLD9_PNL1_PLQ1 r/phi/z = 6.23085/-0.675315/-48.4437 cmssw side/disk/blade/pannel/plaq=1/2/22/1/1 0.939693
-344086792 FPix_BmI_D2_BLD9_PNL1_PLQ2 r/phi/z = 8.70347/-0.6694/-48.4437 cmssw side/disk/blade/pannel/plaq=1/2/22/1/2 0.939693
-344086796 FPix_BmI_D2_BLD9_PNL1_PLQ3 r/phi/z = 11.5766/-0.665702/-48.4437 cmssw side/disk/blade/pannel/plaq=1/2/22/1/3 0.939693
-344086800 FPix_BmI_D2_BLD9_PNL1_PLQ4 r/phi/z = 14.0506/-0.663729/-48.4437 cmssw side/disk/blade/pannel/plaq=1/2/22/1/4 0.939693
-344087812 FPix_BmI_D2_BLD8_PNL1_PLQ1 r/phi/z = 6.23085/-0.413515/-49.0437 cmssw side/disk/blade/pannel/plaq=1/2/23/1/1 0.939693
-344087816 FPix_BmI_D2_BLD8_PNL1_PLQ2 r/phi/z = 8.70347/-0.407601/-49.0437 cmssw side/disk/blade/pannel/plaq=1/2/23/1/2 0.939693
-344087820 FPix_BmI_D2_BLD8_PNL1_PLQ3 r/phi/z = 11.5766/-0.403902/-49.0437 cmssw side/disk/blade/pannel/plaq=1/2/23/1/3 0.939693
-344087824 FPix_BmI_D2_BLD8_PNL1_PLQ4 r/phi/z = 14.0506/-0.40193/-49.0437 cmssw side/disk/blade/pannel/plaq=1/2/23/1/4 0.939693
-344088836 FPix_BmI_D2_BLD7_PNL1_PLQ1 r/phi/z = 6.23085/-0.151716/-49.6437 cmssw side/disk/blade/pannel/plaq=1/2/24/1/1 0.939693
-344088840 FPix_BmI_D2_BLD7_PNL1_PLQ2 r/phi/z = 8.70347/-0.145802/-49.6437 cmssw side/disk/blade/pannel/plaq=1/2/24/1/2 0.939693
-344088844 FPix_BmI_D2_BLD7_PNL1_PLQ3 r/phi/z = 11.5766/-0.142103/-49.6437 cmssw side/disk/blade/pannel/plaq=1/2/24/1/3 0.939693
-344088848 FPix_BmI_D2_BLD7_PNL1_PLQ4 r/phi/z = 14.0506/-0.14013/-49.6437 cmssw side/disk/blade/pannel/plaq=1/2/24/1/4 0.939693
-344065540 FPix_BmI_D2_BLD6_PNL2_PLQ1 r/phi/z = 7.41114/0.1484/-47.3563 cmssw side/disk/blade/pannel/plaq=1/2/1/2/1 -0.939693
-344065544 FPix_BmI_D2_BLD6_PNL2_PLQ2 r/phi/z = 10.3416/0.143441/-47.3563 cmssw side/disk/blade/pannel/plaq=1/2/1/2/2 -0.939693
-344065548 FPix_BmI_D2_BLD6_PNL2_PLQ3 r/phi/z = 13.2728/0.140671/-47.3563 cmssw side/disk/blade/pannel/plaq=1/2/1/2/3 -0.939693
-344066564 FPix_BmI_D2_BLD5_PNL2_PLQ1 r/phi/z = 7.41114/0.4102/-47.9563 cmssw side/disk/blade/pannel/plaq=1/2/2/2/1 -0.939693
-344066568 FPix_BmI_D2_BLD5_PNL2_PLQ2 r/phi/z = 10.3416/0.40524/-47.9563 cmssw side/disk/blade/pannel/plaq=1/2/2/2/2 -0.939693
-344066572 FPix_BmI_D2_BLD5_PNL2_PLQ3 r/phi/z = 13.2728/0.402471/-47.9563 cmssw side/disk/blade/pannel/plaq=1/2/2/2/3 -0.939693
-344067588 FPix_BmI_D2_BLD4_PNL2_PLQ1 r/phi/z = 7.41114/0.671999/-48.5563 cmssw side/disk/blade/pannel/plaq=1/2/3/2/1 -0.939693
-344067592 FPix_BmI_D2_BLD4_PNL2_PLQ2 r/phi/z = 10.3416/0.66704/-48.5563 cmssw side/disk/blade/pannel/plaq=1/2/3/2/2 -0.939693
-344067596 FPix_BmI_D2_BLD4_PNL2_PLQ3 r/phi/z = 13.2728/0.66427/-48.5563 cmssw side/disk/blade/pannel/plaq=1/2/3/2/3 -0.939693
-344068612 FPix_BmI_D2_BLD3_PNL2_PLQ1 r/phi/z = 7.41114/0.933799/-49.1563 cmssw side/disk/blade/pannel/plaq=1/2/4/2/1 -0.939693
-344068616 FPix_BmI_D2_BLD3_PNL2_PLQ2 r/phi/z = 10.3416/0.928839/-49.1563 cmssw side/disk/blade/pannel/plaq=1/2/4/2/2 -0.939693
-344068620 FPix_BmI_D2_BLD3_PNL2_PLQ3 r/phi/z = 13.2728/0.926069/-49.1563 cmssw side/disk/blade/pannel/plaq=1/2/4/2/3 -0.939693
-344069636 FPix_BmI_D2_BLD2_PNL2_PLQ1 r/phi/z = 7.41113/1.1956/-49.7563 cmssw side/disk/blade/pannel/plaq=1/2/5/2/1 -0.939693
-344069640 FPix_BmI_D2_BLD2_PNL2_PLQ2 r/phi/z = 10.3416/1.19064/-49.7563 cmssw side/disk/blade/pannel/plaq=1/2/5/2/2 -0.939693
-344069644 FPix_BmI_D2_BLD2_PNL2_PLQ3 r/phi/z = 13.2728/1.18787/-49.7563 cmssw side/disk/blade/pannel/plaq=1/2/5/2/3 -0.939693
-344070660 FPix_BmI_D2_BLD1_PNL2_PLQ1 r/phi/z = 7.41113/1.4574/-50.3563 cmssw side/disk/blade/pannel/plaq=1/2/6/2/1 -0.939693
-344070664 FPix_BmI_D2_BLD1_PNL2_PLQ2 r/phi/z = 10.3416/1.45244/-50.3563 cmssw side/disk/blade/pannel/plaq=1/2/6/2/2 -0.939693
-344070668 FPix_BmI_D2_BLD1_PNL2_PLQ3 r/phi/z = 13.2728/1.44967/-50.3563 cmssw side/disk/blade/pannel/plaq=1/2/6/2/3 -0.939693
-344071684 FPix_BmO_D2_BLD1_PNL2_PLQ1 r/phi/z = 7.41114/1.7192/-47.3563 cmssw side/disk/blade/pannel/plaq=1/2/7/2/1 -0.939693
-344071688 FPix_BmO_D2_BLD1_PNL2_PLQ2 r/phi/z = 10.3416/1.71424/-47.3563 cmssw side/disk/blade/pannel/plaq=1/2/7/2/2 -0.939693
-344071692 FPix_BmO_D2_BLD1_PNL2_PLQ3 r/phi/z = 13.2728/1.71147/-47.3563 cmssw side/disk/blade/pannel/plaq=1/2/7/2/3 -0.939693
-344072708 FPix_BmO_D2_BLD2_PNL2_PLQ1 r/phi/z = 7.41114/1.981/-47.9563 cmssw side/disk/blade/pannel/plaq=1/2/8/2/1 -0.939693
-344072712 FPix_BmO_D2_BLD2_PNL2_PLQ2 r/phi/z = 10.3416/1.97604/-47.9563 cmssw side/disk/blade/pannel/plaq=1/2/8/2/2 -0.939693
-344072716 FPix_BmO_D2_BLD2_PNL2_PLQ3 r/phi/z = 13.2728/1.97327/-47.9563 cmssw side/disk/blade/pannel/plaq=1/2/8/2/3 -0.939693
-344073732 FPix_BmO_D2_BLD3_PNL2_PLQ1 r/phi/z = 7.41114/2.2428/-48.5563 cmssw side/disk/blade/pannel/plaq=1/2/9/2/1 -0.939693
-344073736 FPix_BmO_D2_BLD3_PNL2_PLQ2 r/phi/z = 10.3416/2.23784/-48.5563 cmssw side/disk/blade/pannel/plaq=1/2/9/2/2 -0.939693
-344073740 FPix_BmO_D2_BLD3_PNL2_PLQ3 r/phi/z = 13.2728/2.23507/-48.5563 cmssw side/disk/blade/pannel/plaq=1/2/9/2/3 -0.939693
-344074756 FPix_BmO_D2_BLD4_PNL2_PLQ1 r/phi/z = 7.41114/2.5046/-49.1563 cmssw side/disk/blade/pannel/plaq=1/2/10/2/1 -0.939693
-344074760 FPix_BmO_D2_BLD4_PNL2_PLQ2 r/phi/z = 10.3416/2.49964/-49.1563 cmssw side/disk/blade/pannel/plaq=1/2/10/2/2 -0.939693
-344074764 FPix_BmO_D2_BLD4_PNL2_PLQ3 r/phi/z = 13.2728/2.49687/-49.1563 cmssw side/disk/blade/pannel/plaq=1/2/10/2/3 -0.939693
-344075780 FPix_BmO_D2_BLD5_PNL2_PLQ1 r/phi/z = 7.41113/2.76639/-49.7563 cmssw side/disk/blade/pannel/plaq=1/2/11/2/1 -0.939693
-344075784 FPix_BmO_D2_BLD5_PNL2_PLQ2 r/phi/z = 10.3416/2.76143/-49.7563 cmssw side/disk/blade/pannel/plaq=1/2/11/2/2 -0.939693
-344075788 FPix_BmO_D2_BLD5_PNL2_PLQ3 r/phi/z = 13.2728/2.75867/-49.7563 cmssw side/disk/blade/pannel/plaq=1/2/11/2/3 -0.939693
-344076804 FPix_BmO_D2_BLD6_PNL2_PLQ1 r/phi/z = 7.41113/3.02819/-50.3563 cmssw side/disk/blade/pannel/plaq=1/2/12/2/1 -0.939693
-344076808 FPix_BmO_D2_BLD6_PNL2_PLQ2 r/phi/z = 10.3416/3.02323/-50.3563 cmssw side/disk/blade/pannel/plaq=1/2/12/2/2 -0.939693
-344076812 FPix_BmO_D2_BLD6_PNL2_PLQ3 r/phi/z = 13.2728/3.02046/-50.3563 cmssw side/disk/blade/pannel/plaq=1/2/12/2/3 -0.939693
-344077828 FPix_BmO_D2_BLD7_PNL2_PLQ1 r/phi/z = 7.41114/-2.99319/-47.3563 cmssw side/disk/blade/pannel/plaq=1/2/13/2/1 -0.939693
-344077832 FPix_BmO_D2_BLD7_PNL2_PLQ2 r/phi/z = 10.3416/-2.99815/-47.3563 cmssw side/disk/blade/pannel/plaq=1/2/13/2/2 -0.939693
-344077836 FPix_BmO_D2_BLD7_PNL2_PLQ3 r/phi/z = 13.2728/-3.00092/-47.3563 cmssw side/disk/blade/pannel/plaq=1/2/13/2/3 -0.939693
-344078852 FPix_BmO_D2_BLD8_PNL2_PLQ1 r/phi/z = 7.41114/-2.73139/-47.9563 cmssw side/disk/blade/pannel/plaq=1/2/14/2/1 -0.939693
-344078856 FPix_BmO_D2_BLD8_PNL2_PLQ2 r/phi/z = 10.3416/-2.73635/-47.9563 cmssw side/disk/blade/pannel/plaq=1/2/14/2/2 -0.939693
-344078860 FPix_BmO_D2_BLD8_PNL2_PLQ3 r/phi/z = 13.2728/-2.73912/-47.9563 cmssw side/disk/blade/pannel/plaq=1/2/14/2/3 -0.939693
-344079876 FPix_BmO_D2_BLD9_PNL2_PLQ1 r/phi/z = 7.41114/-2.46959/-48.5563 cmssw side/disk/blade/pannel/plaq=1/2/15/2/1 -0.939693
-344079880 FPix_BmO_D2_BLD9_PNL2_PLQ2 r/phi/z = 10.3416/-2.47455/-48.5563 cmssw side/disk/blade/pannel/plaq=1/2/15/2/2 -0.939693
-344079884 FPix_BmO_D2_BLD9_PNL2_PLQ3 r/phi/z = 13.2728/-2.47732/-48.5563 cmssw side/disk/blade/pannel/plaq=1/2/15/2/3 -0.939693
-344080900 FPix_BmO_D2_BLD10_PNL2_PLQ1 r/phi/z = 7.41114/-2.20779/-49.1563 cmssw side/disk/blade/pannel/plaq=1/2/16/2/1 -0.939693
-344080904 FPix_BmO_D2_BLD10_PNL2_PLQ2 r/phi/z = 10.3416/-2.21275/-49.1563 cmssw side/disk/blade/pannel/plaq=1/2/16/2/2 -0.939693
-344080908 FPix_BmO_D2_BLD10_PNL2_PLQ3 r/phi/z = 13.2728/-2.21552/-49.1563 cmssw side/disk/blade/pannel/plaq=1/2/16/2/3 -0.939693
-344081924 FPix_BmO_D2_BLD11_PNL2_PLQ1 r/phi/z = 7.41113/-1.94599/-49.7563 cmssw side/disk/blade/pannel/plaq=1/2/17/2/1 -0.939693
-344081928 FPix_BmO_D2_BLD11_PNL2_PLQ2 r/phi/z = 10.3416/-1.95095/-49.7563 cmssw side/disk/blade/pannel/plaq=1/2/17/2/2 -0.939693
-344081932 FPix_BmO_D2_BLD11_PNL2_PLQ3 r/phi/z = 13.2728/-1.95372/-49.7563 cmssw side/disk/blade/pannel/plaq=1/2/17/2/3 -0.939693
-344082948 FPix_BmO_D2_BLD12_PNL2_PLQ1 r/phi/z = 7.41113/-1.6842/-50.3563 cmssw side/disk/blade/pannel/plaq=1/2/18/2/1 -0.939693
-344082952 FPix_BmO_D2_BLD12_PNL2_PLQ2 r/phi/z = 10.3416/-1.68915/-50.3563 cmssw side/disk/blade/pannel/plaq=1/2/18/2/2 -0.939693
-344082956 FPix_BmO_D2_BLD12_PNL2_PLQ3 r/phi/z = 13.2728/-1.69192/-50.3563 cmssw side/disk/blade/pannel/plaq=1/2/18/2/3 -0.939693
-344083972 FPix_BmI_D2_BLD12_PNL2_PLQ1 r/phi/z = 7.41114/-1.4224/-47.3563 cmssw side/disk/blade/pannel/plaq=1/2/19/2/1 -0.939693
-344083976 FPix_BmI_D2_BLD12_PNL2_PLQ2 r/phi/z = 10.3416/-1.42736/-47.3563 cmssw side/disk/blade/pannel/plaq=1/2/19/2/2 -0.939693
-344083980 FPix_BmI_D2_BLD12_PNL2_PLQ3 r/phi/z = 13.2728/-1.43013/-47.3563 cmssw side/disk/blade/pannel/plaq=1/2/19/2/3 -0.939693
-344084996 FPix_BmI_D2_BLD11_PNL2_PLQ1 r/phi/z = 7.41114/-1.1606/-47.9563 cmssw side/disk/blade/pannel/plaq=1/2/20/2/1 -0.939693
-344085000 FPix_BmI_D2_BLD11_PNL2_PLQ2 r/phi/z = 10.3416/-1.16556/-47.9563 cmssw side/disk/blade/pannel/plaq=1/2/20/2/2 -0.939693
-344085004 FPix_BmI_D2_BLD11_PNL2_PLQ3 r/phi/z = 13.2728/-1.16833/-47.9563 cmssw side/disk/blade/pannel/plaq=1/2/20/2/3 -0.939693
-344086020 FPix_BmI_D2_BLD10_PNL2_PLQ1 r/phi/z = 7.41114/-0.898797/-48.5563 cmssw side/disk/blade/pannel/plaq=1/2/21/2/1 -0.939693
-344086024 FPix_BmI_D2_BLD10_PNL2_PLQ2 r/phi/z = 10.3416/-0.903756/-48.5563 cmssw side/disk/blade/pannel/plaq=1/2/21/2/2 -0.939693
-344086028 FPix_BmI_D2_BLD10_PNL2_PLQ3 r/phi/z = 13.2728/-0.906526/-48.5563 cmssw side/disk/blade/pannel/plaq=1/2/21/2/3 -0.939693
-344087044 FPix_BmI_D2_BLD9_PNL2_PLQ1 r/phi/z = 7.41114/-0.636998/-49.1563 cmssw side/disk/blade/pannel/plaq=1/2/22/2/1 -0.939693
-344087048 FPix_BmI_D2_BLD9_PNL2_PLQ2 r/phi/z = 10.3416/-0.641957/-49.1563 cmssw side/disk/blade/pannel/plaq=1/2/22/2/2 -0.939693
-344087052 FPix_BmI_D2_BLD9_PNL2_PLQ3 r/phi/z = 13.2728/-0.644727/-49.1563 cmssw side/disk/blade/pannel/plaq=1/2/22/2/3 -0.939693
-344088068 FPix_BmI_D2_BLD8_PNL2_PLQ1 r/phi/z = 7.41113/-0.375198/-49.7563 cmssw side/disk/blade/pannel/plaq=1/2/23/2/1 -0.939693
-344088072 FPix_BmI_D2_BLD8_PNL2_PLQ2 r/phi/z = 10.3416/-0.380158/-49.7563 cmssw side/disk/blade/pannel/plaq=1/2/23/2/2 -0.939693
-344088076 FPix_BmI_D2_BLD8_PNL2_PLQ3 r/phi/z = 13.2728/-0.382928/-49.7563 cmssw side/disk/blade/pannel/plaq=1/2/23/2/3 -0.939693
-344089092 FPix_BmI_D2_BLD7_PNL2_PLQ1 r/phi/z = 7.41113/-0.113399/-50.3563 cmssw side/disk/blade/pannel/plaq=1/2/24/2/1 -0.939693
-344089096 FPix_BmI_D2_BLD7_PNL2_PLQ2 r/phi/z = 10.3416/-0.118358/-50.3563 cmssw side/disk/blade/pannel/plaq=1/2/24/2/2 -0.939693
-344089100 FPix_BmI_D2_BLD7_PNL2_PLQ3 r/phi/z = 13.2728/-0.121128/-50.3563 cmssw side/disk/blade/pannel/plaq=1/2/24/2/3 -0.939693
+352388356 FPix_BpI_D1_BLD6_PNL1_PLQ1 r/phi/z = 6.23085/0.110083/33.6437 cmssw side/disk/blade/pannel/plaq 2/1/1/1/1 -0.939693
+352388360 FPix_BpI_D1_BLD6_PNL1_PLQ2 r/phi/z = 8.70347/0.115998/33.6437 cmssw side/disk/blade/pannel/plaq 2/1/1/1/2 -0.939693
+352388364 FPix_BpI_D1_BLD6_PNL1_PLQ3 r/phi/z = 11.5766/0.119696/33.6437 cmssw side/disk/blade/pannel/plaq 2/1/1/1/3 -0.939693
+352388368 FPix_BpI_D1_BLD6_PNL1_PLQ4 r/phi/z = 14.0506/0.121669/33.6437 cmssw side/disk/blade/pannel/plaq 2/1/1/1/4 -0.939693
+352389380 FPix_BpI_D1_BLD5_PNL1_PLQ1 r/phi/z = 6.23085/0.371883/34.2437 cmssw side/disk/blade/pannel/plaq 2/1/2/1/1 -0.939693
+352389384 FPix_BpI_D1_BLD5_PNL1_PLQ2 r/phi/z = 8.70347/0.377797/34.2437 cmssw side/disk/blade/pannel/plaq 2/1/2/1/2 -0.939693
+352389388 FPix_BpI_D1_BLD5_PNL1_PLQ3 r/phi/z = 11.5766/0.381496/34.2437 cmssw side/disk/blade/pannel/plaq 2/1/2/1/3 -0.939693
+352389392 FPix_BpI_D1_BLD5_PNL1_PLQ4 r/phi/z = 14.0506/0.383468/34.2437 cmssw side/disk/blade/pannel/plaq 2/1/2/1/4 -0.939693
+352390404 FPix_BpI_D1_BLD4_PNL1_PLQ1 r/phi/z = 6.23085/0.633682/34.8437 cmssw side/disk/blade/pannel/plaq 2/1/3/1/1 -0.939693
+352390408 FPix_BpI_D1_BLD4_PNL1_PLQ2 r/phi/z = 8.70347/0.639597/34.8437 cmssw side/disk/blade/pannel/plaq 2/1/3/1/2 -0.939693
+352390412 FPix_BpI_D1_BLD4_PNL1_PLQ3 r/phi/z = 11.5766/0.643295/34.8437 cmssw side/disk/blade/pannel/plaq 2/1/3/1/3 -0.939693
+352390416 FPix_BpI_D1_BLD4_PNL1_PLQ4 r/phi/z = 14.0506/0.645268/34.8437 cmssw side/disk/blade/pannel/plaq 2/1/3/1/4 -0.939693
+352391428 FPix_BpI_D1_BLD3_PNL1_PLQ1 r/phi/z = 6.23085/0.895482/35.4437 cmssw side/disk/blade/pannel/plaq 2/1/4/1/1 -0.939693
+352391432 FPix_BpI_D1_BLD3_PNL1_PLQ2 r/phi/z = 8.70347/0.901396/35.4437 cmssw side/disk/blade/pannel/plaq 2/1/4/1/2 -0.939693
+352391436 FPix_BpI_D1_BLD3_PNL1_PLQ3 r/phi/z = 11.5766/0.905095/35.4437 cmssw side/disk/blade/pannel/plaq 2/1/4/1/3 -0.939693
+352391440 FPix_BpI_D1_BLD3_PNL1_PLQ4 r/phi/z = 14.0506/0.907067/35.4437 cmssw side/disk/blade/pannel/plaq 2/1/4/1/4 -0.939693
+352392452 FPix_BpI_D1_BLD2_PNL1_PLQ1 r/phi/z = 6.23085/1.15728/36.0437 cmssw side/disk/blade/pannel/plaq 2/1/5/1/1 -0.939693
+352392456 FPix_BpI_D1_BLD2_PNL1_PLQ2 r/phi/z = 8.70347/1.1632/36.0437 cmssw side/disk/blade/pannel/plaq 2/1/5/1/2 -0.939693
+352392460 FPix_BpI_D1_BLD2_PNL1_PLQ3 r/phi/z = 11.5766/1.16689/36.0437 cmssw side/disk/blade/pannel/plaq 2/1/5/1/3 -0.939693
+352392464 FPix_BpI_D1_BLD2_PNL1_PLQ4 r/phi/z = 14.0506/1.16887/36.0437 cmssw side/disk/blade/pannel/plaq 2/1/5/1/4 -0.939693
+352393476 FPix_BpI_D1_BLD1_PNL1_PLQ1 r/phi/z = 6.23085/1.41908/36.6437 cmssw side/disk/blade/pannel/plaq 2/1/6/1/1 -0.939693
+352393480 FPix_BpI_D1_BLD1_PNL1_PLQ2 r/phi/z = 8.70347/1.42499/36.6437 cmssw side/disk/blade/pannel/plaq 2/1/6/1/2 -0.939693
+352393484 FPix_BpI_D1_BLD1_PNL1_PLQ3 r/phi/z = 11.5766/1.42869/36.6437 cmssw side/disk/blade/pannel/plaq 2/1/6/1/3 -0.939693
+352393488 FPix_BpI_D1_BLD1_PNL1_PLQ4 r/phi/z = 14.0506/1.43067/36.6437 cmssw side/disk/blade/pannel/plaq 2/1/6/1/4 -0.939693
+352394500 FPix_BpO_D1_BLD1_PNL1_PLQ1 r/phi/z = 6.23085/1.68088/33.6437 cmssw side/disk/blade/pannel/plaq 2/1/7/1/1 -0.939693
+352394504 FPix_BpO_D1_BLD1_PNL1_PLQ2 r/phi/z = 8.70347/1.68679/33.6437 cmssw side/disk/blade/pannel/plaq 2/1/7/1/2 -0.939693
+352394508 FPix_BpO_D1_BLD1_PNL1_PLQ3 r/phi/z = 11.5766/1.69049/33.6437 cmssw side/disk/blade/pannel/plaq 2/1/7/1/3 -0.939693
+352394512 FPix_BpO_D1_BLD1_PNL1_PLQ4 r/phi/z = 14.0506/1.69247/33.6437 cmssw side/disk/blade/pannel/plaq 2/1/7/1/4 -0.939693
+352395524 FPix_BpO_D1_BLD2_PNL1_PLQ1 r/phi/z = 6.23085/1.94268/34.2437 cmssw side/disk/blade/pannel/plaq 2/1/8/1/1 -0.939693
+352395528 FPix_BpO_D1_BLD2_PNL1_PLQ2 r/phi/z = 8.70347/1.94859/34.2437 cmssw side/disk/blade/pannel/plaq 2/1/8/1/2 -0.939693
+352395532 FPix_BpO_D1_BLD2_PNL1_PLQ3 r/phi/z = 11.5766/1.95229/34.2437 cmssw side/disk/blade/pannel/plaq 2/1/8/1/3 -0.939693
+352395536 FPix_BpO_D1_BLD2_PNL1_PLQ4 r/phi/z = 14.0506/1.95426/34.2437 cmssw side/disk/blade/pannel/plaq 2/1/8/1/4 -0.939693
+352396548 FPix_BpO_D1_BLD3_PNL1_PLQ1 r/phi/z = 6.23085/2.20448/34.8437 cmssw side/disk/blade/pannel/plaq 2/1/9/1/1 -0.939693
+352396552 FPix_BpO_D1_BLD3_PNL1_PLQ2 r/phi/z = 8.70347/2.21039/34.8437 cmssw side/disk/blade/pannel/plaq 2/1/9/1/2 -0.939693
+352396556 FPix_BpO_D1_BLD3_PNL1_PLQ3 r/phi/z = 11.5766/2.21409/34.8437 cmssw side/disk/blade/pannel/plaq 2/1/9/1/3 -0.939693
+352396560 FPix_BpO_D1_BLD3_PNL1_PLQ4 r/phi/z = 14.0506/2.21606/34.8437 cmssw side/disk/blade/pannel/plaq 2/1/9/1/4 -0.939693
+352397572 FPix_BpO_D1_BLD4_PNL1_PLQ1 r/phi/z = 6.23085/2.46628/35.4437 cmssw side/disk/blade/pannel/plaq 2/1/10/1/1 -0.939693
+352397576 FPix_BpO_D1_BLD4_PNL1_PLQ2 r/phi/z = 8.70347/2.47219/35.4437 cmssw side/disk/blade/pannel/plaq 2/1/10/1/2 -0.939693
+352397580 FPix_BpO_D1_BLD4_PNL1_PLQ3 r/phi/z = 11.5766/2.47589/35.4437 cmssw side/disk/blade/pannel/plaq 2/1/10/1/3 -0.939693
+352397584 FPix_BpO_D1_BLD4_PNL1_PLQ4 r/phi/z = 14.0506/2.47786/35.4437 cmssw side/disk/blade/pannel/plaq 2/1/10/1/4 -0.939693
+352398596 FPix_BpO_D1_BLD5_PNL1_PLQ1 r/phi/z = 6.23085/2.72808/36.0437 cmssw side/disk/blade/pannel/plaq 2/1/11/1/1 -0.939693
+352398600 FPix_BpO_D1_BLD5_PNL1_PLQ2 r/phi/z = 8.70347/2.73399/36.0437 cmssw side/disk/blade/pannel/plaq 2/1/11/1/2 -0.939693
+352398604 FPix_BpO_D1_BLD5_PNL1_PLQ3 r/phi/z = 11.5766/2.73769/36.0437 cmssw side/disk/blade/pannel/plaq 2/1/11/1/3 -0.939693
+352398608 FPix_BpO_D1_BLD5_PNL1_PLQ4 r/phi/z = 14.0506/2.73966/36.0437 cmssw side/disk/blade/pannel/plaq 2/1/11/1/4 -0.939693
+352399620 FPix_BpO_D1_BLD6_PNL1_PLQ1 r/phi/z = 6.23085/2.98988/36.6437 cmssw side/disk/blade/pannel/plaq 2/1/12/1/1 -0.939693
+352399624 FPix_BpO_D1_BLD6_PNL1_PLQ2 r/phi/z = 8.70347/2.99579/36.6437 cmssw side/disk/blade/pannel/plaq 2/1/12/1/2 -0.939693
+352399628 FPix_BpO_D1_BLD6_PNL1_PLQ3 r/phi/z = 11.5766/2.99949/36.6437 cmssw side/disk/blade/pannel/plaq 2/1/12/1/3 -0.939693
+352399632 FPix_BpO_D1_BLD6_PNL1_PLQ4 r/phi/z = 14.0506/3.00146/36.6437 cmssw side/disk/blade/pannel/plaq 2/1/12/1/4 -0.939693
+352400644 FPix_BpO_D1_BLD7_PNL1_PLQ1 r/phi/z = 6.23085/-3.03151/33.6437 cmssw side/disk/blade/pannel/plaq 2/1/13/1/1 -0.939693
+352400648 FPix_BpO_D1_BLD7_PNL1_PLQ2 r/phi/z = 8.70347/-3.02559/33.6437 cmssw side/disk/blade/pannel/plaq 2/1/13/1/2 -0.939693
+352400652 FPix_BpO_D1_BLD7_PNL1_PLQ3 r/phi/z = 11.5766/-3.0219/33.6437 cmssw side/disk/blade/pannel/plaq 2/1/13/1/3 -0.939693
+352400656 FPix_BpO_D1_BLD7_PNL1_PLQ4 r/phi/z = 14.0506/-3.01992/33.6437 cmssw side/disk/blade/pannel/plaq 2/1/13/1/4 -0.939693
+352401668 FPix_BpO_D1_BLD8_PNL1_PLQ1 r/phi/z = 6.23085/-2.76971/34.2437 cmssw side/disk/blade/pannel/plaq 2/1/14/1/1 -0.939693
+352401672 FPix_BpO_D1_BLD8_PNL1_PLQ2 r/phi/z = 8.70347/-2.7638/34.2437 cmssw side/disk/blade/pannel/plaq 2/1/14/1/2 -0.939693
+352401676 FPix_BpO_D1_BLD8_PNL1_PLQ3 r/phi/z = 11.5766/-2.7601/34.2437 cmssw side/disk/blade/pannel/plaq 2/1/14/1/3 -0.939693
+352401680 FPix_BpO_D1_BLD8_PNL1_PLQ4 r/phi/z = 14.0506/-2.75812/34.2437 cmssw side/disk/blade/pannel/plaq 2/1/14/1/4 -0.939693
+352402692 FPix_BpO_D1_BLD9_PNL1_PLQ1 r/phi/z = 6.23085/-2.50791/34.8437 cmssw side/disk/blade/pannel/plaq 2/1/15/1/1 -0.939693
+352402696 FPix_BpO_D1_BLD9_PNL1_PLQ2 r/phi/z = 8.70347/-2.502/34.8437 cmssw side/disk/blade/pannel/plaq 2/1/15/1/2 -0.939693
+352402700 FPix_BpO_D1_BLD9_PNL1_PLQ3 r/phi/z = 11.5766/-2.4983/34.8437 cmssw side/disk/blade/pannel/plaq 2/1/15/1/3 -0.939693
+352402704 FPix_BpO_D1_BLD9_PNL1_PLQ4 r/phi/z = 14.0506/-2.49632/34.8437 cmssw side/disk/blade/pannel/plaq 2/1/15/1/4 -0.939693
+352403716 FPix_BpO_D1_BLD10_PNL1_PLQ1 r/phi/z = 6.23085/-2.24611/35.4437 cmssw side/disk/blade/pannel/plaq 2/1/16/1/1 -0.939693
+352403720 FPix_BpO_D1_BLD10_PNL1_PLQ2 r/phi/z = 8.70347/-2.2402/35.4437 cmssw side/disk/blade/pannel/plaq 2/1/16/1/2 -0.939693
+352403724 FPix_BpO_D1_BLD10_PNL1_PLQ3 r/phi/z = 11.5766/-2.2365/35.4437 cmssw side/disk/blade/pannel/plaq 2/1/16/1/3 -0.939693
+352403728 FPix_BpO_D1_BLD10_PNL1_PLQ4 r/phi/z = 14.0506/-2.23453/35.4437 cmssw side/disk/blade/pannel/plaq 2/1/16/1/4 -0.939693
+352404740 FPix_BpO_D1_BLD11_PNL1_PLQ1 r/phi/z = 6.23085/-1.98431/36.0437 cmssw side/disk/blade/pannel/plaq 2/1/17/1/1 -0.939693
+352404744 FPix_BpO_D1_BLD11_PNL1_PLQ2 r/phi/z = 8.70347/-1.9784/36.0437 cmssw side/disk/blade/pannel/plaq 2/1/17/1/2 -0.939693
+352404748 FPix_BpO_D1_BLD11_PNL1_PLQ3 r/phi/z = 11.5766/-1.9747/36.0437 cmssw side/disk/blade/pannel/plaq 2/1/17/1/3 -0.939693
+352404752 FPix_BpO_D1_BLD11_PNL1_PLQ4 r/phi/z = 14.0506/-1.97273/36.0437 cmssw side/disk/blade/pannel/plaq 2/1/17/1/4 -0.939693
+352405764 FPix_BpO_D1_BLD12_PNL1_PLQ1 r/phi/z = 6.23085/-1.72251/36.6437 cmssw side/disk/blade/pannel/plaq 2/1/18/1/1 -0.939693
+352405768 FPix_BpO_D1_BLD12_PNL1_PLQ2 r/phi/z = 8.70347/-1.7166/36.6437 cmssw side/disk/blade/pannel/plaq 2/1/18/1/2 -0.939693
+352405772 FPix_BpO_D1_BLD12_PNL1_PLQ3 r/phi/z = 11.5766/-1.7129/36.6437 cmssw side/disk/blade/pannel/plaq 2/1/18/1/3 -0.939693
+352405776 FPix_BpO_D1_BLD12_PNL1_PLQ4 r/phi/z = 14.0506/-1.71093/36.6437 cmssw side/disk/blade/pannel/plaq 2/1/18/1/4 -0.939693
+352406788 FPix_BpI_D1_BLD12_PNL1_PLQ1 r/phi/z = 6.23085/-1.46071/33.6437 cmssw side/disk/blade/pannel/plaq 2/1/19/1/1 -0.939693
+352406792 FPix_BpI_D1_BLD12_PNL1_PLQ2 r/phi/z = 8.70347/-1.4548/33.6437 cmssw side/disk/blade/pannel/plaq 2/1/19/1/2 -0.939693
+352406796 FPix_BpI_D1_BLD12_PNL1_PLQ3 r/phi/z = 11.5766/-1.4511/33.6437 cmssw side/disk/blade/pannel/plaq 2/1/19/1/3 -0.939693
+352406800 FPix_BpI_D1_BLD12_PNL1_PLQ4 r/phi/z = 14.0506/-1.44913/33.6437 cmssw side/disk/blade/pannel/plaq 2/1/19/1/4 -0.939693
+352407812 FPix_BpI_D1_BLD11_PNL1_PLQ1 r/phi/z = 6.23085/-1.19891/34.2437 cmssw side/disk/blade/pannel/plaq 2/1/20/1/1 -0.939693
+352407816 FPix_BpI_D1_BLD11_PNL1_PLQ2 r/phi/z = 8.70347/-1.193/34.2437 cmssw side/disk/blade/pannel/plaq 2/1/20/1/2 -0.939693
+352407820 FPix_BpI_D1_BLD11_PNL1_PLQ3 r/phi/z = 11.5766/-1.1893/34.2437 cmssw side/disk/blade/pannel/plaq 2/1/20/1/3 -0.939693
+352407824 FPix_BpI_D1_BLD11_PNL1_PLQ4 r/phi/z = 14.0506/-1.18733/34.2437 cmssw side/disk/blade/pannel/plaq 2/1/20/1/4 -0.939693
+352408836 FPix_BpI_D1_BLD10_PNL1_PLQ1 r/phi/z = 6.23085/-0.937114/34.8437 cmssw side/disk/blade/pannel/plaq 2/1/21/1/1 -0.939693
+352408840 FPix_BpI_D1_BLD10_PNL1_PLQ2 r/phi/z = 8.70347/-0.9312/34.8437 cmssw side/disk/blade/pannel/plaq 2/1/21/1/2 -0.939693
+352408844 FPix_BpI_D1_BLD10_PNL1_PLQ3 r/phi/z = 11.5766/-0.927501/34.8437 cmssw side/disk/blade/pannel/plaq 2/1/21/1/3 -0.939693
+352408848 FPix_BpI_D1_BLD10_PNL1_PLQ4 r/phi/z = 14.0506/-0.925528/34.8437 cmssw side/disk/blade/pannel/plaq 2/1/21/1/4 -0.939693
+352409860 FPix_BpI_D1_BLD9_PNL1_PLQ1 r/phi/z = 6.23085/-0.675315/35.4437 cmssw side/disk/blade/pannel/plaq 2/1/22/1/1 -0.939693
+352409864 FPix_BpI_D1_BLD9_PNL1_PLQ2 r/phi/z = 8.70347/-0.6694/35.4437 cmssw side/disk/blade/pannel/plaq 2/1/22/1/2 -0.939693
+352409868 FPix_BpI_D1_BLD9_PNL1_PLQ3 r/phi/z = 11.5766/-0.665702/35.4437 cmssw side/disk/blade/pannel/plaq 2/1/22/1/3 -0.939693
+352409872 FPix_BpI_D1_BLD9_PNL1_PLQ4 r/phi/z = 14.0506/-0.663729/35.4437 cmssw side/disk/blade/pannel/plaq 2/1/22/1/4 -0.939693
+352410884 FPix_BpI_D1_BLD8_PNL1_PLQ1 r/phi/z = 6.23085/-0.413515/36.0437 cmssw side/disk/blade/pannel/plaq 2/1/23/1/1 -0.939693
+352410888 FPix_BpI_D1_BLD8_PNL1_PLQ2 r/phi/z = 8.70347/-0.407601/36.0437 cmssw side/disk/blade/pannel/plaq 2/1/23/1/2 -0.939693
+352410892 FPix_BpI_D1_BLD8_PNL1_PLQ3 r/phi/z = 11.5766/-0.403902/36.0437 cmssw side/disk/blade/pannel/plaq 2/1/23/1/3 -0.939693
+352410896 FPix_BpI_D1_BLD8_PNL1_PLQ4 r/phi/z = 14.0506/-0.40193/36.0437 cmssw side/disk/blade/pannel/plaq 2/1/23/1/4 -0.939693
+352411908 FPix_BpI_D1_BLD7_PNL1_PLQ1 r/phi/z = 6.23085/-0.151716/36.6437 cmssw side/disk/blade/pannel/plaq 2/1/24/1/1 -0.939693
+352411912 FPix_BpI_D1_BLD7_PNL1_PLQ2 r/phi/z = 8.70347/-0.145802/36.6437 cmssw side/disk/blade/pannel/plaq 2/1/24/1/2 -0.939693
+352411916 FPix_BpI_D1_BLD7_PNL1_PLQ3 r/phi/z = 11.5766/-0.142103/36.6437 cmssw side/disk/blade/pannel/plaq 2/1/24/1/3 -0.939693
+352411920 FPix_BpI_D1_BLD7_PNL1_PLQ4 r/phi/z = 14.0506/-0.14013/36.6437 cmssw side/disk/blade/pannel/plaq 2/1/24/1/4 -0.939693
+352388612 FPix_BpI_D1_BLD6_PNL2_PLQ1 r/phi/z = 7.41114/0.1484/34.3563 cmssw side/disk/blade/pannel/plaq 2/1/1/2/1 0.939693
+352388616 FPix_BpI_D1_BLD6_PNL2_PLQ2 r/phi/z = 10.3416/0.143441/34.3563 cmssw side/disk/blade/pannel/plaq 2/1/1/2/2 0.939693
+352388620 FPix_BpI_D1_BLD6_PNL2_PLQ3 r/phi/z = 13.2728/0.140671/34.3563 cmssw side/disk/blade/pannel/plaq 2/1/1/2/3 0.939693
+352389636 FPix_BpI_D1_BLD5_PNL2_PLQ1 r/phi/z = 7.41114/0.4102/34.9563 cmssw side/disk/blade/pannel/plaq 2/1/2/2/1 0.939693
+352389640 FPix_BpI_D1_BLD5_PNL2_PLQ2 r/phi/z = 10.3416/0.40524/34.9563 cmssw side/disk/blade/pannel/plaq 2/1/2/2/2 0.939693
+352389644 FPix_BpI_D1_BLD5_PNL2_PLQ3 r/phi/z = 13.2728/0.402471/34.9563 cmssw side/disk/blade/pannel/plaq 2/1/2/2/3 0.939693
+352390660 FPix_BpI_D1_BLD4_PNL2_PLQ1 r/phi/z = 7.41114/0.671999/35.5563 cmssw side/disk/blade/pannel/plaq 2/1/3/2/1 0.939693
+352390664 FPix_BpI_D1_BLD4_PNL2_PLQ2 r/phi/z = 10.3416/0.66704/35.5563 cmssw side/disk/blade/pannel/plaq 2/1/3/2/2 0.939693
+352390668 FPix_BpI_D1_BLD4_PNL2_PLQ3 r/phi/z = 13.2728/0.66427/35.5563 cmssw side/disk/blade/pannel/plaq 2/1/3/2/3 0.939693
+352391684 FPix_BpI_D1_BLD3_PNL2_PLQ1 r/phi/z = 7.41114/0.933799/36.1563 cmssw side/disk/blade/pannel/plaq 2/1/4/2/1 0.939693
+352391688 FPix_BpI_D1_BLD3_PNL2_PLQ2 r/phi/z = 10.3416/0.928839/36.1563 cmssw side/disk/blade/pannel/plaq 2/1/4/2/2 0.939693
+352391692 FPix_BpI_D1_BLD3_PNL2_PLQ3 r/phi/z = 13.2728/0.926069/36.1563 cmssw side/disk/blade/pannel/plaq 2/1/4/2/3 0.939693
+352392708 FPix_BpI_D1_BLD2_PNL2_PLQ1 r/phi/z = 7.41113/1.1956/36.7563 cmssw side/disk/blade/pannel/plaq 2/1/5/2/1 0.939693
+352392712 FPix_BpI_D1_BLD2_PNL2_PLQ2 r/phi/z = 10.3416/1.19064/36.7563 cmssw side/disk/blade/pannel/plaq 2/1/5/2/2 0.939693
+352392716 FPix_BpI_D1_BLD2_PNL2_PLQ3 r/phi/z = 13.2728/1.18787/36.7563 cmssw side/disk/blade/pannel/plaq 2/1/5/2/3 0.939693
+352393732 FPix_BpI_D1_BLD1_PNL2_PLQ1 r/phi/z = 7.41113/1.4574/37.3563 cmssw side/disk/blade/pannel/plaq 2/1/6/2/1 0.939693
+352393736 FPix_BpI_D1_BLD1_PNL2_PLQ2 r/phi/z = 10.3416/1.45244/37.3563 cmssw side/disk/blade/pannel/plaq 2/1/6/2/2 0.939693
+352393740 FPix_BpI_D1_BLD1_PNL2_PLQ3 r/phi/z = 13.2728/1.44967/37.3563 cmssw side/disk/blade/pannel/plaq 2/1/6/2/3 0.939693
+352394756 FPix_BpO_D1_BLD1_PNL2_PLQ1 r/phi/z = 7.41114/1.7192/34.3563 cmssw side/disk/blade/pannel/plaq 2/1/7/2/1 0.939693
+352394760 FPix_BpO_D1_BLD1_PNL2_PLQ2 r/phi/z = 10.3416/1.71424/34.3563 cmssw side/disk/blade/pannel/plaq 2/1/7/2/2 0.939693
+352394764 FPix_BpO_D1_BLD1_PNL2_PLQ3 r/phi/z = 13.2728/1.71147/34.3563 cmssw side/disk/blade/pannel/plaq 2/1/7/2/3 0.939693
+352395780 FPix_BpO_D1_BLD2_PNL2_PLQ1 r/phi/z = 7.41114/1.981/34.9563 cmssw side/disk/blade/pannel/plaq 2/1/8/2/1 0.939693
+352395784 FPix_BpO_D1_BLD2_PNL2_PLQ2 r/phi/z = 10.3416/1.97604/34.9563 cmssw side/disk/blade/pannel/plaq 2/1/8/2/2 0.939693
+352395788 FPix_BpO_D1_BLD2_PNL2_PLQ3 r/phi/z = 13.2728/1.97327/34.9563 cmssw side/disk/blade/pannel/plaq 2/1/8/2/3 0.939693
+352396804 FPix_BpO_D1_BLD3_PNL2_PLQ1 r/phi/z = 7.41114/2.2428/35.5563 cmssw side/disk/blade/pannel/plaq 2/1/9/2/1 0.939693
+352396808 FPix_BpO_D1_BLD3_PNL2_PLQ2 r/phi/z = 10.3416/2.23784/35.5563 cmssw side/disk/blade/pannel/plaq 2/1/9/2/2 0.939693
+352396812 FPix_BpO_D1_BLD3_PNL2_PLQ3 r/phi/z = 13.2728/2.23507/35.5563 cmssw side/disk/blade/pannel/plaq 2/1/9/2/3 0.939693
+352397828 FPix_BpO_D1_BLD4_PNL2_PLQ1 r/phi/z = 7.41114/2.5046/36.1563 cmssw side/disk/blade/pannel/plaq 2/1/10/2/1 0.939693
+352397832 FPix_BpO_D1_BLD4_PNL2_PLQ2 r/phi/z = 10.3416/2.49964/36.1563 cmssw side/disk/blade/pannel/plaq 2/1/10/2/2 0.939693
+352397836 FPix_BpO_D1_BLD4_PNL2_PLQ3 r/phi/z = 13.2728/2.49687/36.1563 cmssw side/disk/blade/pannel/plaq 2/1/10/2/3 0.939693
+352398852 FPix_BpO_D1_BLD5_PNL2_PLQ1 r/phi/z = 7.41113/2.76639/36.7563 cmssw side/disk/blade/pannel/plaq 2/1/11/2/1 0.939693
+352398856 FPix_BpO_D1_BLD5_PNL2_PLQ2 r/phi/z = 10.3416/2.76143/36.7563 cmssw side/disk/blade/pannel/plaq 2/1/11/2/2 0.939693
+352398860 FPix_BpO_D1_BLD5_PNL2_PLQ3 r/phi/z = 13.2728/2.75867/36.7563 cmssw side/disk/blade/pannel/plaq 2/1/11/2/3 0.939693
+352399876 FPix_BpO_D1_BLD6_PNL2_PLQ1 r/phi/z = 7.41113/3.02819/37.3563 cmssw side/disk/blade/pannel/plaq 2/1/12/2/1 0.939693
+352399880 FPix_BpO_D1_BLD6_PNL2_PLQ2 r/phi/z = 10.3416/3.02323/37.3563 cmssw side/disk/blade/pannel/plaq 2/1/12/2/2 0.939693
+352399884 FPix_BpO_D1_BLD6_PNL2_PLQ3 r/phi/z = 13.2728/3.02046/37.3563 cmssw side/disk/blade/pannel/plaq 2/1/12/2/3 0.939693
+352400900 FPix_BpO_D1_BLD7_PNL2_PLQ1 r/phi/z = 7.41114/-2.99319/34.3563 cmssw side/disk/blade/pannel/plaq 2/1/13/2/1 0.939693
+352400904 FPix_BpO_D1_BLD7_PNL2_PLQ2 r/phi/z = 10.3416/-2.99815/34.3563 cmssw side/disk/blade/pannel/plaq 2/1/13/2/2 0.939693
+352400908 FPix_BpO_D1_BLD7_PNL2_PLQ3 r/phi/z = 13.2728/-3.00092/34.3563 cmssw side/disk/blade/pannel/plaq 2/1/13/2/3 0.939693
+352401924 FPix_BpO_D1_BLD8_PNL2_PLQ1 r/phi/z = 7.41114/-2.73139/34.9563 cmssw side/disk/blade/pannel/plaq 2/1/14/2/1 0.939693
+352401928 FPix_BpO_D1_BLD8_PNL2_PLQ2 r/phi/z = 10.3416/-2.73635/34.9563 cmssw side/disk/blade/pannel/plaq 2/1/14/2/2 0.939693
+352401932 FPix_BpO_D1_BLD8_PNL2_PLQ3 r/phi/z = 13.2728/-2.73912/34.9563 cmssw side/disk/blade/pannel/plaq 2/1/14/2/3 0.939693
+352402948 FPix_BpO_D1_BLD9_PNL2_PLQ1 r/phi/z = 7.41114/-2.46959/35.5563 cmssw side/disk/blade/pannel/plaq 2/1/15/2/1 0.939693
+352402952 FPix_BpO_D1_BLD9_PNL2_PLQ2 r/phi/z = 10.3416/-2.47455/35.5563 cmssw side/disk/blade/pannel/plaq 2/1/15/2/2 0.939693
+352402956 FPix_BpO_D1_BLD9_PNL2_PLQ3 r/phi/z = 13.2728/-2.47732/35.5563 cmssw side/disk/blade/pannel/plaq 2/1/15/2/3 0.939693
+352403972 FPix_BpO_D1_BLD10_PNL2_PLQ1 r/phi/z = 7.41114/-2.20779/36.1563 cmssw side/disk/blade/pannel/plaq 2/1/16/2/1 0.939693
+352403976 FPix_BpO_D1_BLD10_PNL2_PLQ2 r/phi/z = 10.3416/-2.21275/36.1563 cmssw side/disk/blade/pannel/plaq 2/1/16/2/2 0.939693
+352403980 FPix_BpO_D1_BLD10_PNL2_PLQ3 r/phi/z = 13.2728/-2.21552/36.1563 cmssw side/disk/blade/pannel/plaq 2/1/16/2/3 0.939693
+352404996 FPix_BpO_D1_BLD11_PNL2_PLQ1 r/phi/z = 7.41113/-1.94599/36.7563 cmssw side/disk/blade/pannel/plaq 2/1/17/2/1 0.939693
+352405000 FPix_BpO_D1_BLD11_PNL2_PLQ2 r/phi/z = 10.3416/-1.95095/36.7563 cmssw side/disk/blade/pannel/plaq 2/1/17/2/2 0.939693
+352405004 FPix_BpO_D1_BLD11_PNL2_PLQ3 r/phi/z = 13.2728/-1.95372/36.7563 cmssw side/disk/blade/pannel/plaq 2/1/17/2/3 0.939693
+352406020 FPix_BpO_D1_BLD12_PNL2_PLQ1 r/phi/z = 7.41113/-1.6842/37.3563 cmssw side/disk/blade/pannel/plaq 2/1/18/2/1 0.939693
+352406024 FPix_BpO_D1_BLD12_PNL2_PLQ2 r/phi/z = 10.3416/-1.68915/37.3563 cmssw side/disk/blade/pannel/plaq 2/1/18/2/2 0.939693
+352406028 FPix_BpO_D1_BLD12_PNL2_PLQ3 r/phi/z = 13.2728/-1.69192/37.3563 cmssw side/disk/blade/pannel/plaq 2/1/18/2/3 0.939693
+352407044 FPix_BpI_D1_BLD12_PNL2_PLQ1 r/phi/z = 7.41114/-1.4224/34.3563 cmssw side/disk/blade/pannel/plaq 2/1/19/2/1 0.939693
+352407048 FPix_BpI_D1_BLD12_PNL2_PLQ2 r/phi/z = 10.3416/-1.42736/34.3563 cmssw side/disk/blade/pannel/plaq 2/1/19/2/2 0.939693
+352407052 FPix_BpI_D1_BLD12_PNL2_PLQ3 r/phi/z = 13.2728/-1.43013/34.3563 cmssw side/disk/blade/pannel/plaq 2/1/19/2/3 0.939693
+352408068 FPix_BpI_D1_BLD11_PNL2_PLQ1 r/phi/z = 7.41114/-1.1606/34.9563 cmssw side/disk/blade/pannel/plaq 2/1/20/2/1 0.939693
+352408072 FPix_BpI_D1_BLD11_PNL2_PLQ2 r/phi/z = 10.3416/-1.16556/34.9563 cmssw side/disk/blade/pannel/plaq 2/1/20/2/2 0.939693
+352408076 FPix_BpI_D1_BLD11_PNL2_PLQ3 r/phi/z = 13.2728/-1.16833/34.9563 cmssw side/disk/blade/pannel/plaq 2/1/20/2/3 0.939693
+352409092 FPix_BpI_D1_BLD10_PNL2_PLQ1 r/phi/z = 7.41114/-0.898797/35.5563 cmssw side/disk/blade/pannel/plaq 2/1/21/2/1 0.939693
+352409096 FPix_BpI_D1_BLD10_PNL2_PLQ2 r/phi/z = 10.3416/-0.903756/35.5563 cmssw side/disk/blade/pannel/plaq 2/1/21/2/2 0.939693
+352409100 FPix_BpI_D1_BLD10_PNL2_PLQ3 r/phi/z = 13.2728/-0.906526/35.5563 cmssw side/disk/blade/pannel/plaq 2/1/21/2/3 0.939693
+352410116 FPix_BpI_D1_BLD9_PNL2_PLQ1 r/phi/z = 7.41114/-0.636998/36.1563 cmssw side/disk/blade/pannel/plaq 2/1/22/2/1 0.939693
+352410120 FPix_BpI_D1_BLD9_PNL2_PLQ2 r/phi/z = 10.3416/-0.641957/36.1563 cmssw side/disk/blade/pannel/plaq 2/1/22/2/2 0.939693
+352410124 FPix_BpI_D1_BLD9_PNL2_PLQ3 r/phi/z = 13.2728/-0.644727/36.1563 cmssw side/disk/blade/pannel/plaq 2/1/22/2/3 0.939693
+352411140 FPix_BpI_D1_BLD8_PNL2_PLQ1 r/phi/z = 7.41113/-0.375198/36.7563 cmssw side/disk/blade/pannel/plaq 2/1/23/2/1 0.939693
+352411144 FPix_BpI_D1_BLD8_PNL2_PLQ2 r/phi/z = 10.3416/-0.380158/36.7563 cmssw side/disk/blade/pannel/plaq 2/1/23/2/2 0.939693
+352411148 FPix_BpI_D1_BLD8_PNL2_PLQ3 r/phi/z = 13.2728/-0.382928/36.7563 cmssw side/disk/blade/pannel/plaq 2/1/23/2/3 0.939693
+352412164 FPix_BpI_D1_BLD7_PNL2_PLQ1 r/phi/z = 7.41113/-0.113399/37.3563 cmssw side/disk/blade/pannel/plaq 2/1/24/2/1 0.939693
+352412168 FPix_BpI_D1_BLD7_PNL2_PLQ2 r/phi/z = 10.3416/-0.118358/37.3563 cmssw side/disk/blade/pannel/plaq 2/1/24/2/2 0.939693
+352412172 FPix_BpI_D1_BLD7_PNL2_PLQ3 r/phi/z = 13.2728/-0.121128/37.3563 cmssw side/disk/blade/pannel/plaq 2/1/24/2/3 0.939693
+352453892 FPix_BpI_D2_BLD6_PNL1_PLQ1 r/phi/z = 6.23085/0.110083/46.6437 cmssw side/disk/blade/pannel/plaq 2/2/1/1/1 -0.939693
+352453896 FPix_BpI_D2_BLD6_PNL1_PLQ2 r/phi/z = 8.70347/0.115998/46.6437 cmssw side/disk/blade/pannel/plaq 2/2/1/1/2 -0.939693
+352453900 FPix_BpI_D2_BLD6_PNL1_PLQ3 r/phi/z = 11.5766/0.119696/46.6437 cmssw side/disk/blade/pannel/plaq 2/2/1/1/3 -0.939693
+352453904 FPix_BpI_D2_BLD6_PNL1_PLQ4 r/phi/z = 14.0506/0.121669/46.6437 cmssw side/disk/blade/pannel/plaq 2/2/1/1/4 -0.939693
+352454916 FPix_BpI_D2_BLD5_PNL1_PLQ1 r/phi/z = 6.23085/0.371883/47.2437 cmssw side/disk/blade/pannel/plaq 2/2/2/1/1 -0.939693
+352454920 FPix_BpI_D2_BLD5_PNL1_PLQ2 r/phi/z = 8.70347/0.377797/47.2437 cmssw side/disk/blade/pannel/plaq 2/2/2/1/2 -0.939693
+352454924 FPix_BpI_D2_BLD5_PNL1_PLQ3 r/phi/z = 11.5766/0.381496/47.2437 cmssw side/disk/blade/pannel/plaq 2/2/2/1/3 -0.939693
+352454928 FPix_BpI_D2_BLD5_PNL1_PLQ4 r/phi/z = 14.0506/0.383468/47.2437 cmssw side/disk/blade/pannel/plaq 2/2/2/1/4 -0.939693
+352455940 FPix_BpI_D2_BLD4_PNL1_PLQ1 r/phi/z = 6.23085/0.633682/47.8437 cmssw side/disk/blade/pannel/plaq 2/2/3/1/1 -0.939693
+352455944 FPix_BpI_D2_BLD4_PNL1_PLQ2 r/phi/z = 8.70347/0.639597/47.8437 cmssw side/disk/blade/pannel/plaq 2/2/3/1/2 -0.939693
+352455948 FPix_BpI_D2_BLD4_PNL1_PLQ3 r/phi/z = 11.5766/0.643295/47.8437 cmssw side/disk/blade/pannel/plaq 2/2/3/1/3 -0.939693
+352455952 FPix_BpI_D2_BLD4_PNL1_PLQ4 r/phi/z = 14.0506/0.645268/47.8437 cmssw side/disk/blade/pannel/plaq 2/2/3/1/4 -0.939693
+352456964 FPix_BpI_D2_BLD3_PNL1_PLQ1 r/phi/z = 6.23085/0.895482/48.4437 cmssw side/disk/blade/pannel/plaq 2/2/4/1/1 -0.939693
+352456968 FPix_BpI_D2_BLD3_PNL1_PLQ2 r/phi/z = 8.70347/0.901396/48.4437 cmssw side/disk/blade/pannel/plaq 2/2/4/1/2 -0.939693
+352456972 FPix_BpI_D2_BLD3_PNL1_PLQ3 r/phi/z = 11.5766/0.905095/48.4437 cmssw side/disk/blade/pannel/plaq 2/2/4/1/3 -0.939693
+352456976 FPix_BpI_D2_BLD3_PNL1_PLQ4 r/phi/z = 14.0506/0.907067/48.4437 cmssw side/disk/blade/pannel/plaq 2/2/4/1/4 -0.939693
+352457988 FPix_BpI_D2_BLD2_PNL1_PLQ1 r/phi/z = 6.23085/1.15728/49.0437 cmssw side/disk/blade/pannel/plaq 2/2/5/1/1 -0.939693
+352457992 FPix_BpI_D2_BLD2_PNL1_PLQ2 r/phi/z = 8.70347/1.1632/49.0437 cmssw side/disk/blade/pannel/plaq 2/2/5/1/2 -0.939693
+352457996 FPix_BpI_D2_BLD2_PNL1_PLQ3 r/phi/z = 11.5766/1.16689/49.0437 cmssw side/disk/blade/pannel/plaq 2/2/5/1/3 -0.939693
+352458000 FPix_BpI_D2_BLD2_PNL1_PLQ4 r/phi/z = 14.0506/1.16887/49.0437 cmssw side/disk/blade/pannel/plaq 2/2/5/1/4 -0.939693
+352459012 FPix_BpI_D2_BLD1_PNL1_PLQ1 r/phi/z = 6.23085/1.41908/49.6437 cmssw side/disk/blade/pannel/plaq 2/2/6/1/1 -0.939693
+352459016 FPix_BpI_D2_BLD1_PNL1_PLQ2 r/phi/z = 8.70347/1.42499/49.6437 cmssw side/disk/blade/pannel/plaq 2/2/6/1/2 -0.939693
+352459020 FPix_BpI_D2_BLD1_PNL1_PLQ3 r/phi/z = 11.5766/1.42869/49.6437 cmssw side/disk/blade/pannel/plaq 2/2/6/1/3 -0.939693
+352459024 FPix_BpI_D2_BLD1_PNL1_PLQ4 r/phi/z = 14.0506/1.43067/49.6437 cmssw side/disk/blade/pannel/plaq 2/2/6/1/4 -0.939693
+352460036 FPix_BpO_D2_BLD1_PNL1_PLQ1 r/phi/z = 6.23085/1.68088/46.6437 cmssw side/disk/blade/pannel/plaq 2/2/7/1/1 -0.939693
+352460040 FPix_BpO_D2_BLD1_PNL1_PLQ2 r/phi/z = 8.70347/1.68679/46.6437 cmssw side/disk/blade/pannel/plaq 2/2/7/1/2 -0.939693
+352460044 FPix_BpO_D2_BLD1_PNL1_PLQ3 r/phi/z = 11.5766/1.69049/46.6437 cmssw side/disk/blade/pannel/plaq 2/2/7/1/3 -0.939693
+352460048 FPix_BpO_D2_BLD1_PNL1_PLQ4 r/phi/z = 14.0506/1.69247/46.6437 cmssw side/disk/blade/pannel/plaq 2/2/7/1/4 -0.939693
+352461060 FPix_BpO_D2_BLD2_PNL1_PLQ1 r/phi/z = 6.23085/1.94268/47.2437 cmssw side/disk/blade/pannel/plaq 2/2/8/1/1 -0.939693
+352461064 FPix_BpO_D2_BLD2_PNL1_PLQ2 r/phi/z = 8.70347/1.94859/47.2437 cmssw side/disk/blade/pannel/plaq 2/2/8/1/2 -0.939693
+352461068 FPix_BpO_D2_BLD2_PNL1_PLQ3 r/phi/z = 11.5766/1.95229/47.2437 cmssw side/disk/blade/pannel/plaq 2/2/8/1/3 -0.939693
+352461072 FPix_BpO_D2_BLD2_PNL1_PLQ4 r/phi/z = 14.0506/1.95426/47.2437 cmssw side/disk/blade/pannel/plaq 2/2/8/1/4 -0.939693
+352462084 FPix_BpO_D2_BLD3_PNL1_PLQ1 r/phi/z = 6.23085/2.20448/47.8437 cmssw side/disk/blade/pannel/plaq 2/2/9/1/1 -0.939693
+352462088 FPix_BpO_D2_BLD3_PNL1_PLQ2 r/phi/z = 8.70347/2.21039/47.8437 cmssw side/disk/blade/pannel/plaq 2/2/9/1/2 -0.939693
+352462092 FPix_BpO_D2_BLD3_PNL1_PLQ3 r/phi/z = 11.5766/2.21409/47.8437 cmssw side/disk/blade/pannel/plaq 2/2/9/1/3 -0.939693
+352462096 FPix_BpO_D2_BLD3_PNL1_PLQ4 r/phi/z = 14.0506/2.21606/47.8437 cmssw side/disk/blade/pannel/plaq 2/2/9/1/4 -0.939693
+352463108 FPix_BpO_D2_BLD4_PNL1_PLQ1 r/phi/z = 6.23085/2.46628/48.4437 cmssw side/disk/blade/pannel/plaq 2/2/10/1/1 -0.939693
+352463112 FPix_BpO_D2_BLD4_PNL1_PLQ2 r/phi/z = 8.70347/2.47219/48.4437 cmssw side/disk/blade/pannel/plaq 2/2/10/1/2 -0.939693
+352463116 FPix_BpO_D2_BLD4_PNL1_PLQ3 r/phi/z = 11.5766/2.47589/48.4437 cmssw side/disk/blade/pannel/plaq 2/2/10/1/3 -0.939693
+352463120 FPix_BpO_D2_BLD4_PNL1_PLQ4 r/phi/z = 14.0506/2.47786/48.4437 cmssw side/disk/blade/pannel/plaq 2/2/10/1/4 -0.939693
+352464132 FPix_BpO_D2_BLD5_PNL1_PLQ1 r/phi/z = 6.23085/2.72808/49.0437 cmssw side/disk/blade/pannel/plaq 2/2/11/1/1 -0.939693
+352464136 FPix_BpO_D2_BLD5_PNL1_PLQ2 r/phi/z = 8.70347/2.73399/49.0437 cmssw side/disk/blade/pannel/plaq 2/2/11/1/2 -0.939693
+352464140 FPix_BpO_D2_BLD5_PNL1_PLQ3 r/phi/z = 11.5766/2.73769/49.0437 cmssw side/disk/blade/pannel/plaq 2/2/11/1/3 -0.939693
+352464144 FPix_BpO_D2_BLD5_PNL1_PLQ4 r/phi/z = 14.0506/2.73966/49.0437 cmssw side/disk/blade/pannel/plaq 2/2/11/1/4 -0.939693
+352465156 FPix_BpO_D2_BLD6_PNL1_PLQ1 r/phi/z = 6.23085/2.98988/49.6437 cmssw side/disk/blade/pannel/plaq 2/2/12/1/1 -0.939693
+352465160 FPix_BpO_D2_BLD6_PNL1_PLQ2 r/phi/z = 8.70347/2.99579/49.6437 cmssw side/disk/blade/pannel/plaq 2/2/12/1/2 -0.939693
+352465164 FPix_BpO_D2_BLD6_PNL1_PLQ3 r/phi/z = 11.5766/2.99949/49.6437 cmssw side/disk/blade/pannel/plaq 2/2/12/1/3 -0.939693
+352465168 FPix_BpO_D2_BLD6_PNL1_PLQ4 r/phi/z = 14.0506/3.00146/49.6437 cmssw side/disk/blade/pannel/plaq 2/2/12/1/4 -0.939693
+352466180 FPix_BpO_D2_BLD7_PNL1_PLQ1 r/phi/z = 6.23085/-3.03151/46.6437 cmssw side/disk/blade/pannel/plaq 2/2/13/1/1 -0.939693
+352466184 FPix_BpO_D2_BLD7_PNL1_PLQ2 r/phi/z = 8.70347/-3.02559/46.6437 cmssw side/disk/blade/pannel/plaq 2/2/13/1/2 -0.939693
+352466188 FPix_BpO_D2_BLD7_PNL1_PLQ3 r/phi/z = 11.5766/-3.0219/46.6437 cmssw side/disk/blade/pannel/plaq 2/2/13/1/3 -0.939693
+352466192 FPix_BpO_D2_BLD7_PNL1_PLQ4 r/phi/z = 14.0506/-3.01992/46.6437 cmssw side/disk/blade/pannel/plaq 2/2/13/1/4 -0.939693
+352467204 FPix_BpO_D2_BLD8_PNL1_PLQ1 r/phi/z = 6.23085/-2.76971/47.2437 cmssw side/disk/blade/pannel/plaq 2/2/14/1/1 -0.939693
+352467208 FPix_BpO_D2_BLD8_PNL1_PLQ2 r/phi/z = 8.70347/-2.7638/47.2437 cmssw side/disk/blade/pannel/plaq 2/2/14/1/2 -0.939693
+352467212 FPix_BpO_D2_BLD8_PNL1_PLQ3 r/phi/z = 11.5766/-2.7601/47.2437 cmssw side/disk/blade/pannel/plaq 2/2/14/1/3 -0.939693
+352467216 FPix_BpO_D2_BLD8_PNL1_PLQ4 r/phi/z = 14.0506/-2.75812/47.2437 cmssw side/disk/blade/pannel/plaq 2/2/14/1/4 -0.939693
+352468228 FPix_BpO_D2_BLD9_PNL1_PLQ1 r/phi/z = 6.23085/-2.50791/47.8437 cmssw side/disk/blade/pannel/plaq 2/2/15/1/1 -0.939693
+352468232 FPix_BpO_D2_BLD9_PNL1_PLQ2 r/phi/z = 8.70347/-2.502/47.8437 cmssw side/disk/blade/pannel/plaq 2/2/15/1/2 -0.939693
+352468236 FPix_BpO_D2_BLD9_PNL1_PLQ3 r/phi/z = 11.5766/-2.4983/47.8437 cmssw side/disk/blade/pannel/plaq 2/2/15/1/3 -0.939693
+352468240 FPix_BpO_D2_BLD9_PNL1_PLQ4 r/phi/z = 14.0506/-2.49632/47.8437 cmssw side/disk/blade/pannel/plaq 2/2/15/1/4 -0.939693
+352469252 FPix_BpO_D2_BLD10_PNL1_PLQ1 r/phi/z = 6.23085/-2.24611/48.4437 cmssw side/disk/blade/pannel/plaq 2/2/16/1/1 -0.939693
+352469256 FPix_BpO_D2_BLD10_PNL1_PLQ2 r/phi/z = 8.70347/-2.2402/48.4437 cmssw side/disk/blade/pannel/plaq 2/2/16/1/2 -0.939693
+352469260 FPix_BpO_D2_BLD10_PNL1_PLQ3 r/phi/z = 11.5766/-2.2365/48.4437 cmssw side/disk/blade/pannel/plaq 2/2/16/1/3 -0.939693
+352469264 FPix_BpO_D2_BLD10_PNL1_PLQ4 r/phi/z = 14.0506/-2.23453/48.4437 cmssw side/disk/blade/pannel/plaq 2/2/16/1/4 -0.939693
+352470276 FPix_BpO_D2_BLD11_PNL1_PLQ1 r/phi/z = 6.23085/-1.98431/49.0437 cmssw side/disk/blade/pannel/plaq 2/2/17/1/1 -0.939693
+352470280 FPix_BpO_D2_BLD11_PNL1_PLQ2 r/phi/z = 8.70347/-1.9784/49.0437 cmssw side/disk/blade/pannel/plaq 2/2/17/1/2 -0.939693
+352470284 FPix_BpO_D2_BLD11_PNL1_PLQ3 r/phi/z = 11.5766/-1.9747/49.0437 cmssw side/disk/blade/pannel/plaq 2/2/17/1/3 -0.939693
+352470288 FPix_BpO_D2_BLD11_PNL1_PLQ4 r/phi/z = 14.0506/-1.97273/49.0437 cmssw side/disk/blade/pannel/plaq 2/2/17/1/4 -0.939693
+352471300 FPix_BpO_D2_BLD12_PNL1_PLQ1 r/phi/z = 6.23085/-1.72251/49.6437 cmssw side/disk/blade/pannel/plaq 2/2/18/1/1 -0.939693
+352471304 FPix_BpO_D2_BLD12_PNL1_PLQ2 r/phi/z = 8.70347/-1.7166/49.6437 cmssw side/disk/blade/pannel/plaq 2/2/18/1/2 -0.939693
+352471308 FPix_BpO_D2_BLD12_PNL1_PLQ3 r/phi/z = 11.5766/-1.7129/49.6437 cmssw side/disk/blade/pannel/plaq 2/2/18/1/3 -0.939693
+352471312 FPix_BpO_D2_BLD12_PNL1_PLQ4 r/phi/z = 14.0506/-1.71093/49.6437 cmssw side/disk/blade/pannel/plaq 2/2/18/1/4 -0.939693
+352472324 FPix_BpI_D2_BLD12_PNL1_PLQ1 r/phi/z = 6.23085/-1.46071/46.6437 cmssw side/disk/blade/pannel/plaq 2/2/19/1/1 -0.939693
+352472328 FPix_BpI_D2_BLD12_PNL1_PLQ2 r/phi/z = 8.70347/-1.4548/46.6437 cmssw side/disk/blade/pannel/plaq 2/2/19/1/2 -0.939693
+352472332 FPix_BpI_D2_BLD12_PNL1_PLQ3 r/phi/z = 11.5766/-1.4511/46.6437 cmssw side/disk/blade/pannel/plaq 2/2/19/1/3 -0.939693
+352472336 FPix_BpI_D2_BLD12_PNL1_PLQ4 r/phi/z = 14.0506/-1.44913/46.6437 cmssw side/disk/blade/pannel/plaq 2/2/19/1/4 -0.939693
+352473348 FPix_BpI_D2_BLD11_PNL1_PLQ1 r/phi/z = 6.23085/-1.19891/47.2437 cmssw side/disk/blade/pannel/plaq 2/2/20/1/1 -0.939693
+352473352 FPix_BpI_D2_BLD11_PNL1_PLQ2 r/phi/z = 8.70347/-1.193/47.2437 cmssw side/disk/blade/pannel/plaq 2/2/20/1/2 -0.939693
+352473356 FPix_BpI_D2_BLD11_PNL1_PLQ3 r/phi/z = 11.5766/-1.1893/47.2437 cmssw side/disk/blade/pannel/plaq 2/2/20/1/3 -0.939693
+352473360 FPix_BpI_D2_BLD11_PNL1_PLQ4 r/phi/z = 14.0506/-1.18733/47.2437 cmssw side/disk/blade/pannel/plaq 2/2/20/1/4 -0.939693
+352474372 FPix_BpI_D2_BLD10_PNL1_PLQ1 r/phi/z = 6.23085/-0.937114/47.8437 cmssw side/disk/blade/pannel/plaq 2/2/21/1/1 -0.939693
+352474376 FPix_BpI_D2_BLD10_PNL1_PLQ2 r/phi/z = 8.70347/-0.9312/47.8437 cmssw side/disk/blade/pannel/plaq 2/2/21/1/2 -0.939693
+352474380 FPix_BpI_D2_BLD10_PNL1_PLQ3 r/phi/z = 11.5766/-0.927501/47.8437 cmssw side/disk/blade/pannel/plaq 2/2/21/1/3 -0.939693
+352474384 FPix_BpI_D2_BLD10_PNL1_PLQ4 r/phi/z = 14.0506/-0.925528/47.8437 cmssw side/disk/blade/pannel/plaq 2/2/21/1/4 -0.939693
+352475396 FPix_BpI_D2_BLD9_PNL1_PLQ1 r/phi/z = 6.23085/-0.675315/48.4437 cmssw side/disk/blade/pannel/plaq 2/2/22/1/1 -0.939693
+352475400 FPix_BpI_D2_BLD9_PNL1_PLQ2 r/phi/z = 8.70347/-0.6694/48.4437 cmssw side/disk/blade/pannel/plaq 2/2/22/1/2 -0.939693
+352475404 FPix_BpI_D2_BLD9_PNL1_PLQ3 r/phi/z = 11.5766/-0.665702/48.4437 cmssw side/disk/blade/pannel/plaq 2/2/22/1/3 -0.939693
+352475408 FPix_BpI_D2_BLD9_PNL1_PLQ4 r/phi/z = 14.0506/-0.663729/48.4437 cmssw side/disk/blade/pannel/plaq 2/2/22/1/4 -0.939693
+352476420 FPix_BpI_D2_BLD8_PNL1_PLQ1 r/phi/z = 6.23085/-0.413515/49.0437 cmssw side/disk/blade/pannel/plaq 2/2/23/1/1 -0.939693
+352476424 FPix_BpI_D2_BLD8_PNL1_PLQ2 r/phi/z = 8.70347/-0.407601/49.0437 cmssw side/disk/blade/pannel/plaq 2/2/23/1/2 -0.939693
+352476428 FPix_BpI_D2_BLD8_PNL1_PLQ3 r/phi/z = 11.5766/-0.403902/49.0437 cmssw side/disk/blade/pannel/plaq 2/2/23/1/3 -0.939693
+352476432 FPix_BpI_D2_BLD8_PNL1_PLQ4 r/phi/z = 14.0506/-0.40193/49.0437 cmssw side/disk/blade/pannel/plaq 2/2/23/1/4 -0.939693
+352477444 FPix_BpI_D2_BLD7_PNL1_PLQ1 r/phi/z = 6.23085/-0.151716/49.6437 cmssw side/disk/blade/pannel/plaq 2/2/24/1/1 -0.939693
+352477448 FPix_BpI_D2_BLD7_PNL1_PLQ2 r/phi/z = 8.70347/-0.145802/49.6437 cmssw side/disk/blade/pannel/plaq 2/2/24/1/2 -0.939693
+352477452 FPix_BpI_D2_BLD7_PNL1_PLQ3 r/phi/z = 11.5766/-0.142103/49.6437 cmssw side/disk/blade/pannel/plaq 2/2/24/1/3 -0.939693
+352477456 FPix_BpI_D2_BLD7_PNL1_PLQ4 r/phi/z = 14.0506/-0.14013/49.6437 cmssw side/disk/blade/pannel/plaq 2/2/24/1/4 -0.939693
+352454148 FPix_BpI_D2_BLD6_PNL2_PLQ1 r/phi/z = 7.41114/0.1484/47.3563 cmssw side/disk/blade/pannel/plaq 2/2/1/2/1 0.939693
+352454152 FPix_BpI_D2_BLD6_PNL2_PLQ2 r/phi/z = 10.3416/0.143441/47.3563 cmssw side/disk/blade/pannel/plaq 2/2/1/2/2 0.939693
+352454156 FPix_BpI_D2_BLD6_PNL2_PLQ3 r/phi/z = 13.2728/0.140671/47.3563 cmssw side/disk/blade/pannel/plaq 2/2/1/2/3 0.939693
+352455172 FPix_BpI_D2_BLD5_PNL2_PLQ1 r/phi/z = 7.41114/0.4102/47.9563 cmssw side/disk/blade/pannel/plaq 2/2/2/2/1 0.939693
+352455176 FPix_BpI_D2_BLD5_PNL2_PLQ2 r/phi/z = 10.3416/0.40524/47.9563 cmssw side/disk/blade/pannel/plaq 2/2/2/2/2 0.939693
+352455180 FPix_BpI_D2_BLD5_PNL2_PLQ3 r/phi/z = 13.2728/0.402471/47.9563 cmssw side/disk/blade/pannel/plaq 2/2/2/2/3 0.939693
+352456196 FPix_BpI_D2_BLD4_PNL2_PLQ1 r/phi/z = 7.41114/0.671999/48.5563 cmssw side/disk/blade/pannel/plaq 2/2/3/2/1 0.939693
+352456200 FPix_BpI_D2_BLD4_PNL2_PLQ2 r/phi/z = 10.3416/0.66704/48.5563 cmssw side/disk/blade/pannel/plaq 2/2/3/2/2 0.939693
+352456204 FPix_BpI_D2_BLD4_PNL2_PLQ3 r/phi/z = 13.2728/0.66427/48.5563 cmssw side/disk/blade/pannel/plaq 2/2/3/2/3 0.939693
+352457220 FPix_BpI_D2_BLD3_PNL2_PLQ1 r/phi/z = 7.41114/0.933799/49.1563 cmssw side/disk/blade/pannel/plaq 2/2/4/2/1 0.939693
+352457224 FPix_BpI_D2_BLD3_PNL2_PLQ2 r/phi/z = 10.3416/0.928839/49.1563 cmssw side/disk/blade/pannel/plaq 2/2/4/2/2 0.939693
+352457228 FPix_BpI_D2_BLD3_PNL2_PLQ3 r/phi/z = 13.2728/0.926069/49.1563 cmssw side/disk/blade/pannel/plaq 2/2/4/2/3 0.939693
+352458244 FPix_BpI_D2_BLD2_PNL2_PLQ1 r/phi/z = 7.41113/1.1956/49.7563 cmssw side/disk/blade/pannel/plaq 2/2/5/2/1 0.939693
+352458248 FPix_BpI_D2_BLD2_PNL2_PLQ2 r/phi/z = 10.3416/1.19064/49.7563 cmssw side/disk/blade/pannel/plaq 2/2/5/2/2 0.939693
+352458252 FPix_BpI_D2_BLD2_PNL2_PLQ3 r/phi/z = 13.2728/1.18787/49.7563 cmssw side/disk/blade/pannel/plaq 2/2/5/2/3 0.939693
+352459268 FPix_BpI_D2_BLD1_PNL2_PLQ1 r/phi/z = 7.41113/1.4574/50.3563 cmssw side/disk/blade/pannel/plaq 2/2/6/2/1 0.939693
+352459272 FPix_BpI_D2_BLD1_PNL2_PLQ2 r/phi/z = 10.3416/1.45244/50.3563 cmssw side/disk/blade/pannel/plaq 2/2/6/2/2 0.939693
+352459276 FPix_BpI_D2_BLD1_PNL2_PLQ3 r/phi/z = 13.2728/1.44967/50.3563 cmssw side/disk/blade/pannel/plaq 2/2/6/2/3 0.939693
+352460292 FPix_BpO_D2_BLD1_PNL2_PLQ1 r/phi/z = 7.41114/1.7192/47.3563 cmssw side/disk/blade/pannel/plaq 2/2/7/2/1 0.939693
+352460296 FPix_BpO_D2_BLD1_PNL2_PLQ2 r/phi/z = 10.3416/1.71424/47.3563 cmssw side/disk/blade/pannel/plaq 2/2/7/2/2 0.939693
+352460300 FPix_BpO_D2_BLD1_PNL2_PLQ3 r/phi/z = 13.2728/1.71147/47.3563 cmssw side/disk/blade/pannel/plaq 2/2/7/2/3 0.939693
+352461316 FPix_BpO_D2_BLD2_PNL2_PLQ1 r/phi/z = 7.41114/1.981/47.9563 cmssw side/disk/blade/pannel/plaq 2/2/8/2/1 0.939693
+352461320 FPix_BpO_D2_BLD2_PNL2_PLQ2 r/phi/z = 10.3416/1.97604/47.9563 cmssw side/disk/blade/pannel/plaq 2/2/8/2/2 0.939693
+352461324 FPix_BpO_D2_BLD2_PNL2_PLQ3 r/phi/z = 13.2728/1.97327/47.9563 cmssw side/disk/blade/pannel/plaq 2/2/8/2/3 0.939693
+352462340 FPix_BpO_D2_BLD3_PNL2_PLQ1 r/phi/z = 7.41114/2.2428/48.5563 cmssw side/disk/blade/pannel/plaq 2/2/9/2/1 0.939693
+352462344 FPix_BpO_D2_BLD3_PNL2_PLQ2 r/phi/z = 10.3416/2.23784/48.5563 cmssw side/disk/blade/pannel/plaq 2/2/9/2/2 0.939693
+352462348 FPix_BpO_D2_BLD3_PNL2_PLQ3 r/phi/z = 13.2728/2.23507/48.5563 cmssw side/disk/blade/pannel/plaq 2/2/9/2/3 0.939693
+352463364 FPix_BpO_D2_BLD4_PNL2_PLQ1 r/phi/z = 7.41114/2.5046/49.1563 cmssw side/disk/blade/pannel/plaq 2/2/10/2/1 0.939693
+352463368 FPix_BpO_D2_BLD4_PNL2_PLQ2 r/phi/z = 10.3416/2.49964/49.1563 cmssw side/disk/blade/pannel/plaq 2/2/10/2/2 0.939693
+352463372 FPix_BpO_D2_BLD4_PNL2_PLQ3 r/phi/z = 13.2728/2.49687/49.1563 cmssw side/disk/blade/pannel/plaq 2/2/10/2/3 0.939693
+352464388 FPix_BpO_D2_BLD5_PNL2_PLQ1 r/phi/z = 7.41113/2.76639/49.7563 cmssw side/disk/blade/pannel/plaq 2/2/11/2/1 0.939693
+352464392 FPix_BpO_D2_BLD5_PNL2_PLQ2 r/phi/z = 10.3416/2.76143/49.7563 cmssw side/disk/blade/pannel/plaq 2/2/11/2/2 0.939693
+352464396 FPix_BpO_D2_BLD5_PNL2_PLQ3 r/phi/z = 13.2728/2.75867/49.7563 cmssw side/disk/blade/pannel/plaq 2/2/11/2/3 0.939693
+352465412 FPix_BpO_D2_BLD6_PNL2_PLQ1 r/phi/z = 7.41113/3.02819/50.3563 cmssw side/disk/blade/pannel/plaq 2/2/12/2/1 0.939693
+352465416 FPix_BpO_D2_BLD6_PNL2_PLQ2 r/phi/z = 10.3416/3.02323/50.3563 cmssw side/disk/blade/pannel/plaq 2/2/12/2/2 0.939693
+352465420 FPix_BpO_D2_BLD6_PNL2_PLQ3 r/phi/z = 13.2728/3.02046/50.3563 cmssw side/disk/blade/pannel/plaq 2/2/12/2/3 0.939693
+352466436 FPix_BpO_D2_BLD7_PNL2_PLQ1 r/phi/z = 7.41114/-2.99319/47.3563 cmssw side/disk/blade/pannel/plaq 2/2/13/2/1 0.939693
+352466440 FPix_BpO_D2_BLD7_PNL2_PLQ2 r/phi/z = 10.3416/-2.99815/47.3563 cmssw side/disk/blade/pannel/plaq 2/2/13/2/2 0.939693
+352466444 FPix_BpO_D2_BLD7_PNL2_PLQ3 r/phi/z = 13.2728/-3.00092/47.3563 cmssw side/disk/blade/pannel/plaq 2/2/13/2/3 0.939693
+352467460 FPix_BpO_D2_BLD8_PNL2_PLQ1 r/phi/z = 7.41114/-2.73139/47.9563 cmssw side/disk/blade/pannel/plaq 2/2/14/2/1 0.939693
+352467464 FPix_BpO_D2_BLD8_PNL2_PLQ2 r/phi/z = 10.3416/-2.73635/47.9563 cmssw side/disk/blade/pannel/plaq 2/2/14/2/2 0.939693
+352467468 FPix_BpO_D2_BLD8_PNL2_PLQ3 r/phi/z = 13.2728/-2.73912/47.9563 cmssw side/disk/blade/pannel/plaq 2/2/14/2/3 0.939693
+352468484 FPix_BpO_D2_BLD9_PNL2_PLQ1 r/phi/z = 7.41114/-2.46959/48.5563 cmssw side/disk/blade/pannel/plaq 2/2/15/2/1 0.939693
+352468488 FPix_BpO_D2_BLD9_PNL2_PLQ2 r/phi/z = 10.3416/-2.47455/48.5563 cmssw side/disk/blade/pannel/plaq 2/2/15/2/2 0.939693
+352468492 FPix_BpO_D2_BLD9_PNL2_PLQ3 r/phi/z = 13.2728/-2.47732/48.5563 cmssw side/disk/blade/pannel/plaq 2/2/15/2/3 0.939693
+352469508 FPix_BpO_D2_BLD10_PNL2_PLQ1 r/phi/z = 7.41114/-2.20779/49.1563 cmssw side/disk/blade/pannel/plaq 2/2/16/2/1 0.939693
+352469512 FPix_BpO_D2_BLD10_PNL2_PLQ2 r/phi/z = 10.3416/-2.21275/49.1563 cmssw side/disk/blade/pannel/plaq 2/2/16/2/2 0.939693
+352469516 FPix_BpO_D2_BLD10_PNL2_PLQ3 r/phi/z = 13.2728/-2.21552/49.1563 cmssw side/disk/blade/pannel/plaq 2/2/16/2/3 0.939693
+352470532 FPix_BpO_D2_BLD11_PNL2_PLQ1 r/phi/z = 7.41113/-1.94599/49.7563 cmssw side/disk/blade/pannel/plaq 2/2/17/2/1 0.939693
+352470536 FPix_BpO_D2_BLD11_PNL2_PLQ2 r/phi/z = 10.3416/-1.95095/49.7563 cmssw side/disk/blade/pannel/plaq 2/2/17/2/2 0.939693
+352470540 FPix_BpO_D2_BLD11_PNL2_PLQ3 r/phi/z = 13.2728/-1.95372/49.7563 cmssw side/disk/blade/pannel/plaq 2/2/17/2/3 0.939693
+352471556 FPix_BpO_D2_BLD12_PNL2_PLQ1 r/phi/z = 7.41113/-1.6842/50.3563 cmssw side/disk/blade/pannel/plaq 2/2/18/2/1 0.939693
+352471560 FPix_BpO_D2_BLD12_PNL2_PLQ2 r/phi/z = 10.3416/-1.68915/50.3563 cmssw side/disk/blade/pannel/plaq 2/2/18/2/2 0.939693
+352471564 FPix_BpO_D2_BLD12_PNL2_PLQ3 r/phi/z = 13.2728/-1.69192/50.3563 cmssw side/disk/blade/pannel/plaq 2/2/18/2/3 0.939693
+352472580 FPix_BpI_D2_BLD12_PNL2_PLQ1 r/phi/z = 7.41114/-1.4224/47.3563 cmssw side/disk/blade/pannel/plaq 2/2/19/2/1 0.939693
+352472584 FPix_BpI_D2_BLD12_PNL2_PLQ2 r/phi/z = 10.3416/-1.42736/47.3563 cmssw side/disk/blade/pannel/plaq 2/2/19/2/2 0.939693
+352472588 FPix_BpI_D2_BLD12_PNL2_PLQ3 r/phi/z = 13.2728/-1.43013/47.3563 cmssw side/disk/blade/pannel/plaq 2/2/19/2/3 0.939693
+352473604 FPix_BpI_D2_BLD11_PNL2_PLQ1 r/phi/z = 7.41114/-1.1606/47.9563 cmssw side/disk/blade/pannel/plaq 2/2/20/2/1 0.939693
+352473608 FPix_BpI_D2_BLD11_PNL2_PLQ2 r/phi/z = 10.3416/-1.16556/47.9563 cmssw side/disk/blade/pannel/plaq 2/2/20/2/2 0.939693
+352473612 FPix_BpI_D2_BLD11_PNL2_PLQ3 r/phi/z = 13.2728/-1.16833/47.9563 cmssw side/disk/blade/pannel/plaq 2/2/20/2/3 0.939693
+352474628 FPix_BpI_D2_BLD10_PNL2_PLQ1 r/phi/z = 7.41114/-0.898797/48.5563 cmssw side/disk/blade/pannel/plaq 2/2/21/2/1 0.939693
+352474632 FPix_BpI_D2_BLD10_PNL2_PLQ2 r/phi/z = 10.3416/-0.903756/48.5563 cmssw side/disk/blade/pannel/plaq 2/2/21/2/2 0.939693
+352474636 FPix_BpI_D2_BLD10_PNL2_PLQ3 r/phi/z = 13.2728/-0.906526/48.5563 cmssw side/disk/blade/pannel/plaq 2/2/21/2/3 0.939693
+352475652 FPix_BpI_D2_BLD9_PNL2_PLQ1 r/phi/z = 7.41114/-0.636998/49.1563 cmssw side/disk/blade/pannel/plaq 2/2/22/2/1 0.939693
+352475656 FPix_BpI_D2_BLD9_PNL2_PLQ2 r/phi/z = 10.3416/-0.641957/49.1563 cmssw side/disk/blade/pannel/plaq 2/2/22/2/2 0.939693
+352475660 FPix_BpI_D2_BLD9_PNL2_PLQ3 r/phi/z = 13.2728/-0.644727/49.1563 cmssw side/disk/blade/pannel/plaq 2/2/22/2/3 0.939693
+352476676 FPix_BpI_D2_BLD8_PNL2_PLQ1 r/phi/z = 7.41113/-0.375198/49.7563 cmssw side/disk/blade/pannel/plaq 2/2/23/2/1 0.939693
+352476680 FPix_BpI_D2_BLD8_PNL2_PLQ2 r/phi/z = 10.3416/-0.380158/49.7563 cmssw side/disk/blade/pannel/plaq 2/2/23/2/2 0.939693
+352476684 FPix_BpI_D2_BLD8_PNL2_PLQ3 r/phi/z = 13.2728/-0.382928/49.7563 cmssw side/disk/blade/pannel/plaq 2/2/23/2/3 0.939693
+352477700 FPix_BpI_D2_BLD7_PNL2_PLQ1 r/phi/z = 7.41113/-0.113399/50.3563 cmssw side/disk/blade/pannel/plaq 2/2/24/2/1 0.939693
+352477704 FPix_BpI_D2_BLD7_PNL2_PLQ2 r/phi/z = 10.3416/-0.118358/50.3563 cmssw side/disk/blade/pannel/plaq 2/2/24/2/2 0.939693
+352477708 FPix_BpI_D2_BLD7_PNL2_PLQ3 r/phi/z = 13.2728/-0.121128/50.3563 cmssw side/disk/blade/pannel/plaq 2/2/24/2/3 0.939693
+343999748 FPix_BmI_D1_BLD6_PNL1_PLQ1 r/phi/z = 6.23085/0.110083/-33.6437 cmssw side/disk/blade/pannel/plaq 1/1/1/1/1 0.939693
+343999752 FPix_BmI_D1_BLD6_PNL1_PLQ2 r/phi/z = 8.70347/0.115998/-33.6437 cmssw side/disk/blade/pannel/plaq 1/1/1/1/2 0.939693
+343999756 FPix_BmI_D1_BLD6_PNL1_PLQ3 r/phi/z = 11.5766/0.119696/-33.6437 cmssw side/disk/blade/pannel/plaq 1/1/1/1/3 0.939693
+343999760 FPix_BmI_D1_BLD6_PNL1_PLQ4 r/phi/z = 14.0506/0.121669/-33.6437 cmssw side/disk/blade/pannel/plaq 1/1/1/1/4 0.939693
+344000772 FPix_BmI_D1_BLD5_PNL1_PLQ1 r/phi/z = 6.23085/0.371883/-34.2437 cmssw side/disk/blade/pannel/plaq 1/1/2/1/1 0.939693
+344000776 FPix_BmI_D1_BLD5_PNL1_PLQ2 r/phi/z = 8.70347/0.377797/-34.2437 cmssw side/disk/blade/pannel/plaq 1/1/2/1/2 0.939693
+344000780 FPix_BmI_D1_BLD5_PNL1_PLQ3 r/phi/z = 11.5766/0.381496/-34.2437 cmssw side/disk/blade/pannel/plaq 1/1/2/1/3 0.939693
+344000784 FPix_BmI_D1_BLD5_PNL1_PLQ4 r/phi/z = 14.0506/0.383468/-34.2437 cmssw side/disk/blade/pannel/plaq 1/1/2/1/4 0.939693
+344001796 FPix_BmI_D1_BLD4_PNL1_PLQ1 r/phi/z = 6.23085/0.633682/-34.8437 cmssw side/disk/blade/pannel/plaq 1/1/3/1/1 0.939693
+344001800 FPix_BmI_D1_BLD4_PNL1_PLQ2 r/phi/z = 8.70347/0.639597/-34.8437 cmssw side/disk/blade/pannel/plaq 1/1/3/1/2 0.939693
+344001804 FPix_BmI_D1_BLD4_PNL1_PLQ3 r/phi/z = 11.5766/0.643295/-34.8437 cmssw side/disk/blade/pannel/plaq 1/1/3/1/3 0.939693
+344001808 FPix_BmI_D1_BLD4_PNL1_PLQ4 r/phi/z = 14.0506/0.645268/-34.8437 cmssw side/disk/blade/pannel/plaq 1/1/3/1/4 0.939693
+344002820 FPix_BmI_D1_BLD3_PNL1_PLQ1 r/phi/z = 6.23085/0.895482/-35.4437 cmssw side/disk/blade/pannel/plaq 1/1/4/1/1 0.939693
+344002824 FPix_BmI_D1_BLD3_PNL1_PLQ2 r/phi/z = 8.70347/0.901396/-35.4437 cmssw side/disk/blade/pannel/plaq 1/1/4/1/2 0.939693
+344002828 FPix_BmI_D1_BLD3_PNL1_PLQ3 r/phi/z = 11.5766/0.905095/-35.4437 cmssw side/disk/blade/pannel/plaq 1/1/4/1/3 0.939693
+344002832 FPix_BmI_D1_BLD3_PNL1_PLQ4 r/phi/z = 14.0506/0.907067/-35.4437 cmssw side/disk/blade/pannel/plaq 1/1/4/1/4 0.939693
+344003844 FPix_BmI_D1_BLD2_PNL1_PLQ1 r/phi/z = 6.23085/1.15728/-36.0437 cmssw side/disk/blade/pannel/plaq 1/1/5/1/1 0.939693
+344003848 FPix_BmI_D1_BLD2_PNL1_PLQ2 r/phi/z = 8.70347/1.1632/-36.0437 cmssw side/disk/blade/pannel/plaq 1/1/5/1/2 0.939693
+344003852 FPix_BmI_D1_BLD2_PNL1_PLQ3 r/phi/z = 11.5766/1.16689/-36.0437 cmssw side/disk/blade/pannel/plaq 1/1/5/1/3 0.939693
+344003856 FPix_BmI_D1_BLD2_PNL1_PLQ4 r/phi/z = 14.0506/1.16887/-36.0437 cmssw side/disk/blade/pannel/plaq 1/1/5/1/4 0.939693
+344004868 FPix_BmI_D1_BLD1_PNL1_PLQ1 r/phi/z = 6.23085/1.41908/-36.6437 cmssw side/disk/blade/pannel/plaq 1/1/6/1/1 0.939693
+344004872 FPix_BmI_D1_BLD1_PNL1_PLQ2 r/phi/z = 8.70347/1.42499/-36.6437 cmssw side/disk/blade/pannel/plaq 1/1/6/1/2 0.939693
+344004876 FPix_BmI_D1_BLD1_PNL1_PLQ3 r/phi/z = 11.5766/1.42869/-36.6437 cmssw side/disk/blade/pannel/plaq 1/1/6/1/3 0.939693
+344004880 FPix_BmI_D1_BLD1_PNL1_PLQ4 r/phi/z = 14.0506/1.43067/-36.6437 cmssw side/disk/blade/pannel/plaq 1/1/6/1/4 0.939693
+344005892 FPix_BmO_D1_BLD1_PNL1_PLQ1 r/phi/z = 6.23085/1.68088/-33.6437 cmssw side/disk/blade/pannel/plaq 1/1/7/1/1 0.939693
+344005896 FPix_BmO_D1_BLD1_PNL1_PLQ2 r/phi/z = 8.70347/1.68679/-33.6437 cmssw side/disk/blade/pannel/plaq 1/1/7/1/2 0.939693
+344005900 FPix_BmO_D1_BLD1_PNL1_PLQ3 r/phi/z = 11.5766/1.69049/-33.6437 cmssw side/disk/blade/pannel/plaq 1/1/7/1/3 0.939693
+344005904 FPix_BmO_D1_BLD1_PNL1_PLQ4 r/phi/z = 14.0506/1.69247/-33.6437 cmssw side/disk/blade/pannel/plaq 1/1/7/1/4 0.939693
+344006916 FPix_BmO_D1_BLD2_PNL1_PLQ1 r/phi/z = 6.23085/1.94268/-34.2437 cmssw side/disk/blade/pannel/plaq 1/1/8/1/1 0.939693
+344006920 FPix_BmO_D1_BLD2_PNL1_PLQ2 r/phi/z = 8.70347/1.94859/-34.2437 cmssw side/disk/blade/pannel/plaq 1/1/8/1/2 0.939693
+344006924 FPix_BmO_D1_BLD2_PNL1_PLQ3 r/phi/z = 11.5766/1.95229/-34.2437 cmssw side/disk/blade/pannel/plaq 1/1/8/1/3 0.939693
+344006928 FPix_BmO_D1_BLD2_PNL1_PLQ4 r/phi/z = 14.0506/1.95426/-34.2437 cmssw side/disk/blade/pannel/plaq 1/1/8/1/4 0.939693
+344007940 FPix_BmO_D1_BLD3_PNL1_PLQ1 r/phi/z = 6.23085/2.20448/-34.8437 cmssw side/disk/blade/pannel/plaq 1/1/9/1/1 0.939693
+344007944 FPix_BmO_D1_BLD3_PNL1_PLQ2 r/phi/z = 8.70347/2.21039/-34.8437 cmssw side/disk/blade/pannel/plaq 1/1/9/1/2 0.939693
+344007948 FPix_BmO_D1_BLD3_PNL1_PLQ3 r/phi/z = 11.5766/2.21409/-34.8437 cmssw side/disk/blade/pannel/plaq 1/1/9/1/3 0.939693
+344007952 FPix_BmO_D1_BLD3_PNL1_PLQ4 r/phi/z = 14.0506/2.21606/-34.8437 cmssw side/disk/blade/pannel/plaq 1/1/9/1/4 0.939693
+344008964 FPix_BmO_D1_BLD4_PNL1_PLQ1 r/phi/z = 6.23085/2.46628/-35.4437 cmssw side/disk/blade/pannel/plaq 1/1/10/1/1 0.939693
+344008968 FPix_BmO_D1_BLD4_PNL1_PLQ2 r/phi/z = 8.70347/2.47219/-35.4437 cmssw side/disk/blade/pannel/plaq 1/1/10/1/2 0.939693
+344008972 FPix_BmO_D1_BLD4_PNL1_PLQ3 r/phi/z = 11.5766/2.47589/-35.4437 cmssw side/disk/blade/pannel/plaq 1/1/10/1/3 0.939693
+344008976 FPix_BmO_D1_BLD4_PNL1_PLQ4 r/phi/z = 14.0506/2.47786/-35.4437 cmssw side/disk/blade/pannel/plaq 1/1/10/1/4 0.939693
+344009988 FPix_BmO_D1_BLD5_PNL1_PLQ1 r/phi/z = 6.23085/2.72808/-36.0437 cmssw side/disk/blade/pannel/plaq 1/1/11/1/1 0.939693
+344009992 FPix_BmO_D1_BLD5_PNL1_PLQ2 r/phi/z = 8.70347/2.73399/-36.0437 cmssw side/disk/blade/pannel/plaq 1/1/11/1/2 0.939693
+344009996 FPix_BmO_D1_BLD5_PNL1_PLQ3 r/phi/z = 11.5766/2.73769/-36.0437 cmssw side/disk/blade/pannel/plaq 1/1/11/1/3 0.939693
+344010000 FPix_BmO_D1_BLD5_PNL1_PLQ4 r/phi/z = 14.0506/2.73966/-36.0437 cmssw side/disk/blade/pannel/plaq 1/1/11/1/4 0.939693
+344011012 FPix_BmO_D1_BLD6_PNL1_PLQ1 r/phi/z = 6.23085/2.98988/-36.6437 cmssw side/disk/blade/pannel/plaq 1/1/12/1/1 0.939693
+344011016 FPix_BmO_D1_BLD6_PNL1_PLQ2 r/phi/z = 8.70347/2.99579/-36.6437 cmssw side/disk/blade/pannel/plaq 1/1/12/1/2 0.939693
+344011020 FPix_BmO_D1_BLD6_PNL1_PLQ3 r/phi/z = 11.5766/2.99949/-36.6437 cmssw side/disk/blade/pannel/plaq 1/1/12/1/3 0.939693
+344011024 FPix_BmO_D1_BLD6_PNL1_PLQ4 r/phi/z = 14.0506/3.00146/-36.6437 cmssw side/disk/blade/pannel/plaq 1/1/12/1/4 0.939693
+344012036 FPix_BmO_D1_BLD7_PNL1_PLQ1 r/phi/z = 6.23085/-3.03151/-33.6437 cmssw side/disk/blade/pannel/plaq 1/1/13/1/1 0.939693
+344012040 FPix_BmO_D1_BLD7_PNL1_PLQ2 r/phi/z = 8.70347/-3.02559/-33.6437 cmssw side/disk/blade/pannel/plaq 1/1/13/1/2 0.939693
+344012044 FPix_BmO_D1_BLD7_PNL1_PLQ3 r/phi/z = 11.5766/-3.0219/-33.6437 cmssw side/disk/blade/pannel/plaq 1/1/13/1/3 0.939693
+344012048 FPix_BmO_D1_BLD7_PNL1_PLQ4 r/phi/z = 14.0506/-3.01992/-33.6437 cmssw side/disk/blade/pannel/plaq 1/1/13/1/4 0.939693
+344013060 FPix_BmO_D1_BLD8_PNL1_PLQ1 r/phi/z = 6.23085/-2.76971/-34.2437 cmssw side/disk/blade/pannel/plaq 1/1/14/1/1 0.939693
+344013064 FPix_BmO_D1_BLD8_PNL1_PLQ2 r/phi/z = 8.70347/-2.7638/-34.2437 cmssw side/disk/blade/pannel/plaq 1/1/14/1/2 0.939693
+344013068 FPix_BmO_D1_BLD8_PNL1_PLQ3 r/phi/z = 11.5766/-2.7601/-34.2437 cmssw side/disk/blade/pannel/plaq 1/1/14/1/3 0.939693
+344013072 FPix_BmO_D1_BLD8_PNL1_PLQ4 r/phi/z = 14.0506/-2.75812/-34.2437 cmssw side/disk/blade/pannel/plaq 1/1/14/1/4 0.939693
+344014084 FPix_BmO_D1_BLD9_PNL1_PLQ1 r/phi/z = 6.23085/-2.50791/-34.8437 cmssw side/disk/blade/pannel/plaq 1/1/15/1/1 0.939693
+344014088 FPix_BmO_D1_BLD9_PNL1_PLQ2 r/phi/z = 8.70347/-2.502/-34.8437 cmssw side/disk/blade/pannel/plaq 1/1/15/1/2 0.939693
+344014092 FPix_BmO_D1_BLD9_PNL1_PLQ3 r/phi/z = 11.5766/-2.4983/-34.8437 cmssw side/disk/blade/pannel/plaq 1/1/15/1/3 0.939693
+344014096 FPix_BmO_D1_BLD9_PNL1_PLQ4 r/phi/z = 14.0506/-2.49632/-34.8437 cmssw side/disk/blade/pannel/plaq 1/1/15/1/4 0.939693
+344015108 FPix_BmO_D1_BLD10_PNL1_PLQ1 r/phi/z = 6.23085/-2.24611/-35.4437 cmssw side/disk/blade/pannel/plaq 1/1/16/1/1 0.939693
+344015112 FPix_BmO_D1_BLD10_PNL1_PLQ2 r/phi/z = 8.70347/-2.2402/-35.4437 cmssw side/disk/blade/pannel/plaq 1/1/16/1/2 0.939693
+344015116 FPix_BmO_D1_BLD10_PNL1_PLQ3 r/phi/z = 11.5766/-2.2365/-35.4437 cmssw side/disk/blade/pannel/plaq 1/1/16/1/3 0.939693
+344015120 FPix_BmO_D1_BLD10_PNL1_PLQ4 r/phi/z = 14.0506/-2.23453/-35.4437 cmssw side/disk/blade/pannel/plaq 1/1/16/1/4 0.939693
+344016132 FPix_BmO_D1_BLD11_PNL1_PLQ1 r/phi/z = 6.23085/-1.98431/-36.0437 cmssw side/disk/blade/pannel/plaq 1/1/17/1/1 0.939693
+344016136 FPix_BmO_D1_BLD11_PNL1_PLQ2 r/phi/z = 8.70347/-1.9784/-36.0437 cmssw side/disk/blade/pannel/plaq 1/1/17/1/2 0.939693
+344016140 FPix_BmO_D1_BLD11_PNL1_PLQ3 r/phi/z = 11.5766/-1.9747/-36.0437 cmssw side/disk/blade/pannel/plaq 1/1/17/1/3 0.939693
+344016144 FPix_BmO_D1_BLD11_PNL1_PLQ4 r/phi/z = 14.0506/-1.97273/-36.0437 cmssw side/disk/blade/pannel/plaq 1/1/17/1/4 0.939693
+344017156 FPix_BmO_D1_BLD12_PNL1_PLQ1 r/phi/z = 6.23085/-1.72251/-36.6437 cmssw side/disk/blade/pannel/plaq 1/1/18/1/1 0.939693
+344017160 FPix_BmO_D1_BLD12_PNL1_PLQ2 r/phi/z = 8.70347/-1.7166/-36.6437 cmssw side/disk/blade/pannel/plaq 1/1/18/1/2 0.939693
+344017164 FPix_BmO_D1_BLD12_PNL1_PLQ3 r/phi/z = 11.5766/-1.7129/-36.6437 cmssw side/disk/blade/pannel/plaq 1/1/18/1/3 0.939693
+344017168 FPix_BmO_D1_BLD12_PNL1_PLQ4 r/phi/z = 14.0506/-1.71093/-36.6437 cmssw side/disk/blade/pannel/plaq 1/1/18/1/4 0.939693
+344018180 FPix_BmI_D1_BLD12_PNL1_PLQ1 r/phi/z = 6.23085/-1.46071/-33.6437 cmssw side/disk/blade/pannel/plaq 1/1/19/1/1 0.939693
+344018184 FPix_BmI_D1_BLD12_PNL1_PLQ2 r/phi/z = 8.70347/-1.4548/-33.6437 cmssw side/disk/blade/pannel/plaq 1/1/19/1/2 0.939693
+344018188 FPix_BmI_D1_BLD12_PNL1_PLQ3 r/phi/z = 11.5766/-1.4511/-33.6437 cmssw side/disk/blade/pannel/plaq 1/1/19/1/3 0.939693
+344018192 FPix_BmI_D1_BLD12_PNL1_PLQ4 r/phi/z = 14.0506/-1.44913/-33.6437 cmssw side/disk/blade/pannel/plaq 1/1/19/1/4 0.939693
+344019204 FPix_BmI_D1_BLD11_PNL1_PLQ1 r/phi/z = 6.23085/-1.19891/-34.2437 cmssw side/disk/blade/pannel/plaq 1/1/20/1/1 0.939693
+344019208 FPix_BmI_D1_BLD11_PNL1_PLQ2 r/phi/z = 8.70347/-1.193/-34.2437 cmssw side/disk/blade/pannel/plaq 1/1/20/1/2 0.939693
+344019212 FPix_BmI_D1_BLD11_PNL1_PLQ3 r/phi/z = 11.5766/-1.1893/-34.2437 cmssw side/disk/blade/pannel/plaq 1/1/20/1/3 0.939693
+344019216 FPix_BmI_D1_BLD11_PNL1_PLQ4 r/phi/z = 14.0506/-1.18733/-34.2437 cmssw side/disk/blade/pannel/plaq 1/1/20/1/4 0.939693
+344020228 FPix_BmI_D1_BLD10_PNL1_PLQ1 r/phi/z = 6.23085/-0.937114/-34.8437 cmssw side/disk/blade/pannel/plaq 1/1/21/1/1 0.939693
+344020232 FPix_BmI_D1_BLD10_PNL1_PLQ2 r/phi/z = 8.70347/-0.9312/-34.8437 cmssw side/disk/blade/pannel/plaq 1/1/21/1/2 0.939693
+344020236 FPix_BmI_D1_BLD10_PNL1_PLQ3 r/phi/z = 11.5766/-0.927501/-34.8437 cmssw side/disk/blade/pannel/plaq 1/1/21/1/3 0.939693
+344020240 FPix_BmI_D1_BLD10_PNL1_PLQ4 r/phi/z = 14.0506/-0.925528/-34.8437 cmssw side/disk/blade/pannel/plaq 1/1/21/1/4 0.939693
+344021252 FPix_BmI_D1_BLD9_PNL1_PLQ1 r/phi/z = 6.23085/-0.675315/-35.4437 cmssw side/disk/blade/pannel/plaq 1/1/22/1/1 0.939693
+344021256 FPix_BmI_D1_BLD9_PNL1_PLQ2 r/phi/z = 8.70347/-0.6694/-35.4437 cmssw side/disk/blade/pannel/plaq 1/1/22/1/2 0.939693
+344021260 FPix_BmI_D1_BLD9_PNL1_PLQ3 r/phi/z = 11.5766/-0.665702/-35.4437 cmssw side/disk/blade/pannel/plaq 1/1/22/1/3 0.939693
+344021264 FPix_BmI_D1_BLD9_PNL1_PLQ4 r/phi/z = 14.0506/-0.663729/-35.4437 cmssw side/disk/blade/pannel/plaq 1/1/22/1/4 0.939693
+344022276 FPix_BmI_D1_BLD8_PNL1_PLQ1 r/phi/z = 6.23085/-0.413515/-36.0437 cmssw side/disk/blade/pannel/plaq 1/1/23/1/1 0.939693
+344022280 FPix_BmI_D1_BLD8_PNL1_PLQ2 r/phi/z = 8.70347/-0.407601/-36.0437 cmssw side/disk/blade/pannel/plaq 1/1/23/1/2 0.939693
+344022284 FPix_BmI_D1_BLD8_PNL1_PLQ3 r/phi/z = 11.5766/-0.403902/-36.0437 cmssw side/disk/blade/pannel/plaq 1/1/23/1/3 0.939693
+344022288 FPix_BmI_D1_BLD8_PNL1_PLQ4 r/phi/z = 14.0506/-0.40193/-36.0437 cmssw side/disk/blade/pannel/plaq 1/1/23/1/4 0.939693
+344023300 FPix_BmI_D1_BLD7_PNL1_PLQ1 r/phi/z = 6.23085/-0.151716/-36.6437 cmssw side/disk/blade/pannel/plaq 1/1/24/1/1 0.939693
+344023304 FPix_BmI_D1_BLD7_PNL1_PLQ2 r/phi/z = 8.70347/-0.145802/-36.6437 cmssw side/disk/blade/pannel/plaq 1/1/24/1/2 0.939693
+344023308 FPix_BmI_D1_BLD7_PNL1_PLQ3 r/phi/z = 11.5766/-0.142103/-36.6437 cmssw side/disk/blade/pannel/plaq 1/1/24/1/3 0.939693
+344023312 FPix_BmI_D1_BLD7_PNL1_PLQ4 r/phi/z = 14.0506/-0.14013/-36.6437 cmssw side/disk/blade/pannel/plaq 1/1/24/1/4 0.939693
+344000004 FPix_BmI_D1_BLD6_PNL2_PLQ1 r/phi/z = 7.41114/0.1484/-34.3563 cmssw side/disk/blade/pannel/plaq 1/1/1/2/1 -0.939693
+344000008 FPix_BmI_D1_BLD6_PNL2_PLQ2 r/phi/z = 10.3416/0.143441/-34.3563 cmssw side/disk/blade/pannel/plaq 1/1/1/2/2 -0.939693
+344000012 FPix_BmI_D1_BLD6_PNL2_PLQ3 r/phi/z = 13.2728/0.140671/-34.3563 cmssw side/disk/blade/pannel/plaq 1/1/1/2/3 -0.939693
+344001028 FPix_BmI_D1_BLD5_PNL2_PLQ1 r/phi/z = 7.41114/0.4102/-34.9563 cmssw side/disk/blade/pannel/plaq 1/1/2/2/1 -0.939693
+344001032 FPix_BmI_D1_BLD5_PNL2_PLQ2 r/phi/z = 10.3416/0.40524/-34.9563 cmssw side/disk/blade/pannel/plaq 1/1/2/2/2 -0.939693
+344001036 FPix_BmI_D1_BLD5_PNL2_PLQ3 r/phi/z = 13.2728/0.402471/-34.9563 cmssw side/disk/blade/pannel/plaq 1/1/2/2/3 -0.939693
+344002052 FPix_BmI_D1_BLD4_PNL2_PLQ1 r/phi/z = 7.41114/0.671999/-35.5563 cmssw side/disk/blade/pannel/plaq 1/1/3/2/1 -0.939693
+344002056 FPix_BmI_D1_BLD4_PNL2_PLQ2 r/phi/z = 10.3416/0.66704/-35.5563 cmssw side/disk/blade/pannel/plaq 1/1/3/2/2 -0.939693
+344002060 FPix_BmI_D1_BLD4_PNL2_PLQ3 r/phi/z = 13.2728/0.66427/-35.5563 cmssw side/disk/blade/pannel/plaq 1/1/3/2/3 -0.939693
+344003076 FPix_BmI_D1_BLD3_PNL2_PLQ1 r/phi/z = 7.41114/0.933799/-36.1563 cmssw side/disk/blade/pannel/plaq 1/1/4/2/1 -0.939693
+344003080 FPix_BmI_D1_BLD3_PNL2_PLQ2 r/phi/z = 10.3416/0.928839/-36.1563 cmssw side/disk/blade/pannel/plaq 1/1/4/2/2 -0.939693
+344003084 FPix_BmI_D1_BLD3_PNL2_PLQ3 r/phi/z = 13.2728/0.926069/-36.1563 cmssw side/disk/blade/pannel/plaq 1/1/4/2/3 -0.939693
+344004100 FPix_BmI_D1_BLD2_PNL2_PLQ1 r/phi/z = 7.41113/1.1956/-36.7563 cmssw side/disk/blade/pannel/plaq 1/1/5/2/1 -0.939693
+344004104 FPix_BmI_D1_BLD2_PNL2_PLQ2 r/phi/z = 10.3416/1.19064/-36.7563 cmssw side/disk/blade/pannel/plaq 1/1/5/2/2 -0.939693
+344004108 FPix_BmI_D1_BLD2_PNL2_PLQ3 r/phi/z = 13.2728/1.18787/-36.7563 cmssw side/disk/blade/pannel/plaq 1/1/5/2/3 -0.939693
+344005124 FPix_BmI_D1_BLD1_PNL2_PLQ1 r/phi/z = 7.41113/1.4574/-37.3563 cmssw side/disk/blade/pannel/plaq 1/1/6/2/1 -0.939693
+344005128 FPix_BmI_D1_BLD1_PNL2_PLQ2 r/phi/z = 10.3416/1.45244/-37.3563 cmssw side/disk/blade/pannel/plaq 1/1/6/2/2 -0.939693
+344005132 FPix_BmI_D1_BLD1_PNL2_PLQ3 r/phi/z = 13.2728/1.44967/-37.3563 cmssw side/disk/blade/pannel/plaq 1/1/6/2/3 -0.939693
+344006148 FPix_BmO_D1_BLD1_PNL2_PLQ1 r/phi/z = 7.41114/1.7192/-34.3563 cmssw side/disk/blade/pannel/plaq 1/1/7/2/1 -0.939693
+344006152 FPix_BmO_D1_BLD1_PNL2_PLQ2 r/phi/z = 10.3416/1.71424/-34.3563 cmssw side/disk/blade/pannel/plaq 1/1/7/2/2 -0.939693
+344006156 FPix_BmO_D1_BLD1_PNL2_PLQ3 r/phi/z = 13.2728/1.71147/-34.3563 cmssw side/disk/blade/pannel/plaq 1/1/7/2/3 -0.939693
+344007172 FPix_BmO_D1_BLD2_PNL2_PLQ1 r/phi/z = 7.41114/1.981/-34.9563 cmssw side/disk/blade/pannel/plaq 1/1/8/2/1 -0.939693
+344007176 FPix_BmO_D1_BLD2_PNL2_PLQ2 r/phi/z = 10.3416/1.97604/-34.9563 cmssw side/disk/blade/pannel/plaq 1/1/8/2/2 -0.939693
+344007180 FPix_BmO_D1_BLD2_PNL2_PLQ3 r/phi/z = 13.2728/1.97327/-34.9563 cmssw side/disk/blade/pannel/plaq 1/1/8/2/3 -0.939693
+344008196 FPix_BmO_D1_BLD3_PNL2_PLQ1 r/phi/z = 7.41114/2.2428/-35.5563 cmssw side/disk/blade/pannel/plaq 1/1/9/2/1 -0.939693
+344008200 FPix_BmO_D1_BLD3_PNL2_PLQ2 r/phi/z = 10.3416/2.23784/-35.5563 cmssw side/disk/blade/pannel/plaq 1/1/9/2/2 -0.939693
+344008204 FPix_BmO_D1_BLD3_PNL2_PLQ3 r/phi/z = 13.2728/2.23507/-35.5563 cmssw side/disk/blade/pannel/plaq 1/1/9/2/3 -0.939693
+344009220 FPix_BmO_D1_BLD4_PNL2_PLQ1 r/phi/z = 7.41114/2.5046/-36.1563 cmssw side/disk/blade/pannel/plaq 1/1/10/2/1 -0.939693
+344009224 FPix_BmO_D1_BLD4_PNL2_PLQ2 r/phi/z = 10.3416/2.49964/-36.1563 cmssw side/disk/blade/pannel/plaq 1/1/10/2/2 -0.939693
+344009228 FPix_BmO_D1_BLD4_PNL2_PLQ3 r/phi/z = 13.2728/2.49687/-36.1563 cmssw side/disk/blade/pannel/plaq 1/1/10/2/3 -0.939693
+344010244 FPix_BmO_D1_BLD5_PNL2_PLQ1 r/phi/z = 7.41113/2.76639/-36.7563 cmssw side/disk/blade/pannel/plaq 1/1/11/2/1 -0.939693
+344010248 FPix_BmO_D1_BLD5_PNL2_PLQ2 r/phi/z = 10.3416/2.76143/-36.7563 cmssw side/disk/blade/pannel/plaq 1/1/11/2/2 -0.939693
+344010252 FPix_BmO_D1_BLD5_PNL2_PLQ3 r/phi/z = 13.2728/2.75867/-36.7563 cmssw side/disk/blade/pannel/plaq 1/1/11/2/3 -0.939693
+344011268 FPix_BmO_D1_BLD6_PNL2_PLQ1 r/phi/z = 7.41113/3.02819/-37.3563 cmssw side/disk/blade/pannel/plaq 1/1/12/2/1 -0.939693
+344011272 FPix_BmO_D1_BLD6_PNL2_PLQ2 r/phi/z = 10.3416/3.02323/-37.3563 cmssw side/disk/blade/pannel/plaq 1/1/12/2/2 -0.939693
+344011276 FPix_BmO_D1_BLD6_PNL2_PLQ3 r/phi/z = 13.2728/3.02046/-37.3563 cmssw side/disk/blade/pannel/plaq 1/1/12/2/3 -0.939693
+344012292 FPix_BmO_D1_BLD7_PNL2_PLQ1 r/phi/z = 7.41114/-2.99319/-34.3563 cmssw side/disk/blade/pannel/plaq 1/1/13/2/1 -0.939693
+344012296 FPix_BmO_D1_BLD7_PNL2_PLQ2 r/phi/z = 10.3416/-2.99815/-34.3563 cmssw side/disk/blade/pannel/plaq 1/1/13/2/2 -0.939693
+344012300 FPix_BmO_D1_BLD7_PNL2_PLQ3 r/phi/z = 13.2728/-3.00092/-34.3563 cmssw side/disk/blade/pannel/plaq 1/1/13/2/3 -0.939693
+344013316 FPix_BmO_D1_BLD8_PNL2_PLQ1 r/phi/z = 7.41114/-2.73139/-34.9563 cmssw side/disk/blade/pannel/plaq 1/1/14/2/1 -0.939693
+344013320 FPix_BmO_D1_BLD8_PNL2_PLQ2 r/phi/z = 10.3416/-2.73635/-34.9563 cmssw side/disk/blade/pannel/plaq 1/1/14/2/2 -0.939693
+344013324 FPix_BmO_D1_BLD8_PNL2_PLQ3 r/phi/z = 13.2728/-2.73912/-34.9563 cmssw side/disk/blade/pannel/plaq 1/1/14/2/3 -0.939693
+344014340 FPix_BmO_D1_BLD9_PNL2_PLQ1 r/phi/z = 7.41114/-2.46959/-35.5563 cmssw side/disk/blade/pannel/plaq 1/1/15/2/1 -0.939693
+344014344 FPix_BmO_D1_BLD9_PNL2_PLQ2 r/phi/z = 10.3416/-2.47455/-35.5563 cmssw side/disk/blade/pannel/plaq 1/1/15/2/2 -0.939693
+344014348 FPix_BmO_D1_BLD9_PNL2_PLQ3 r/phi/z = 13.2728/-2.47732/-35.5563 cmssw side/disk/blade/pannel/plaq 1/1/15/2/3 -0.939693
+344015364 FPix_BmO_D1_BLD10_PNL2_PLQ1 r/phi/z = 7.41114/-2.20779/-36.1563 cmssw side/disk/blade/pannel/plaq 1/1/16/2/1 -0.939693
+344015368 FPix_BmO_D1_BLD10_PNL2_PLQ2 r/phi/z = 10.3416/-2.21275/-36.1563 cmssw side/disk/blade/pannel/plaq 1/1/16/2/2 -0.939693
+344015372 FPix_BmO_D1_BLD10_PNL2_PLQ3 r/phi/z = 13.2728/-2.21552/-36.1563 cmssw side/disk/blade/pannel/plaq 1/1/16/2/3 -0.939693
+344016388 FPix_BmO_D1_BLD11_PNL2_PLQ1 r/phi/z = 7.41113/-1.94599/-36.7563 cmssw side/disk/blade/pannel/plaq 1/1/17/2/1 -0.939693
+344016392 FPix_BmO_D1_BLD11_PNL2_PLQ2 r/phi/z = 10.3416/-1.95095/-36.7563 cmssw side/disk/blade/pannel/plaq 1/1/17/2/2 -0.939693
+344016396 FPix_BmO_D1_BLD11_PNL2_PLQ3 r/phi/z = 13.2728/-1.95372/-36.7563 cmssw side/disk/blade/pannel/plaq 1/1/17/2/3 -0.939693
+344017412 FPix_BmO_D1_BLD12_PNL2_PLQ1 r/phi/z = 7.41113/-1.6842/-37.3563 cmssw side/disk/blade/pannel/plaq 1/1/18/2/1 -0.939693
+344017416 FPix_BmO_D1_BLD12_PNL2_PLQ2 r/phi/z = 10.3416/-1.68915/-37.3563 cmssw side/disk/blade/pannel/plaq 1/1/18/2/2 -0.939693
+344017420 FPix_BmO_D1_BLD12_PNL2_PLQ3 r/phi/z = 13.2728/-1.69192/-37.3563 cmssw side/disk/blade/pannel/plaq 1/1/18/2/3 -0.939693
+344018436 FPix_BmI_D1_BLD12_PNL2_PLQ1 r/phi/z = 7.41114/-1.4224/-34.3563 cmssw side/disk/blade/pannel/plaq 1/1/19/2/1 -0.939693
+344018440 FPix_BmI_D1_BLD12_PNL2_PLQ2 r/phi/z = 10.3416/-1.42736/-34.3563 cmssw side/disk/blade/pannel/plaq 1/1/19/2/2 -0.939693
+344018444 FPix_BmI_D1_BLD12_PNL2_PLQ3 r/phi/z = 13.2728/-1.43013/-34.3563 cmssw side/disk/blade/pannel/plaq 1/1/19/2/3 -0.939693
+344019460 FPix_BmI_D1_BLD11_PNL2_PLQ1 r/phi/z = 7.41114/-1.1606/-34.9563 cmssw side/disk/blade/pannel/plaq 1/1/20/2/1 -0.939693
+344019464 FPix_BmI_D1_BLD11_PNL2_PLQ2 r/phi/z = 10.3416/-1.16556/-34.9563 cmssw side/disk/blade/pannel/plaq 1/1/20/2/2 -0.939693
+344019468 FPix_BmI_D1_BLD11_PNL2_PLQ3 r/phi/z = 13.2728/-1.16833/-34.9563 cmssw side/disk/blade/pannel/plaq 1/1/20/2/3 -0.939693
+344020484 FPix_BmI_D1_BLD10_PNL2_PLQ1 r/phi/z = 7.41114/-0.898797/-35.5563 cmssw side/disk/blade/pannel/plaq 1/1/21/2/1 -0.939693
+344020488 FPix_BmI_D1_BLD10_PNL2_PLQ2 r/phi/z = 10.3416/-0.903756/-35.5563 cmssw side/disk/blade/pannel/plaq 1/1/21/2/2 -0.939693
+344020492 FPix_BmI_D1_BLD10_PNL2_PLQ3 r/phi/z = 13.2728/-0.906526/-35.5563 cmssw side/disk/blade/pannel/plaq 1/1/21/2/3 -0.939693
+344021508 FPix_BmI_D1_BLD9_PNL2_PLQ1 r/phi/z = 7.41114/-0.636998/-36.1563 cmssw side/disk/blade/pannel/plaq 1/1/22/2/1 -0.939693
+344021512 FPix_BmI_D1_BLD9_PNL2_PLQ2 r/phi/z = 10.3416/-0.641957/-36.1563 cmssw side/disk/blade/pannel/plaq 1/1/22/2/2 -0.939693
+344021516 FPix_BmI_D1_BLD9_PNL2_PLQ3 r/phi/z = 13.2728/-0.644727/-36.1563 cmssw side/disk/blade/pannel/plaq 1/1/22/2/3 -0.939693
+344022532 FPix_BmI_D1_BLD8_PNL2_PLQ1 r/phi/z = 7.41113/-0.375198/-36.7563 cmssw side/disk/blade/pannel/plaq 1/1/23/2/1 -0.939693
+344022536 FPix_BmI_D1_BLD8_PNL2_PLQ2 r/phi/z = 10.3416/-0.380158/-36.7563 cmssw side/disk/blade/pannel/plaq 1/1/23/2/2 -0.939693
+344022540 FPix_BmI_D1_BLD8_PNL2_PLQ3 r/phi/z = 13.2728/-0.382928/-36.7563 cmssw side/disk/blade/pannel/plaq 1/1/23/2/3 -0.939693
+344023556 FPix_BmI_D1_BLD7_PNL2_PLQ1 r/phi/z = 7.41113/-0.113399/-37.3563 cmssw side/disk/blade/pannel/plaq 1/1/24/2/1 -0.939693
+344023560 FPix_BmI_D1_BLD7_PNL2_PLQ2 r/phi/z = 10.3416/-0.118358/-37.3563 cmssw side/disk/blade/pannel/plaq 1/1/24/2/2 -0.939693
+344023564 FPix_BmI_D1_BLD7_PNL2_PLQ3 r/phi/z = 13.2728/-0.121128/-37.3563 cmssw side/disk/blade/pannel/plaq 1/1/24/2/3 -0.939693
+344065284 FPix_BmI_D2_BLD6_PNL1_PLQ1 r/phi/z = 6.23085/0.110083/-46.6437 cmssw side/disk/blade/pannel/plaq 1/2/1/1/1 0.939693
+344065288 FPix_BmI_D2_BLD6_PNL1_PLQ2 r/phi/z = 8.70347/0.115998/-46.6437 cmssw side/disk/blade/pannel/plaq 1/2/1/1/2 0.939693
+344065292 FPix_BmI_D2_BLD6_PNL1_PLQ3 r/phi/z = 11.5766/0.119696/-46.6437 cmssw side/disk/blade/pannel/plaq 1/2/1/1/3 0.939693
+344065296 FPix_BmI_D2_BLD6_PNL1_PLQ4 r/phi/z = 14.0506/0.121669/-46.6437 cmssw side/disk/blade/pannel/plaq 1/2/1/1/4 0.939693
+344066308 FPix_BmI_D2_BLD5_PNL1_PLQ1 r/phi/z = 6.23085/0.371883/-47.2437 cmssw side/disk/blade/pannel/plaq 1/2/2/1/1 0.939693
+344066312 FPix_BmI_D2_BLD5_PNL1_PLQ2 r/phi/z = 8.70347/0.377797/-47.2437 cmssw side/disk/blade/pannel/plaq 1/2/2/1/2 0.939693
+344066316 FPix_BmI_D2_BLD5_PNL1_PLQ3 r/phi/z = 11.5766/0.381496/-47.2437 cmssw side/disk/blade/pannel/plaq 1/2/2/1/3 0.939693
+344066320 FPix_BmI_D2_BLD5_PNL1_PLQ4 r/phi/z = 14.0506/0.383468/-47.2437 cmssw side/disk/blade/pannel/plaq 1/2/2/1/4 0.939693
+344067332 FPix_BmI_D2_BLD4_PNL1_PLQ1 r/phi/z = 6.23085/0.633682/-47.8437 cmssw side/disk/blade/pannel/plaq 1/2/3/1/1 0.939693
+344067336 FPix_BmI_D2_BLD4_PNL1_PLQ2 r/phi/z = 8.70347/0.639597/-47.8437 cmssw side/disk/blade/pannel/plaq 1/2/3/1/2 0.939693
+344067340 FPix_BmI_D2_BLD4_PNL1_PLQ3 r/phi/z = 11.5766/0.643295/-47.8437 cmssw side/disk/blade/pannel/plaq 1/2/3/1/3 0.939693
+344067344 FPix_BmI_D2_BLD4_PNL1_PLQ4 r/phi/z = 14.0506/0.645268/-47.8437 cmssw side/disk/blade/pannel/plaq 1/2/3/1/4 0.939693
+344068356 FPix_BmI_D2_BLD3_PNL1_PLQ1 r/phi/z = 6.23085/0.895482/-48.4437 cmssw side/disk/blade/pannel/plaq 1/2/4/1/1 0.939693
+344068360 FPix_BmI_D2_BLD3_PNL1_PLQ2 r/phi/z = 8.70347/0.901396/-48.4437 cmssw side/disk/blade/pannel/plaq 1/2/4/1/2 0.939693
+344068364 FPix_BmI_D2_BLD3_PNL1_PLQ3 r/phi/z = 11.5766/0.905095/-48.4437 cmssw side/disk/blade/pannel/plaq 1/2/4/1/3 0.939693
+344068368 FPix_BmI_D2_BLD3_PNL1_PLQ4 r/phi/z = 14.0506/0.907067/-48.4437 cmssw side/disk/blade/pannel/plaq 1/2/4/1/4 0.939693
+344069380 FPix_BmI_D2_BLD2_PNL1_PLQ1 r/phi/z = 6.23085/1.15728/-49.0437 cmssw side/disk/blade/pannel/plaq 1/2/5/1/1 0.939693
+344069384 FPix_BmI_D2_BLD2_PNL1_PLQ2 r/phi/z = 8.70347/1.1632/-49.0437 cmssw side/disk/blade/pannel/plaq 1/2/5/1/2 0.939693
+344069388 FPix_BmI_D2_BLD2_PNL1_PLQ3 r/phi/z = 11.5766/1.16689/-49.0437 cmssw side/disk/blade/pannel/plaq 1/2/5/1/3 0.939693
+344069392 FPix_BmI_D2_BLD2_PNL1_PLQ4 r/phi/z = 14.0506/1.16887/-49.0437 cmssw side/disk/blade/pannel/plaq 1/2/5/1/4 0.939693
+344070404 FPix_BmI_D2_BLD1_PNL1_PLQ1 r/phi/z = 6.23085/1.41908/-49.6437 cmssw side/disk/blade/pannel/plaq 1/2/6/1/1 0.939693
+344070408 FPix_BmI_D2_BLD1_PNL1_PLQ2 r/phi/z = 8.70347/1.42499/-49.6437 cmssw side/disk/blade/pannel/plaq 1/2/6/1/2 0.939693
+344070412 FPix_BmI_D2_BLD1_PNL1_PLQ3 r/phi/z = 11.5766/1.42869/-49.6437 cmssw side/disk/blade/pannel/plaq 1/2/6/1/3 0.939693
+344070416 FPix_BmI_D2_BLD1_PNL1_PLQ4 r/phi/z = 14.0506/1.43067/-49.6437 cmssw side/disk/blade/pannel/plaq 1/2/6/1/4 0.939693
+344071428 FPix_BmO_D2_BLD1_PNL1_PLQ1 r/phi/z = 6.23085/1.68088/-46.6437 cmssw side/disk/blade/pannel/plaq 1/2/7/1/1 0.939693
+344071432 FPix_BmO_D2_BLD1_PNL1_PLQ2 r/phi/z = 8.70347/1.68679/-46.6437 cmssw side/disk/blade/pannel/plaq 1/2/7/1/2 0.939693
+344071436 FPix_BmO_D2_BLD1_PNL1_PLQ3 r/phi/z = 11.5766/1.69049/-46.6437 cmssw side/disk/blade/pannel/plaq 1/2/7/1/3 0.939693
+344071440 FPix_BmO_D2_BLD1_PNL1_PLQ4 r/phi/z = 14.0506/1.69247/-46.6437 cmssw side/disk/blade/pannel/plaq 1/2/7/1/4 0.939693
+344072452 FPix_BmO_D2_BLD2_PNL1_PLQ1 r/phi/z = 6.23085/1.94268/-47.2437 cmssw side/disk/blade/pannel/plaq 1/2/8/1/1 0.939693
+344072456 FPix_BmO_D2_BLD2_PNL1_PLQ2 r/phi/z = 8.70347/1.94859/-47.2437 cmssw side/disk/blade/pannel/plaq 1/2/8/1/2 0.939693
+344072460 FPix_BmO_D2_BLD2_PNL1_PLQ3 r/phi/z = 11.5766/1.95229/-47.2437 cmssw side/disk/blade/pannel/plaq 1/2/8/1/3 0.939693
+344072464 FPix_BmO_D2_BLD2_PNL1_PLQ4 r/phi/z = 14.0506/1.95426/-47.2437 cmssw side/disk/blade/pannel/plaq 1/2/8/1/4 0.939693
+344073476 FPix_BmO_D2_BLD3_PNL1_PLQ1 r/phi/z = 6.23085/2.20448/-47.8437 cmssw side/disk/blade/pannel/plaq 1/2/9/1/1 0.939693
+344073480 FPix_BmO_D2_BLD3_PNL1_PLQ2 r/phi/z = 8.70347/2.21039/-47.8437 cmssw side/disk/blade/pannel/plaq 1/2/9/1/2 0.939693
+344073484 FPix_BmO_D2_BLD3_PNL1_PLQ3 r/phi/z = 11.5766/2.21409/-47.8437 cmssw side/disk/blade/pannel/plaq 1/2/9/1/3 0.939693
+344073488 FPix_BmO_D2_BLD3_PNL1_PLQ4 r/phi/z = 14.0506/2.21606/-47.8437 cmssw side/disk/blade/pannel/plaq 1/2/9/1/4 0.939693
+344074500 FPix_BmO_D2_BLD4_PNL1_PLQ1 r/phi/z = 6.23085/2.46628/-48.4437 cmssw side/disk/blade/pannel/plaq 1/2/10/1/1 0.939693
+344074504 FPix_BmO_D2_BLD4_PNL1_PLQ2 r/phi/z = 8.70347/2.47219/-48.4437 cmssw side/disk/blade/pannel/plaq 1/2/10/1/2 0.939693
+344074508 FPix_BmO_D2_BLD4_PNL1_PLQ3 r/phi/z = 11.5766/2.47589/-48.4437 cmssw side/disk/blade/pannel/plaq 1/2/10/1/3 0.939693
+344074512 FPix_BmO_D2_BLD4_PNL1_PLQ4 r/phi/z = 14.0506/2.47786/-48.4437 cmssw side/disk/blade/pannel/plaq 1/2/10/1/4 0.939693
+344075524 FPix_BmO_D2_BLD5_PNL1_PLQ1 r/phi/z = 6.23085/2.72808/-49.0437 cmssw side/disk/blade/pannel/plaq 1/2/11/1/1 0.939693
+344075528 FPix_BmO_D2_BLD5_PNL1_PLQ2 r/phi/z = 8.70347/2.73399/-49.0437 cmssw side/disk/blade/pannel/plaq 1/2/11/1/2 0.939693
+344075532 FPix_BmO_D2_BLD5_PNL1_PLQ3 r/phi/z = 11.5766/2.73769/-49.0437 cmssw side/disk/blade/pannel/plaq 1/2/11/1/3 0.939693
+344075536 FPix_BmO_D2_BLD5_PNL1_PLQ4 r/phi/z = 14.0506/2.73966/-49.0437 cmssw side/disk/blade/pannel/plaq 1/2/11/1/4 0.939693
+344076548 FPix_BmO_D2_BLD6_PNL1_PLQ1 r/phi/z = 6.23085/2.98988/-49.6437 cmssw side/disk/blade/pannel/plaq 1/2/12/1/1 0.939693
+344076552 FPix_BmO_D2_BLD6_PNL1_PLQ2 r/phi/z = 8.70347/2.99579/-49.6437 cmssw side/disk/blade/pannel/plaq 1/2/12/1/2 0.939693
+344076556 FPix_BmO_D2_BLD6_PNL1_PLQ3 r/phi/z = 11.5766/2.99949/-49.6437 cmssw side/disk/blade/pannel/plaq 1/2/12/1/3 0.939693
+344076560 FPix_BmO_D2_BLD6_PNL1_PLQ4 r/phi/z = 14.0506/3.00146/-49.6437 cmssw side/disk/blade/pannel/plaq 1/2/12/1/4 0.939693
+344077572 FPix_BmO_D2_BLD7_PNL1_PLQ1 r/phi/z = 6.23085/-3.03151/-46.6437 cmssw side/disk/blade/pannel/plaq 1/2/13/1/1 0.939693
+344077576 FPix_BmO_D2_BLD7_PNL1_PLQ2 r/phi/z = 8.70347/-3.02559/-46.6437 cmssw side/disk/blade/pannel/plaq 1/2/13/1/2 0.939693
+344077580 FPix_BmO_D2_BLD7_PNL1_PLQ3 r/phi/z = 11.5766/-3.0219/-46.6437 cmssw side/disk/blade/pannel/plaq 1/2/13/1/3 0.939693
+344077584 FPix_BmO_D2_BLD7_PNL1_PLQ4 r/phi/z = 14.0506/-3.01992/-46.6437 cmssw side/disk/blade/pannel/plaq 1/2/13/1/4 0.939693
+344078596 FPix_BmO_D2_BLD8_PNL1_PLQ1 r/phi/z = 6.23085/-2.76971/-47.2437 cmssw side/disk/blade/pannel/plaq 1/2/14/1/1 0.939693
+344078600 FPix_BmO_D2_BLD8_PNL1_PLQ2 r/phi/z = 8.70347/-2.7638/-47.2437 cmssw side/disk/blade/pannel/plaq 1/2/14/1/2 0.939693
+344078604 FPix_BmO_D2_BLD8_PNL1_PLQ3 r/phi/z = 11.5766/-2.7601/-47.2437 cmssw side/disk/blade/pannel/plaq 1/2/14/1/3 0.939693
+344078608 FPix_BmO_D2_BLD8_PNL1_PLQ4 r/phi/z = 14.0506/-2.75812/-47.2437 cmssw side/disk/blade/pannel/plaq 1/2/14/1/4 0.939693
+344079620 FPix_BmO_D2_BLD9_PNL1_PLQ1 r/phi/z = 6.23085/-2.50791/-47.8437 cmssw side/disk/blade/pannel/plaq 1/2/15/1/1 0.939693
+344079624 FPix_BmO_D2_BLD9_PNL1_PLQ2 r/phi/z = 8.70347/-2.502/-47.8437 cmssw side/disk/blade/pannel/plaq 1/2/15/1/2 0.939693
+344079628 FPix_BmO_D2_BLD9_PNL1_PLQ3 r/phi/z = 11.5766/-2.4983/-47.8437 cmssw side/disk/blade/pannel/plaq 1/2/15/1/3 0.939693
+344079632 FPix_BmO_D2_BLD9_PNL1_PLQ4 r/phi/z = 14.0506/-2.49632/-47.8437 cmssw side/disk/blade/pannel/plaq 1/2/15/1/4 0.939693
+344080644 FPix_BmO_D2_BLD10_PNL1_PLQ1 r/phi/z = 6.23085/-2.24611/-48.4437 cmssw side/disk/blade/pannel/plaq 1/2/16/1/1 0.939693
+344080648 FPix_BmO_D2_BLD10_PNL1_PLQ2 r/phi/z = 8.70347/-2.2402/-48.4437 cmssw side/disk/blade/pannel/plaq 1/2/16/1/2 0.939693
+344080652 FPix_BmO_D2_BLD10_PNL1_PLQ3 r/phi/z = 11.5766/-2.2365/-48.4437 cmssw side/disk/blade/pannel/plaq 1/2/16/1/3 0.939693
+344080656 FPix_BmO_D2_BLD10_PNL1_PLQ4 r/phi/z = 14.0506/-2.23453/-48.4437 cmssw side/disk/blade/pannel/plaq 1/2/16/1/4 0.939693
+344081668 FPix_BmO_D2_BLD11_PNL1_PLQ1 r/phi/z = 6.23085/-1.98431/-49.0437 cmssw side/disk/blade/pannel/plaq 1/2/17/1/1 0.939693
+344081672 FPix_BmO_D2_BLD11_PNL1_PLQ2 r/phi/z = 8.70347/-1.9784/-49.0437 cmssw side/disk/blade/pannel/plaq 1/2/17/1/2 0.939693
+344081676 FPix_BmO_D2_BLD11_PNL1_PLQ3 r/phi/z = 11.5766/-1.9747/-49.0437 cmssw side/disk/blade/pannel/plaq 1/2/17/1/3 0.939693
+344081680 FPix_BmO_D2_BLD11_PNL1_PLQ4 r/phi/z = 14.0506/-1.97273/-49.0437 cmssw side/disk/blade/pannel/plaq 1/2/17/1/4 0.939693
+344082692 FPix_BmO_D2_BLD12_PNL1_PLQ1 r/phi/z = 6.23085/-1.72251/-49.6437 cmssw side/disk/blade/pannel/plaq 1/2/18/1/1 0.939693
+344082696 FPix_BmO_D2_BLD12_PNL1_PLQ2 r/phi/z = 8.70347/-1.7166/-49.6437 cmssw side/disk/blade/pannel/plaq 1/2/18/1/2 0.939693
+344082700 FPix_BmO_D2_BLD12_PNL1_PLQ3 r/phi/z = 11.5766/-1.7129/-49.6437 cmssw side/disk/blade/pannel/plaq 1/2/18/1/3 0.939693
+344082704 FPix_BmO_D2_BLD12_PNL1_PLQ4 r/phi/z = 14.0506/-1.71093/-49.6437 cmssw side/disk/blade/pannel/plaq 1/2/18/1/4 0.939693
+344083716 FPix_BmI_D2_BLD12_PNL1_PLQ1 r/phi/z = 6.23085/-1.46071/-46.6437 cmssw side/disk/blade/pannel/plaq 1/2/19/1/1 0.939693
+344083720 FPix_BmI_D2_BLD12_PNL1_PLQ2 r/phi/z = 8.70347/-1.4548/-46.6437 cmssw side/disk/blade/pannel/plaq 1/2/19/1/2 0.939693
+344083724 FPix_BmI_D2_BLD12_PNL1_PLQ3 r/phi/z = 11.5766/-1.4511/-46.6437 cmssw side/disk/blade/pannel/plaq 1/2/19/1/3 0.939693
+344083728 FPix_BmI_D2_BLD12_PNL1_PLQ4 r/phi/z = 14.0506/-1.44913/-46.6437 cmssw side/disk/blade/pannel/plaq 1/2/19/1/4 0.939693
+344084740 FPix_BmI_D2_BLD11_PNL1_PLQ1 r/phi/z = 6.23085/-1.19891/-47.2437 cmssw side/disk/blade/pannel/plaq 1/2/20/1/1 0.939693
+344084744 FPix_BmI_D2_BLD11_PNL1_PLQ2 r/phi/z = 8.70347/-1.193/-47.2437 cmssw side/disk/blade/pannel/plaq 1/2/20/1/2 0.939693
+344084748 FPix_BmI_D2_BLD11_PNL1_PLQ3 r/phi/z = 11.5766/-1.1893/-47.2437 cmssw side/disk/blade/pannel/plaq 1/2/20/1/3 0.939693
+344084752 FPix_BmI_D2_BLD11_PNL1_PLQ4 r/phi/z = 14.0506/-1.18733/-47.2437 cmssw side/disk/blade/pannel/plaq 1/2/20/1/4 0.939693
+344085764 FPix_BmI_D2_BLD10_PNL1_PLQ1 r/phi/z = 6.23085/-0.937114/-47.8437 cmssw side/disk/blade/pannel/plaq 1/2/21/1/1 0.939693
+344085768 FPix_BmI_D2_BLD10_PNL1_PLQ2 r/phi/z = 8.70347/-0.9312/-47.8437 cmssw side/disk/blade/pannel/plaq 1/2/21/1/2 0.939693
+344085772 FPix_BmI_D2_BLD10_PNL1_PLQ3 r/phi/z = 11.5766/-0.927501/-47.8437 cmssw side/disk/blade/pannel/plaq 1/2/21/1/3 0.939693
+344085776 FPix_BmI_D2_BLD10_PNL1_PLQ4 r/phi/z = 14.0506/-0.925528/-47.8437 cmssw side/disk/blade/pannel/plaq 1/2/21/1/4 0.939693
+344086788 FPix_BmI_D2_BLD9_PNL1_PLQ1 r/phi/z = 6.23085/-0.675315/-48.4437 cmssw side/disk/blade/pannel/plaq 1/2/22/1/1 0.939693
+344086792 FPix_BmI_D2_BLD9_PNL1_PLQ2 r/phi/z = 8.70347/-0.6694/-48.4437 cmssw side/disk/blade/pannel/plaq 1/2/22/1/2 0.939693
+344086796 FPix_BmI_D2_BLD9_PNL1_PLQ3 r/phi/z = 11.5766/-0.665702/-48.4437 cmssw side/disk/blade/pannel/plaq 1/2/22/1/3 0.939693
+344086800 FPix_BmI_D2_BLD9_PNL1_PLQ4 r/phi/z = 14.0506/-0.663729/-48.4437 cmssw side/disk/blade/pannel/plaq 1/2/22/1/4 0.939693
+344087812 FPix_BmI_D2_BLD8_PNL1_PLQ1 r/phi/z = 6.23085/-0.413515/-49.0437 cmssw side/disk/blade/pannel/plaq 1/2/23/1/1 0.939693
+344087816 FPix_BmI_D2_BLD8_PNL1_PLQ2 r/phi/z = 8.70347/-0.407601/-49.0437 cmssw side/disk/blade/pannel/plaq 1/2/23/1/2 0.939693
+344087820 FPix_BmI_D2_BLD8_PNL1_PLQ3 r/phi/z = 11.5766/-0.403902/-49.0437 cmssw side/disk/blade/pannel/plaq 1/2/23/1/3 0.939693
+344087824 FPix_BmI_D2_BLD8_PNL1_PLQ4 r/phi/z = 14.0506/-0.40193/-49.0437 cmssw side/disk/blade/pannel/plaq 1/2/23/1/4 0.939693
+344088836 FPix_BmI_D2_BLD7_PNL1_PLQ1 r/phi/z = 6.23085/-0.151716/-49.6437 cmssw side/disk/blade/pannel/plaq 1/2/24/1/1 0.939693
+344088840 FPix_BmI_D2_BLD7_PNL1_PLQ2 r/phi/z = 8.70347/-0.145802/-49.6437 cmssw side/disk/blade/pannel/plaq 1/2/24/1/2 0.939693
+344088844 FPix_BmI_D2_BLD7_PNL1_PLQ3 r/phi/z = 11.5766/-0.142103/-49.6437 cmssw side/disk/blade/pannel/plaq 1/2/24/1/3 0.939693
+344088848 FPix_BmI_D2_BLD7_PNL1_PLQ4 r/phi/z = 14.0506/-0.14013/-49.6437 cmssw side/disk/blade/pannel/plaq 1/2/24/1/4 0.939693
+344065540 FPix_BmI_D2_BLD6_PNL2_PLQ1 r/phi/z = 7.41114/0.1484/-47.3563 cmssw side/disk/blade/pannel/plaq 1/2/1/2/1 -0.939693
+344065544 FPix_BmI_D2_BLD6_PNL2_PLQ2 r/phi/z = 10.3416/0.143441/-47.3563 cmssw side/disk/blade/pannel/plaq 1/2/1/2/2 -0.939693
+344065548 FPix_BmI_D2_BLD6_PNL2_PLQ3 r/phi/z = 13.2728/0.140671/-47.3563 cmssw side/disk/blade/pannel/plaq 1/2/1/2/3 -0.939693
+344066564 FPix_BmI_D2_BLD5_PNL2_PLQ1 r/phi/z = 7.41114/0.4102/-47.9563 cmssw side/disk/blade/pannel/plaq 1/2/2/2/1 -0.939693
+344066568 FPix_BmI_D2_BLD5_PNL2_PLQ2 r/phi/z = 10.3416/0.40524/-47.9563 cmssw side/disk/blade/pannel/plaq 1/2/2/2/2 -0.939693
+344066572 FPix_BmI_D2_BLD5_PNL2_PLQ3 r/phi/z = 13.2728/0.402471/-47.9563 cmssw side/disk/blade/pannel/plaq 1/2/2/2/3 -0.939693
+344067588 FPix_BmI_D2_BLD4_PNL2_PLQ1 r/phi/z = 7.41114/0.671999/-48.5563 cmssw side/disk/blade/pannel/plaq 1/2/3/2/1 -0.939693
+344067592 FPix_BmI_D2_BLD4_PNL2_PLQ2 r/phi/z = 10.3416/0.66704/-48.5563 cmssw side/disk/blade/pannel/plaq 1/2/3/2/2 -0.939693
+344067596 FPix_BmI_D2_BLD4_PNL2_PLQ3 r/phi/z = 13.2728/0.66427/-48.5563 cmssw side/disk/blade/pannel/plaq 1/2/3/2/3 -0.939693
+344068612 FPix_BmI_D2_BLD3_PNL2_PLQ1 r/phi/z = 7.41114/0.933799/-49.1563 cmssw side/disk/blade/pannel/plaq 1/2/4/2/1 -0.939693
+344068616 FPix_BmI_D2_BLD3_PNL2_PLQ2 r/phi/z = 10.3416/0.928839/-49.1563 cmssw side/disk/blade/pannel/plaq 1/2/4/2/2 -0.939693
+344068620 FPix_BmI_D2_BLD3_PNL2_PLQ3 r/phi/z = 13.2728/0.926069/-49.1563 cmssw side/disk/blade/pannel/plaq 1/2/4/2/3 -0.939693
+344069636 FPix_BmI_D2_BLD2_PNL2_PLQ1 r/phi/z = 7.41113/1.1956/-49.7563 cmssw side/disk/blade/pannel/plaq 1/2/5/2/1 -0.939693
+344069640 FPix_BmI_D2_BLD2_PNL2_PLQ2 r/phi/z = 10.3416/1.19064/-49.7563 cmssw side/disk/blade/pannel/plaq 1/2/5/2/2 -0.939693
+344069644 FPix_BmI_D2_BLD2_PNL2_PLQ3 r/phi/z = 13.2728/1.18787/-49.7563 cmssw side/disk/blade/pannel/plaq 1/2/5/2/3 -0.939693
+344070660 FPix_BmI_D2_BLD1_PNL2_PLQ1 r/phi/z = 7.41113/1.4574/-50.3563 cmssw side/disk/blade/pannel/plaq 1/2/6/2/1 -0.939693
+344070664 FPix_BmI_D2_BLD1_PNL2_PLQ2 r/phi/z = 10.3416/1.45244/-50.3563 cmssw side/disk/blade/pannel/plaq 1/2/6/2/2 -0.939693
+344070668 FPix_BmI_D2_BLD1_PNL2_PLQ3 r/phi/z = 13.2728/1.44967/-50.3563 cmssw side/disk/blade/pannel/plaq 1/2/6/2/3 -0.939693
+344071684 FPix_BmO_D2_BLD1_PNL2_PLQ1 r/phi/z = 7.41114/1.7192/-47.3563 cmssw side/disk/blade/pannel/plaq 1/2/7/2/1 -0.939693
+344071688 FPix_BmO_D2_BLD1_PNL2_PLQ2 r/phi/z = 10.3416/1.71424/-47.3563 cmssw side/disk/blade/pannel/plaq 1/2/7/2/2 -0.939693
+344071692 FPix_BmO_D2_BLD1_PNL2_PLQ3 r/phi/z = 13.2728/1.71147/-47.3563 cmssw side/disk/blade/pannel/plaq 1/2/7/2/3 -0.939693
+344072708 FPix_BmO_D2_BLD2_PNL2_PLQ1 r/phi/z = 7.41114/1.981/-47.9563 cmssw side/disk/blade/pannel/plaq 1/2/8/2/1 -0.939693
+344072712 FPix_BmO_D2_BLD2_PNL2_PLQ2 r/phi/z = 10.3416/1.97604/-47.9563 cmssw side/disk/blade/pannel/plaq 1/2/8/2/2 -0.939693
+344072716 FPix_BmO_D2_BLD2_PNL2_PLQ3 r/phi/z = 13.2728/1.97327/-47.9563 cmssw side/disk/blade/pannel/plaq 1/2/8/2/3 -0.939693
+344073732 FPix_BmO_D2_BLD3_PNL2_PLQ1 r/phi/z = 7.41114/2.2428/-48.5563 cmssw side/disk/blade/pannel/plaq 1/2/9/2/1 -0.939693
+344073736 FPix_BmO_D2_BLD3_PNL2_PLQ2 r/phi/z = 10.3416/2.23784/-48.5563 cmssw side/disk/blade/pannel/plaq 1/2/9/2/2 -0.939693
+344073740 FPix_BmO_D2_BLD3_PNL2_PLQ3 r/phi/z = 13.2728/2.23507/-48.5563 cmssw side/disk/blade/pannel/plaq 1/2/9/2/3 -0.939693
+344074756 FPix_BmO_D2_BLD4_PNL2_PLQ1 r/phi/z = 7.41114/2.5046/-49.1563 cmssw side/disk/blade/pannel/plaq 1/2/10/2/1 -0.939693
+344074760 FPix_BmO_D2_BLD4_PNL2_PLQ2 r/phi/z = 10.3416/2.49964/-49.1563 cmssw side/disk/blade/pannel/plaq 1/2/10/2/2 -0.939693
+344074764 FPix_BmO_D2_BLD4_PNL2_PLQ3 r/phi/z = 13.2728/2.49687/-49.1563 cmssw side/disk/blade/pannel/plaq 1/2/10/2/3 -0.939693
+344075780 FPix_BmO_D2_BLD5_PNL2_PLQ1 r/phi/z = 7.41113/2.76639/-49.7563 cmssw side/disk/blade/pannel/plaq 1/2/11/2/1 -0.939693
+344075784 FPix_BmO_D2_BLD5_PNL2_PLQ2 r/phi/z = 10.3416/2.76143/-49.7563 cmssw side/disk/blade/pannel/plaq 1/2/11/2/2 -0.939693
+344075788 FPix_BmO_D2_BLD5_PNL2_PLQ3 r/phi/z = 13.2728/2.75867/-49.7563 cmssw side/disk/blade/pannel/plaq 1/2/11/2/3 -0.939693
+344076804 FPix_BmO_D2_BLD6_PNL2_PLQ1 r/phi/z = 7.41113/3.02819/-50.3563 cmssw side/disk/blade/pannel/plaq 1/2/12/2/1 -0.939693
+344076808 FPix_BmO_D2_BLD6_PNL2_PLQ2 r/phi/z = 10.3416/3.02323/-50.3563 cmssw side/disk/blade/pannel/plaq 1/2/12/2/2 -0.939693
+344076812 FPix_BmO_D2_BLD6_PNL2_PLQ3 r/phi/z = 13.2728/3.02046/-50.3563 cmssw side/disk/blade/pannel/plaq 1/2/12/2/3 -0.939693
+344077828 FPix_BmO_D2_BLD7_PNL2_PLQ1 r/phi/z = 7.41114/-2.99319/-47.3563 cmssw side/disk/blade/pannel/plaq 1/2/13/2/1 -0.939693
+344077832 FPix_BmO_D2_BLD7_PNL2_PLQ2 r/phi/z = 10.3416/-2.99815/-47.3563 cmssw side/disk/blade/pannel/plaq 1/2/13/2/2 -0.939693
+344077836 FPix_BmO_D2_BLD7_PNL2_PLQ3 r/phi/z = 13.2728/-3.00092/-47.3563 cmssw side/disk/blade/pannel/plaq 1/2/13/2/3 -0.939693
+344078852 FPix_BmO_D2_BLD8_PNL2_PLQ1 r/phi/z = 7.41114/-2.73139/-47.9563 cmssw side/disk/blade/pannel/plaq 1/2/14/2/1 -0.939693
+344078856 FPix_BmO_D2_BLD8_PNL2_PLQ2 r/phi/z = 10.3416/-2.73635/-47.9563 cmssw side/disk/blade/pannel/plaq 1/2/14/2/2 -0.939693
+344078860 FPix_BmO_D2_BLD8_PNL2_PLQ3 r/phi/z = 13.2728/-2.73912/-47.9563 cmssw side/disk/blade/pannel/plaq 1/2/14/2/3 -0.939693
+344079876 FPix_BmO_D2_BLD9_PNL2_PLQ1 r/phi/z = 7.41114/-2.46959/-48.5563 cmssw side/disk/blade/pannel/plaq 1/2/15/2/1 -0.939693
+344079880 FPix_BmO_D2_BLD9_PNL2_PLQ2 r/phi/z = 10.3416/-2.47455/-48.5563 cmssw side/disk/blade/pannel/plaq 1/2/15/2/2 -0.939693
+344079884 FPix_BmO_D2_BLD9_PNL2_PLQ3 r/phi/z = 13.2728/-2.47732/-48.5563 cmssw side/disk/blade/pannel/plaq 1/2/15/2/3 -0.939693
+344080900 FPix_BmO_D2_BLD10_PNL2_PLQ1 r/phi/z = 7.41114/-2.20779/-49.1563 cmssw side/disk/blade/pannel/plaq 1/2/16/2/1 -0.939693
+344080904 FPix_BmO_D2_BLD10_PNL2_PLQ2 r/phi/z = 10.3416/-2.21275/-49.1563 cmssw side/disk/blade/pannel/plaq 1/2/16/2/2 -0.939693
+344080908 FPix_BmO_D2_BLD10_PNL2_PLQ3 r/phi/z = 13.2728/-2.21552/-49.1563 cmssw side/disk/blade/pannel/plaq 1/2/16/2/3 -0.939693
+344081924 FPix_BmO_D2_BLD11_PNL2_PLQ1 r/phi/z = 7.41113/-1.94599/-49.7563 cmssw side/disk/blade/pannel/plaq 1/2/17/2/1 -0.939693
+344081928 FPix_BmO_D2_BLD11_PNL2_PLQ2 r/phi/z = 10.3416/-1.95095/-49.7563 cmssw side/disk/blade/pannel/plaq 1/2/17/2/2 -0.939693
+344081932 FPix_BmO_D2_BLD11_PNL2_PLQ3 r/phi/z = 13.2728/-1.95372/-49.7563 cmssw side/disk/blade/pannel/plaq 1/2/17/2/3 -0.939693
+344082948 FPix_BmO_D2_BLD12_PNL2_PLQ1 r/phi/z = 7.41113/-1.6842/-50.3563 cmssw side/disk/blade/pannel/plaq 1/2/18/2/1 -0.939693
+344082952 FPix_BmO_D2_BLD12_PNL2_PLQ2 r/phi/z = 10.3416/-1.68915/-50.3563 cmssw side/disk/blade/pannel/plaq 1/2/18/2/2 -0.939693
+344082956 FPix_BmO_D2_BLD12_PNL2_PLQ3 r/phi/z = 13.2728/-1.69192/-50.3563 cmssw side/disk/blade/pannel/plaq 1/2/18/2/3 -0.939693
+344083972 FPix_BmI_D2_BLD12_PNL2_PLQ1 r/phi/z = 7.41114/-1.4224/-47.3563 cmssw side/disk/blade/pannel/plaq 1/2/19/2/1 -0.939693
+344083976 FPix_BmI_D2_BLD12_PNL2_PLQ2 r/phi/z = 10.3416/-1.42736/-47.3563 cmssw side/disk/blade/pannel/plaq 1/2/19/2/2 -0.939693
+344083980 FPix_BmI_D2_BLD12_PNL2_PLQ3 r/phi/z = 13.2728/-1.43013/-47.3563 cmssw side/disk/blade/pannel/plaq 1/2/19/2/3 -0.939693
+344084996 FPix_BmI_D2_BLD11_PNL2_PLQ1 r/phi/z = 7.41114/-1.1606/-47.9563 cmssw side/disk/blade/pannel/plaq 1/2/20/2/1 -0.939693
+344085000 FPix_BmI_D2_BLD11_PNL2_PLQ2 r/phi/z = 10.3416/-1.16556/-47.9563 cmssw side/disk/blade/pannel/plaq 1/2/20/2/2 -0.939693
+344085004 FPix_BmI_D2_BLD11_PNL2_PLQ3 r/phi/z = 13.2728/-1.16833/-47.9563 cmssw side/disk/blade/pannel/plaq 1/2/20/2/3 -0.939693
+344086020 FPix_BmI_D2_BLD10_PNL2_PLQ1 r/phi/z = 7.41114/-0.898797/-48.5563 cmssw side/disk/blade/pannel/plaq 1/2/21/2/1 -0.939693
+344086024 FPix_BmI_D2_BLD10_PNL2_PLQ2 r/phi/z = 10.3416/-0.903756/-48.5563 cmssw side/disk/blade/pannel/plaq 1/2/21/2/2 -0.939693
+344086028 FPix_BmI_D2_BLD10_PNL2_PLQ3 r/phi/z = 13.2728/-0.906526/-48.5563 cmssw side/disk/blade/pannel/plaq 1/2/21/2/3 -0.939693
+344087044 FPix_BmI_D2_BLD9_PNL2_PLQ1 r/phi/z = 7.41114/-0.636998/-49.1563 cmssw side/disk/blade/pannel/plaq 1/2/22/2/1 -0.939693
+344087048 FPix_BmI_D2_BLD9_PNL2_PLQ2 r/phi/z = 10.3416/-0.641957/-49.1563 cmssw side/disk/blade/pannel/plaq 1/2/22/2/2 -0.939693
+344087052 FPix_BmI_D2_BLD9_PNL2_PLQ3 r/phi/z = 13.2728/-0.644727/-49.1563 cmssw side/disk/blade/pannel/plaq 1/2/22/2/3 -0.939693
+344088068 FPix_BmI_D2_BLD8_PNL2_PLQ1 r/phi/z = 7.41113/-0.375198/-49.7563 cmssw side/disk/blade/pannel/plaq 1/2/23/2/1 -0.939693
+344088072 FPix_BmI_D2_BLD8_PNL2_PLQ2 r/phi/z = 10.3416/-0.380158/-49.7563 cmssw side/disk/blade/pannel/plaq 1/2/23/2/2 -0.939693
+344088076 FPix_BmI_D2_BLD8_PNL2_PLQ3 r/phi/z = 13.2728/-0.382928/-49.7563 cmssw side/disk/blade/pannel/plaq 1/2/23/2/3 -0.939693
+344089092 FPix_BmI_D2_BLD7_PNL2_PLQ1 r/phi/z = 7.41113/-0.113399/-50.3563 cmssw side/disk/blade/pannel/plaq 1/2/24/2/1 -0.939693
+344089096 FPix_BmI_D2_BLD7_PNL2_PLQ2 r/phi/z = 10.3416/-0.118358/-50.3563 cmssw side/disk/blade/pannel/plaq 1/2/24/2/2 -0.939693
+344089100 FPix_BmI_D2_BLD7_PNL2_PLQ3 r/phi/z = 13.2728/-0.121128/-50.3563 cmssw side/disk/blade/pannel/plaq 1/2/24/2/3 -0.939693
