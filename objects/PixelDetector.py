@@ -175,4 +175,9 @@ class PixelDetector():
 if __name__ == '__main__':
     pixels = PixelDetector()
     
+    print '\nprinting ROCs belonging to layer-1, module 4 and sector 3:\n'
+    selected_rocs = pixels.get(module=4, sector=3, layer=1)
+    for i in selected_rocs: 
+        print i.name
+    
 

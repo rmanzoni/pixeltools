@@ -55,7 +55,7 @@ class ROC():
         self.plaq        = int  (plaq       )
 
     def set(name, FEC, mfec, mfecchannel, hubaddress, 
-            portadd, rocid, FED, channel):
+            portadd, rocid, FED, channel, roc):
         self.name        = name       
         self.FEC         = FEC
         self.mfec        = int(mfec       )
@@ -65,6 +65,7 @@ class ROC():
         self.rocid       = int(rocid      )
         self.FED         = int(FED        )
         self.channel     = int(channel    )
+        self.roc         = int(roc        )
     
     def setcoordinates(self, r, phi, z):
         self.r   = float(r)
