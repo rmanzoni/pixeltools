@@ -2,6 +2,8 @@ import ROOT
 import numpy as np
 from itertools import product
 
+# download offline DQM root file from here https://cmsweb.cern.ch/dqm/offline/data/browse/ROOT/
+
 f1 = ROOT.TFile.Open('/Users/riccardomanzoni/Downloads/DQM_V0008_R000285090__StreamExpressPA__PARun2016B-Express-v1__DQMIO.root', 'r')
 f1.cd()
 occupancy1 = f1.Get('DQMData/Run 285090/Pixel/Run summary/Clusters/OnTrack/pix_bar Occ_roc_ontracksiPixelDigis_layer_1')

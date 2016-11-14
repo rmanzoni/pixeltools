@@ -10,3 +10,8 @@
 
 **Warning, very preliminary**
 
+
+**Offline DQM plots can be downloaded from**  
+`https://cmsweb.cern.ch/dqm/offline/data/browse/ROOT/`  
+
+
