@@ -4,29 +4,39 @@ from itertools import product
 
 f1 = ROOT.TFile.Open('/Users/riccardomanzoni/Downloads/DQM_V0008_R000285090__StreamExpressPA__PARun2016B-Express-v1__DQMIO.root', 'r')
 f1.cd()
-occupancy = f1.Get('DQMData/Run 285090/Pixel/Run summary/Clusters/OnTrack/pix_bar Occ_roc_ontracksiPixelDigis_layer_1')
+occupancy1 = f1.Get('DQMData/Run 285090/Pixel/Run summary/Clusters/OnTrack/pix_bar Occ_roc_ontracksiPixelDigis_layer_1')
+
+f2 = ROOT.TFile.Open('/Users/riccardomanzoni/Downloads/DQM_V0020_R000285216__StreamExpressPA__PARun2016B-Express-v1__DQMIO.root', 'r')
+f2.cd()
+occupancy2 = f2.Get('DQMData/Run 285216/Pixel/Run summary/Clusters/OnTrack/pix_bar Occ_roc_ontracksiPixelDigis_layer_1')
+
+f3 = ROOT.TFile.Open('/Users/riccardomanzoni/Downloads/DQM_V0011_R000285244__StreamExpressPA__PARun2016B-Express-v1__DQMIO.root', 'r')
+f3.cd()
+occupancy1 = f3.Get('DQMData/Run 285244/Pixel/Run summary/Clusters/OnTrack/pix_bar Occ_roc_ontracksiPixelDigis_layer_1')
+
+
 
 # ROC / Module
-xx = range(occupancy.GetNbinsX())
+xx = range(occupancy1.GetNbinsX())
 
 # ROC / Ladder
-yy = range(occupancy.GetNbinsY())
+yy = range(occupancy1.GetNbinsY())
 
 points = []
 
 for ix, iy in product(xx, yy):
-    point = occupancy.GetBinContent(ix, iy)
+    point = occupancy1.GetBinContent(ix, iy)
         
-#     x = int(occupancy.GetXaxis().GetBinUpEdge(ix)*2)/2 if ix < np.average(xx)+1 else int(occupancy.GetXaxis().GetBinLowEdge(ix)*2)/2
-    x = int(occupancy.GetXaxis().GetBinUpEdge(ix)-0.5) if ix < np.average(xx)+1 else int(occupancy.GetXaxis().GetBinLowEdge(ix)+0.5)
-    y = int(occupancy.GetYaxis().GetBinUpEdge(iy))     if iy < np.average(yy)+1 else int(occupancy.GetYaxis().GetBinLowEdge(iy))
+#     x = int(occupancy1.GetXaxis().GetBinUpEdge(ix)*2)/2 if ix < np.average(xx)+1 else int(occupancy1.GetXaxis().GetBinLowEdge(ix)*2)/2
+    x = int(occupancy1.GetXaxis().GetBinUpEdge(ix)-0.5) if ix < np.average(xx)+1 else int(occupancy1.GetXaxis().GetBinLowEdge(ix)+0.5)
+    y = int(occupancy1.GetYaxis().GetBinUpEdge(iy))     if iy < np.average(yy)+1 else int(occupancy1.GetYaxis().GetBinLowEdge(iy))
         
     if y<0:
-        roc_one_half = 2 if abs(y - int(occupancy.GetYaxis().GetBinLowEdge(iy))) < 0.5 else 1
+        roc_one_half = 2 if abs(y - int(occupancy1.GetYaxis().GetBinLowEdge(iy))) < 0.5 else 1
     elif y>0:
-        roc_one_half = 2 if abs(y - int(occupancy.GetYaxis().GetBinUpEdge(iy))) > 0.5 else 1
+        roc_one_half = 2 if abs(y - int(occupancy1.GetYaxis().GetBinUpEdge(iy))) > 0.5 else 1
        
-    roc_one_eight =int(((occupancy.GetXaxis().GetBinLowEdge(ix) - x) + 0.5) * 8)
+    roc_one_eight =int(((occupancy1.GetXaxis().GetBinLowEdge(ix) - x) + 0.5) * 8)
 
     if roc_one_half == 1:
         roc = roc_one_eight
@@ -40,7 +50,7 @@ for ix, iy in product(xx, yy):
     
     points.append((x, y, roc, point))    
 
-# sort by occupancy
+# sort by occupancy1
 points.sort(key=lambda t : t[3])
 
 low_but_not_zero = [p for p in points if p[3]>0]
@@ -51,12 +61,48 @@ low_but_not_zero_and_not_minus_four = [p for p in low_but_not_zero if p[0]>-4]
 # for p in low_but_not_zero[:50]:
 #     print 'module %d\tladder %d\troc %d\tcounts %d' %(p[0], p[1], p[2], p[3])
 
-# for p in points[:50]:
+# for p in points[:500]:
 #     print 'module %d\tladder %d\troc %d\tcounts %d' %(p[0], p[1], p[2], p[3])
+#     print '    (%d, %d, %d),' %(p[0], p[1], p[2])
 
 # print the 30 least occupied ROCs
-for p in low_but_not_zero_and_not_minus_four[:50]:
+# for p in low_but_not_zero_and_not_minus_four[:50]:
+#     print 'module %d\tladder %d\troc %d\tcounts %d' %(p[0], p[1], p[2], p[3])
+
+
+
+
+to_tune = []
+
+for p in low_but_not_zero:
+
+    if abs(p[0])==4 and p[3]<350000:
+        to_tune.append(p)
+
+    if p[0]==-3 and p[3]<600000:
+        to_tune.append(p)
+
+    if p[0]==3 and p[3]<1000000:
+        to_tune.append(p)
+
+    if abs(p[0])<3 and p[3]<1000000:
+        to_tune.append(p)
+
+for p in to_tune[:500]:
     print 'module %d\tladder %d\troc %d\tcounts %d' %(p[0], p[1], p[2], p[3])
+
+for p in to_tune[:500]:
+    print '    (%d, %d, %d),' %(p[0], p[1], p[2])
+
+
+
+
+
+
+
+
+
+
 
 
 # module 4	ladder 8	roc 5	counts 1801    ok

@@ -1,3 +1,4 @@
+import re
 import pickle
 from collections import OrderedDict
 from  readPixels import PixelROC
@@ -9,9 +10,9 @@ pixel_file.close()
 
 
 def findByCoordinates(pixels, r, phi, z, 
-                      r_tolerance = 1., 
-                      phi_tolerance = 0.1, 
-                      z_tolerance = 1.):
+                      r_tolerance = 2., 
+                      phi_tolerance = 0.2, 
+                      z_tolerance = 3.):
     
     selectedPix = OrderedDict()
     
@@ -114,11 +115,6 @@ tofind = [
     (-4,  8, 0	),# module -4	ladder 8	roc 0	
 ]
 
-
-
-
-
-
 tofind = [
     (4 ,  8, 5	),# module 4	ladder 8	roc 5	counts 1801
     (-1,  3, 3	),# module -1	ladder 3	roc 3	counts 6408
@@ -172,31 +168,115 @@ tofind = [
     (4 ,  4, 1	),# module 4	ladder 4	roc 1	counts 81170
 ]
 
+tofind = [
+    (4, 8, 5),
+    (-1, -1, 2),
+    (-4, -8, 7),
+    (-3, -9, 4),
+    (1, 3, 8),
+    (-4, 9, 15),
+    (-4, 9, 14),
+    (2, 3, 13),
+    (-2, 5, 10),
+    (-3, 9, 0),
+    (-1, -9, 13),
+    (1, 2, 6),
+    (-2, 2, 1),
+    (-3, 1, 3),
+    (1, 1, 15),
+    (1, 1, 9),
+    (-1, -6, 0),
+    (-2, 3, 3),
+    (3, -3, 1),
+    (-2, 1, 10),
+    (-2, 8, 7),
+    (1, 1, 2),
+    (-1, 6, 2),
+    (2, 4, 14),
+    (2, -9, 14),
+    (1, -9, 4),
+    (-2, -9, 8),
+    (2, 3, 14),
+    (-2, 2, 2),
+    (-1, -4, 1),
+    (-2, -3, 8),
+    (1, 2, 0),
+    (-2, 9, 4),
+    (-2, 4, 15),
+    (3, 8, 9),
+    (-2, 5, 6),
+    (1, 8, 10),
+    (2, 4, 3),
+    (1, 9, 6),
+    (-2, -2, 7),
+    (2, 8, 4),
+    (2, -2, 13),
+    (-2, 4, 1),
+    (-1, 2, 2),
+    (1, -9, 1),
+    (3, -5, 9),
+]
+
+
 keys = pixels.keys()
+keys_lyr_one = [k for k in keys if 'LYR1' in k]
 
-
-
-
+totune = []
 
 for ff in tofind:
-    rocs = keys
+    rocs = keys_lyr_one
     
     print 'module %d ladder %d roc %d' %(ff[0], ff[1], ff[2])
     
-    # layer
-    rocs = [k for k in rocs if 'LYR1' in k]
+#     if ff[0]==1 and ff[1]==1 and ff[2]==15:        import pdb ; pdb.set_trace()
+    
     # module
     rocs = [k for k in rocs if 'MOD%d'%abs(ff[0]) in k]
     # sign of the module
     rocs = [k for k in rocs if (('Bm' in k and ff[0]<0) or ('Bp' in k and ff[0]>0))]
-    # ladder
-    rocs = [k for k in rocs if 'LDR%d'%abs(ff[1]) in k]
+    # ladder    
+    rocs = [k for k in rocs if int(re.findall('LDR(\d+)', k)[0]) == abs(ff[1])]    
+    #rocs = [k for k in rocs if 'LDR%d'%abs(ff[1]) in k]
     # sign of the ladder
     rocs = [k for k in rocs if (('O_SEC' in k and ff[1]<0) or ('I_SEC' in k and ff[1]>0))]
     # roc
     rocs = [k for k in rocs if k.endswith('ROC%d'%ff[2])]
 
     print rocs
+    
+    totune.extend(rocs)
+
+
+for i in set(totune):
+    print i
+
+
+
+# print '=======================\n\n\n\n'
+# from itertools import product
+# from collections import namedtuple
+# 
+# phis = [-1+0.25*i for i in range(9)]
+# zs   = [-30+3*i   for i in range(21)]
+# 
+# module = namedtuple('module', 'name phi z')
+# modules = []
+# 
+# for phi, z in product(phis, zs):
+#     holes = {}
+#     holes.update(findByCoordinates(pixels, 4, phi, z))
+#     names = ['_'.join(k.split('_')[:-1]) for k in holes.keys()]
+#     for nn in set(names):
+#         modules.append( module(nn, phi, z) )
+# 
+# bb = []
+# 
+# for i in modules: 
+#     bb.append(i.name)
+# 
+# aa = set(bb)
+# 
+# for i in aa: print i
 
 
 
