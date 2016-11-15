@@ -16,6 +16,7 @@ class ROC():
                  rocid       = -999, 
                  FED         = -999, 
                  channel     = -999, 
+                 rocnumber   = -999,
                  roc         = -999,
                  r           = -999.,
                  phi         = -999.,
@@ -39,6 +40,7 @@ class ROC():
         self.rocid       = int  (rocid      )
         self.FED         = int  (FED        )
         self.channel     = int  (channel    )
+        self.rocnumber   = int  (rocnumber  )
         self.roc         = int  (roc        )
         self.r           = float(r          )
         self.phi         = float(phi        )
@@ -55,7 +57,7 @@ class ROC():
         self.plaq        = int  (plaq       )
 
     def set(name, FEC, mfec, mfecchannel, hubaddress, 
-            portadd, rocid, FED, channel, roc):
+            portadd, rocid, FED, channel, rocnumber, roc):
         self.name        = name       
         self.FEC         = FEC
         self.mfec        = int(mfec       )
@@ -65,6 +67,7 @@ class ROC():
         self.rocid       = int(rocid      )
         self.FED         = int(FED        )
         self.channel     = int(channel    )
+        self.rocnumber   = int(rocnumber  )
         self.roc         = int(roc        )
     
     def setcoordinates(self, r, phi, z):
@@ -102,6 +105,7 @@ class ROC():
             '\trocid        {rocid}\n'\
             '\tFED          {FED}\n'\
             '\tchannel      {channel}\n'\
+            '\trocnumber    {rocnumber}\n'\
             '\troc          {roc}\n'\
             '\tr            {r}\n'\
             '\tphi          {phi}\n'\
@@ -124,6 +128,7 @@ class ROC():
                  rocid       = self.rocid      ,
                  FED         = self.FED        ,
                  channel     = self.channel    ,
+                 rocnumber   = self.rocnumber  ,
                  roc         = self.roc        ,
                  r           = self.r          ,
                  phi         = self.phi        ,

@@ -64,7 +64,8 @@ class PixelDetector():
                 rocid       = infos[7],
                 FED         = infos[8],
                 channel     = infos[9],
-                roc         = infos[10],
+                rocnumber   = infos[10],
+                roc         = int(re.findall('ROC(\d+)', infos[0])[0]),
                 sector      = int(re.findall('SEC(\d+)', infos[0])[0]),
                 layer       = int(re.findall('LYR(\d+)', infos[0])[0]),
                 half        = infos[0].split('_')[4][-1],
@@ -130,6 +131,7 @@ class PixelDetector():
             - rocid       : int
             - FED         : int
             - channel     : int
+            - rocnumber   : int
             - roc         : int
             - r           : tuple (center value, tolerance)
             - phi         : tuple (center value, tolerance)
@@ -155,7 +157,7 @@ class PixelDetector():
             if key in ['r', 'phi', 'z']:
                 selected_rocs = [roc for roc in selected_rocs if (getattr(roc, key) > (kwargs[key][0]-kwargs[key][1]) and getattr(roc, key) < (kwargs[key][0]+kwargs[key][1]))]        
             else:
-                selected_rocs = [roc for roc in selected_rocs if getattr(roc, key) == kwargs[key]]        
+                selected_rocs = [roc for roc in selected_rocs if getattr(roc, key) == kwargs[key]]
         return selected_rocs
         
     def dump(self, filename='../data/pixels.pkl'):
