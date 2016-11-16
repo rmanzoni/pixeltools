@@ -56,6 +56,7 @@ def readOccupancyPlot(occupancy):
         else:
             print 'fuck you' 
         
+        # true only for layer-1
         if x==0  or y==0 or abs(y)>9 or abs(x)>4:
             continue
         
