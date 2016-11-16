@@ -156,6 +156,8 @@ class PixelDetector():
         for key in kwargs.keys():
             if key in ['r', 'phi', 'z']:
                 selected_rocs = [roc for roc in selected_rocs if (getattr(roc, key) > (kwargs[key][0]-kwargs[key][1]) and getattr(roc, key) < (kwargs[key][0]+kwargs[key][1]))]        
+            elif key == 'name':
+                selected_rocs = [roc for roc in selected_rocs if kwargs[key] in getattr(roc, key)]
             else:
                 selected_rocs = [roc for roc in selected_rocs if getattr(roc, key) == kwargs[key]]
         return selected_rocs
