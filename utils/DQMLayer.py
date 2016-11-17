@@ -7,8 +7,12 @@ from itertools import product
 import numpy as np
 
 def setbinx(module, roc):
-    if roc > 7:
+    if roc > 7 and module < 0:
         roc = 15 - roc
+    if roc <= 7 and module > 0:
+        roc = 7 - roc
+    if roc > 7 and module > 0:
+        roc = roc - 8 
     x  = 36 + 1 + 8 * module
     x += (roc-4)
     return x
@@ -18,13 +22,17 @@ def setbiny(ladder, roc, layer):
     if layer==2: half_n_bins = 33
     if layer==3: half_n_bins = 45
 
-    y  = half_n_bins + 1 + 2 * ladder - (ladder<0)
-    if   ladder > 0 and abs(ladder)!=1 or abs(ladder)!=10:
+    y  = half_n_bins + 2 * ladder + (ladder<0)
+    if   ladder > 0 and abs(ladder)!=1 and abs(ladder)!=10:
         y += (roc>7)
-    elif ladder > 0 and abs(ladder)!=1 or abs(ladder)!=10:
+    elif ladder < 0 and abs(ladder)!=1 and abs(ladder)!=10:
         y -= (roc<=7)
     else:
         pass
+    
+    y += (ladder==1)
+    y -= (ladder==-1)
+    
     return y
 
 
@@ -70,7 +78,7 @@ def readOccupancyPlot(occupancy):
             if roc_one_half == 1:
                 roc = 7 - roc_one_eight
             elif roc_one_half == 2:
-                roc = 7 + roc_one_eight 
+                roc = 8 + roc_one_eight 
             else:
                 print 'fuck you' 
            
@@ -103,8 +111,9 @@ def fillOccupancyPlot(rocs, layer):
 
     for roc in rocs:
         x = setbinx(roc.module, roc.roc)
-        y = setbiny(roc.ladder, roc.roc, layer)                
+        y = setbiny(roc.ladder, roc.roc, layer)     
         content = histo.GetBinContent(x, y)
+        #histo.SetBinContent(x, y, content+roc.roc+1)
         if hasattr(roc, 'counts'):
             histo.SetBinContent(x, y, content+roc.counts)
         else:
