@@ -50,21 +50,23 @@ def readOccupancyPlot(occupancy):
     
     for ix, iy in product(xx, yy):
         point = occupancy.GetBinContent(ix, iy)
-                    
-        x = int(occupancy.GetXaxis().GetBinUpEdge(ix)-0.5) if ix < np.average(xx)+1 else int(occupancy.GetXaxis().GetBinLowEdge(ix)+0.5)
-        y = int(occupancy.GetYaxis().GetBinUpEdge(iy)-0.5) if iy < np.average(yy)+1 else int(occupancy.GetYaxis().GetBinLowEdge(iy)+0.5)
+          
+        xbinlow = occupancy.GetXaxis().GetBinLowEdge(ix)  
+        xbinup  = occupancy.GetXaxis().GetBinUpEdge (ix)
+        ybinlow = occupancy.GetYaxis().GetBinLowEdge(iy)  
+        ybinup  = occupancy.GetYaxis().GetBinUpEdge (iy)
+                            
+        x = int(xbinup - 0.5) if ix < np.average(xx) + 1 else int(xbinlow + 0.5)
+        y = int(ybinup - 0.5) if iy < np.average(yy) + 1 else int(ybinlow + 0.5)
         
         roc_one_half = 1
-        
-        if y<-1 and y>-10:
-            roc_one_half = 2 if abs(y - int(occupancy.GetYaxis().GetBinLowEdge(iy)+0.5)) > 0.5 else 1
-        elif y>1 and y<10:
-            roc_one_half = 2 if abs(y - int(occupancy.GetYaxis().GetBinUpEdge(iy)-0.5)) < 0.5 else 1
-        
-        if abs(y)==1 or abs(y)==10:
-            roc_one_half = 2 if x < 0 else 1
-           
-        roc_one_eight =int(((occupancy.GetXaxis().GetBinLowEdge(ix) - x) + 0.5) * 8)
+
+        if y<0:
+            roc_one_half = 2 if abs(y - int(ybinlow + 0.5)) > 0.5 else 1
+        else:
+            roc_one_half = 2 if abs(y - int(ybinup - 0.5)) < 0.5 else 1
+                   
+        roc_one_eight = int(((xbinlow - x) + 0.5) * 8)
     
         if x < 0:
             if roc_one_half == 1:
@@ -82,14 +84,19 @@ def readOccupancyPlot(occupancy):
             else:
                 print 'fuck you' 
            
-        # true only for layer-1
-        if ix>=33 and ix<=40:
+        if x==0:
             continue
+
+        # true only for layer-1
         if iy==1 or iy==42:
             continue
         if iy>=20 and iy<=23:
             continue
-        
+ 
+        # flipped ladders
+        if (np.sign(x)*y)%2 == (x*y>0):
+           roc = 15 - roc
+       
         points.append((x, y, roc, point, ix, iy))    
         # points.append((x, y, roc, point))    
     
