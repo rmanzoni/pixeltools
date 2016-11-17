@@ -23,6 +23,7 @@ quadruplets = [
     ('../data/dqmfiles/DQM_V0020_R000285216__StreamExpressPA__PARun2016B-Express-v1__DQMIO.root', 'DQMData/Run 285216/Pixel/Run summary/Clusters/OnTrack/pix_bar Occ_roc_ontracksiPixelDigis_layer_1', 'pPb collisions - Run 285216', 'layer_one_occupancy_run285216.pdf'),
     ('../data/dqmfiles/DQM_V0011_R000285244__StreamExpressPA__PARun2016B-Express-v1__DQMIO.root', 'DQMData/Run 285244/Pixel/Run summary/Clusters/OnTrack/pix_bar Occ_roc_ontracksiPixelDigis_layer_1', 'pPb collisions - Run 285244', 'layer_one_occupancy_run285244.pdf'),
     ('../data/dqmfiles/DQM_V0007_R000285368__StreamExpressPA__PARun2016B-Express-v1__DQMIO.root', 'DQMData/Run 285368/Pixel/Run summary/Clusters/OnTrack/pix_bar Occ_roc_ontracksiPixelDigis_layer_1', 'pPb collisions - Run 285368', 'layer_one_occupancy_run285368.pdf'),
+    ('../data/dqmfiles/DQM_V0020_R000285371__StreamExpressPA__PARun2016B-Express-v1__DQMIO.root', 'DQMData/Run 285371/Pixel/Run summary/Clusters/OnTrack/pix_bar Occ_roc_ontracksiPixelDigis_layer_1', 'pPb collisions - Run 285371', 'layer_one_occupancy_run285371.pdf'),
 ]
 
 aaa = OrderedDict()
@@ -64,40 +65,46 @@ for tt in quadruplets:
         average = np.average([i.counts for i in block])
         rms = np.std([i.counts for i in block])
         lowoccupancy.extend([i for i in block if i.counts < average - 2 * rms])
-
+        #if module==-2 and ladder==2:
+        #    print tt[2], 'ladder 2, module -2'
+        #    print 'average occupancy', average
+        #    print 'rms', rms
+        #    print 'occupancy ROC 14', [p for p in block if p.roc==14][0].counts
+        #    print 'deviation from average', ([p for p in block if p.roc==14][0].counts - average)/rms
+        
     # for roc in lowoccupancy:
     #     print roc.name#, roc.counts, roc.module, roc.ladder
         
     aaa.update({int(tt[2].split()[-1]):sorted(lowoccupancy, key=lambda x:x.name)})
      
-#     hh = fillOccupancyPlot(matched, 1)
+    hh = fillOccupancyPlot(matched, 1)
+
+    histo = ROOT.TH2F('occupancy layer-1', 'occupancy layer-1', 72, -4.5, 4.5, 42, -10.5, 10.5)
+    for p in points:
+        histo.SetBinContent(p[4], p[5], p[2]+1)
+    ROOT.gStyle.SetOptStat(0)
+    histo.GetXaxis().SetTitle('Module')
+    histo.GetYaxis().SetTitle('Ladder')
+    histo.GetZaxis().SetTitle('ROC')
+    histo.Draw('colz')
+    ROOT.gPad.Update()
+
+
+
+
+# allrocs = []
 # 
-#     histo = ROOT.TH2F('occupancy layer-1', 'occupancy layer-1', 72, -4.5, 4.5, 42, -10.5, 10.5)
-#     for p in points:
-#         histo.SetBinContent(p[4], p[5], p[2]+1)
-#     ROOT.gStyle.SetOptStat(0)
-#     histo.GetXaxis().SetTitle('Module')
-#     histo.GetYaxis().SetTitle('Ladder')
-#     histo.GetZaxis().SetTitle('ROC')
-#     histo.Draw('colz')
-#     ROOT.gPad.Update()
-
-
-
-
-allrocs = []
-
-for i in aaa.values():
-    allrocs.extend(i)
-
-allrocs = list(set(allrocs))
-
-
-jj = ROOT.TH2F('lowOccVsRun', 'lowOccVsRun', len(allrocs), 0, len(allrocs)-1, 5, 0, 5)
-
-for k, v in aaa.iteritems():
-    for vv in v:
-        jj.Fill(str(k), vv.name, 1.)
+# for i in aaa.values():
+#     allrocs.extend(i)
+# 
+# allrocs = list(set(allrocs))
+# 
+# 
+# jj = ROOT.TH2F('lowOccVsRun', 'lowOccVsRun', len(allrocs), 0, len(allrocs)-1, 5, 0, 5)
+# 
+# for k, v in aaa.iteritems():
+#     for vv in v:
+#         jj.Fill(str(k), vv.name, 1.)
     
     
 
